@@ -1,0 +1,252 @@
+{
+  "The Simpsons": [
+    {
+      "source": "friends",
+      "episode": "Friends - 10x06 - The One With Ross's Grant.en",
+      "line": "Excellent."
+    },
+    {
+      "source": "friends",
+      "episode": "Friends - 10x12 - The One With Phoebe's Wedding.en",
+      "line": "...great."
+    },
+    {
+      "source": "friends",
+      "episode": "Friends - 2x21 - The One With The Bullies.BluRay.en",
+      "line": "Excellent."
+    },
+    {
+      "source": "friends",
+      "episode": "Friends - 8x05 - The One With Rachel's Date.en",
+      "line": "Great. Well..."
+    }
+  ],
+  "When Harry Met Sally...": [
+    {
+      "source": "friends",
+      "episode": "Friends - 10x09 - The One With The Birth Mother.en",
+      "line": "- I'll just have what she's having. - I'm sorry, sir."
+    }
+  ],
+  "All About Eve": [
+    {
+      "source": "friends",
+      "episode": "Friends - 1x13 - The One With the Boobies.BluRay.en",
+      "line": "Fasten your seat belts..."
+    }
+  ],
+  "Mighty Morphin Power Rangers": [
+    {
+      "source": "friends",
+      "episode": "Friends - 1x22 - The One With the Ick Factor.BluRay.en",
+      "line": "It's morphing time."
+    }
+  ],
+  "star wars": [
+    {
+      "source": "friends",
+      "episode": "Friends - 2x14 - The One With The Prom Video.BluRay.en",
+      "line": "You know, Roy saw Star Wars 317 times."
+    }
+  ],
+  "Dr. No": [
+    {
+      "source": "friends",
+      "episode": "Friends - 2x15 - The One Where Ross And Rachel...You Know.BluRay.en",
+      "line": "It's James Bond!"
+    }
+  ],
+  "titanic": [
+    {
+      "source": "friends",
+      "episode": "Friends - 3x06 - The One With The Flashback.en",
+      "line": "You can't even see where the Titanic hit it."
+    },
+    {
+      "source": "friends",
+      "episode": "Friends - 4x23 - The One With Ross's Wedding (1).en",
+      "line": "Earlier, he thanked me for my very|moving performance in \"Titanic\"."
+    },
+    {
+      "source": "friends",
+      "episode": "Friends - 7x09 - The One With All The Candy.en",
+      "line": "Hey, you cry every time somebody talks about <i>Titanic. </i>"
+    }
+  ],
+  "Columbo": [
+    {
+      "source": "friends",
+      "episode": "Friends - 3x11 - The One Where Chandler Can't Remember Which Sister.en",
+      "line": "Just one other thing."
+    },
+    {
+      "source": "friends",
+      "episode": "Friends - 3x24 - The One With The Ultimate Fighting Champion.en",
+      "line": "One other thing."
+    },
+    {
+      "source": "friends",
+      "episode": "Friends - 5x05 - The One With The Kips.en",
+      "line": "...one thing."
+    }
+  ],
+  "Family Matters": [
+    {
+      "source": "friends",
+      "episode": "Friends - 3x11 - The One Where Chandler Can't Remember Which Sister.en",
+      "line": "I did?"
+    },
+    {
+      "source": "friends",
+      "episode": "Friends - 4x17 - The One With The Free Porn.en",
+      "line": "You did that?"
+    },
+    {
+      "source": "friends",
+      "episode": "Friends - 7x02 - The One With Rachel's Book.en",
+      "line": "I did?"
+    }
+  ],
+  "citizen kane": [
+    {
+      "source": "friends",
+      "episode": "Friends - 3x13 - The One Where Monica And Richard Are Just Friends.en",
+      "line": "He'll go to the counter with Citizen Kane, Vertigo and Clockwork Orgy."
+    },
+    {
+      "source": "friends",
+      "episode": "Friends - 8x12 - The One Where Joey Dates Rachel.en",
+      "line": "Relax, it isn't \"Citizen Kane.\""
+    }
+  ],
+  "jurassic park": [
+    {
+      "source": "friends",
+      "episode": "Friends - 4x02 - The One With The Cat.en",
+      "line": "\"Jurassic Park\" could happen."
+    },
+    {
+      "source": "friends",
+      "episode": "Friends - 7x02 - The One With Rachel's Book.en",
+      "line": ". . .that I had the idea for Jurassic Park first."
+    }
+  ],
+  "Scarface": [
+    {
+      "source": "friends",
+      "episode": "Friends - 4x15 - The One With All The Rugby.en",
+      "line": "I'm going to go say \"hello\"."
+    }
+  ],
+  "die hard": [
+    {
+      "source": "friends",
+      "episode": "Friends - 4x21 - The One With The Invitations.en",
+      "line": "While we're at the video store,|we could rent \"Die Hard\"!"
+    },
+    {
+      "source": "friends",
+      "episode": "Friends - 4x21 - The One With The Invitations.en",
+      "line": "...we'll get off our butts|and rent \"Die Hard\" again!"
+    },
+    {
+      "source": "friends",
+      "episode": "Friends - 4x21 - The One With The Invitations.en",
+      "line": "If we do that,|we've got to rent \"Die Hard\"."
+    },
+    {
+      "source": "friends",
+      "episode": "Friends - 7x06 - The One With The Nap Partners.en",
+      "line": "Die Hard 2."
+    },
+    {
+      "source": "friends",
+      "episode": "Friends - 7x06 - The One With The Nap Partners.en",
+      "line": "Joey, this is Die Hard 1 again."
+    },
+    {
+      "source": "friends",
+      "episode": "Friends - 7x06 - The One With The Nap Partners.en",
+      "line": "Well, we'll watch it a second time and it's Die Hard 2."
+    },
+    {
+      "source": "friends",
+      "episode": "Friends - 7x06 - The One With The Nap Partners.en",
+      "line": "-Yeah! Die Hard! -Die Hard!"
+    },
+    {
+      "source": "friends",
+      "episode": "Friends - 7x06 - The One With The Nap Partners.en",
+      "line": "Dude, you didn't say Die Hard."
+    }
+  ],
+  "The Price Is Right": [
+    {
+      "source": "friends",
+      "episode": "Friends - 5x08 - The One With The Thanksgiving Flashbacks.en",
+      "line": "Come down, everyone's here!"
+    }
+  ],
+  "Seinfeld": [
+    {
+      "source": "friends",
+      "episode": "Friends - 5x18 - The One Where Rachel Smokes.en",
+      "line": "Mmm... soup."
+    },
+    {
+      "source": "friends",
+      "episode": "Friends - 5x18 - The One Where Rachel Smokes.en",
+      "line": "I mean, noodle soup.|I mean, soup!"
+    }
+  ],
+  "E.T. the Extra-Terrestrial": [
+    {
+      "source": "friends",
+      "episode": "Friends - 5x20 - The One With The Ride Along.en",
+      "line": "Phone home."
+    }
+  ],
+  "gladiator": [
+    {
+      "source": "friends",
+      "episode": "Friends - 5x23 - The One In Vegas (1).en",
+      "line": "Why are you dressed as a gladiator?"
+    },
+    {
+      "source": "friends",
+      "episode": "Friends - 5x23 - The One In Vegas (1).en",
+      "line": "Because I'm shooting a scene right now.|I play a gladiator."
+    },
+    {
+      "source": "friends",
+      "episode": "Friends - 5x23 - The One In Vegas (1).en",
+      "line": "All right, it's not a gladiator movie.|I work here."
+    },
+    {
+      "source": "friends",
+      "episode": "Friends - 5x23 - The One In Vegas (1).en",
+      "line": "- I knew you weren't okay with that.|- So you're a gladiator!"
+    }
+  ],
+  "toy story": [
+    {
+      "source": "friends",
+      "episode": "Friends - 6x14 - The One Where Chandler Can't Cry (2).en",
+      "line": "No, it was. She was in Sex Toy Story Two..."
+    }
+  ],
+  "the terminator": [
+    {
+      "source": "friends",
+      "episode": "Friends - 6x21 - The One Where Ross Meets Elizabeth's Dad.en",
+      "line": "Like the Terminator, or when I first saw you."
+    }
+  ],
+  "Jaws": [
+    {
+      "source": "friends",
+      "episode": "Friends - 8x13 - The One Where Chandler Takes A Bath.en",
+      "line": "I'm gonna need a bigger boat."
+    }
+  ]
+}

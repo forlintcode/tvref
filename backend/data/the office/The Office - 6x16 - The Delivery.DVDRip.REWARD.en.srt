@@ -1,0 +1,2300 @@
+1
+00:00:01,167 --> 00:00:02,395
+(PHONE RINGING)
+
+2
+00:00:02,469 --> 00:00:03,868
+<i>OPERATOR: Vancouver Court
+Hotel, how may I help you?</i>
+
+3
+00:00:03,937 --> 00:00:06,030
+Hello, Vancouver,
+this is Michael Scott
+
+4
+00:00:06,106 --> 00:00:08,540
+calling from
+the United States of America.
+
+5
+00:00:08,608 --> 00:00:10,701
+I have a reservation
+in your fair city
+
+6
+00:00:10,777 --> 00:00:13,245
+from February 12th
+to the 19th.
+
+7
+00:00:13,446 --> 00:00:14,845
+First week of the Olympics.
+
+8
+00:00:14,914 --> 00:00:16,279
+<i>Well, we're looking forward
+to having you,</i>
+
+9
+00:00:16,349 --> 00:00:17,941
+<i>so let me just pull up
+your information here.</i>
+
+10
+00:00:18,018 --> 00:00:19,042
+Oki-doke.
+
+11
+00:00:19,119 --> 00:00:20,814
+<i>Uh, I don't seem
+to have it, sir.</i>
+
+12
+00:00:21,221 --> 00:00:22,245
+What?
+
+13
+00:00:22,322 --> 00:00:23,653
+I'm not seeing anything
+under confirmation...
+
+14
+00:00:23,723 --> 00:00:25,782
+No. No. Could it be under "affirmation?"
+
+15
+00:00:25,859 --> 00:00:26,883
+'Cause you have
+thousands of those.
+
+16
+00:00:26,960 --> 00:00:28,791
+We're just trying to
+look it up right now.
+
+17
+00:00:28,862 --> 00:00:31,023
+You did get the
+e-vite to my barbeque.
+
+18
+00:00:31,097 --> 00:00:32,530
+Come on, Dwight.
+Michael.
+
+19
+00:00:32,599 --> 00:00:35,625
+<i>OPERATOR: Sir, a lot of people are
+trying to get last-minute reservations</i>
+
+20
+00:00:35,702 --> 00:00:37,226
+<i>at hotels here
+for the Olympics,</i>
+
+21
+00:00:37,303 --> 00:00:38,793
+<i>but we've been
+fully booked for months.</i>
+
+22
+00:00:38,872 --> 00:00:42,672
+Well, I have been booked for three
+years, so you should have that.
+
+23
+00:00:42,742 --> 00:00:45,233
+I have always heard that British
+Columbia is a very nice place,
+
+24
+00:00:45,311 --> 00:00:47,939
+but I'm not getting that
+from this conversation.
+
+25
+00:00:48,014 --> 00:00:52,314
+Wait, I got it! Confirmation
+code, X-V-2-R-D-M.
+
+26
+00:00:53,586 --> 00:00:54,644
+<i>Oh.</i>
+
+27
+00:00:54,721 --> 00:00:56,188
+<i>Here it is. Yeah.
+Oh.</i>
+
+28
+00:00:56,256 --> 00:00:57,314
+<i>OPERATOR: Uh-huh.
+Thank you.</i>
+
+29
+00:00:57,390 --> 00:00:59,688
+<i>Seven nights in our
+street-view economy single.</i>
+
+30
+00:00:59,759 --> 00:01:00,919
+<i>That's it.
+Yeah.</i>
+
+31
+00:01:00,994 --> 00:01:04,088
+<i>We changed systems a
+while back. I do apologize.</i>
+
+32
+00:01:04,197 --> 00:01:05,323
+Okay.
+Okay.
+
+33
+00:01:05,398 --> 00:01:06,797
+<i>(STAMMERS) How may I
+help you, Mr. Scott?</i>
+
+34
+00:01:06,866 --> 00:01:10,199
+All right. I would like to
+cancel my reservation, please.
+
+35
+00:01:10,270 --> 00:01:12,135
+<i>There is a cancellation fee
+for this, sir.</i>
+
+36
+00:01:12,205 --> 00:01:14,298
+Okay, put it on my card.
+
+37
+00:01:35,328 --> 00:01:37,489
+<i>MICHAEL: Today, Jo Bennett,
+the CEO from Sabre</i>
+
+38
+00:01:37,564 --> 00:01:40,260
+<i>is coming to see us
+here for the first time.</i>
+
+39
+00:01:40,834 --> 00:01:44,133
+She bought us sight unseen,
+like a mail-order bride,
+
+40
+00:01:44,304 --> 00:01:47,432
+<i>(CHUCKLES) so she's gotta be kind
+of nervous. I mean, are we ugly?</i>
+
+41
+00:01:47,507 --> 00:01:50,340
+<i>Are we smart? Are we cool?
+Are we too cool? (BARKING)</i>
+
+42
+00:01:50,643 --> 00:01:52,406
+Do we speak English?
+
+43
+00:01:53,480 --> 00:01:55,311
+(JO LAUGHING)
+
+44
+00:01:57,317 --> 00:01:59,308
+Why, hello!
+
+45
+00:01:59,385 --> 00:02:00,579
+GABE: This is
+Michael Scott,
+
+46
+00:02:00,653 --> 00:02:02,211
+co-regional manager
+of this branch.
+
+47
+00:02:02,288 --> 00:02:03,482
+Pleasure to meet you,
+Miss Bennett.
+
+48
+00:02:03,556 --> 00:02:05,148
+Uh, that's Mrs. Bennett,
+sweetheart.
+
+49
+00:02:05,225 --> 00:02:07,523
+My husband and I are divorced
+but I kept the "missus"
+
+50
+00:02:07,594 --> 00:02:09,858
+just to piss off the new wife. Oh.
+
+51
+00:02:09,929 --> 00:02:11,988
+(ALL LAUGHING) Well, let's
+take a gander around this place.
+
+52
+00:02:12,065 --> 00:02:13,657
+These sure are
+pretty dogs.
+
+53
+00:02:13,733 --> 00:02:15,496
+JO: (CHUCKLING)
+They love a good crotch.
+
+54
+00:02:15,768 --> 00:02:17,030
+They sure do.
+
+55
+00:02:17,103 --> 00:02:18,593
+You should take that
+as a compliment.
+
+56
+00:02:18,671 --> 00:02:20,070
+Oh, I do.
+
+57
+00:02:22,675 --> 00:02:24,165
+JO: Hello.
+Hello.
+
+58
+00:02:24,511 --> 00:02:27,036
+Do you always stay seated
+when a lady enters the room?
+
+59
+00:02:27,113 --> 00:02:28,444
+I am treating you
+the same as a man,
+
+60
+00:02:28,515 --> 00:02:30,244
+for whom I would
+also not stand.
+
+61
+00:02:30,316 --> 00:02:33,217
+Unless it was the
+president, or Judge Judy.
+
+62
+00:02:34,587 --> 00:02:35,781
+I like that.
+
+63
+00:02:35,855 --> 00:02:37,686
+GABE: This is Accounting.
+JO: Uh-huh.
+
+64
+00:02:37,757 --> 00:02:38,781
+Hi.
+
+65
+00:02:38,858 --> 00:02:39,950
+Good-looking group.
+
+66
+00:02:40,026 --> 00:02:42,392
+Over here is Meredith
+Palmer, Creed Bratton.
+
+67
+00:02:42,462 --> 00:02:44,020
+JO: Another couple
+of heartbreakers.
+
+68
+00:02:44,097 --> 00:02:45,587
+Who's this tall
+drink of sun tea?
+
+69
+00:02:45,665 --> 00:02:49,157
+That is Jim Halpert. He is the
+co-regional manager of this office.
+
+70
+00:02:49,235 --> 00:02:50,759
+I thought this guy
+was the manager.
+
+71
+00:02:50,837 --> 00:02:53,738
+Oh, he is. He's the co-manager.
+That's the other co-manager.
+
+72
+00:02:53,806 --> 00:02:55,398
+Two guys doing one job?
+
+73
+00:02:56,709 --> 00:02:58,472
+We gotta do something
+about that. (CHUCKLING)
+
+74
+00:03:01,314 --> 00:03:02,872
+I've got some
+Valentine's cards
+
+75
+00:03:02,949 --> 00:03:05,713
+for my co-workers
+and my bro-workers.
+
+76
+00:03:05,785 --> 00:03:07,252
+No. No.
+
+77
+00:03:07,320 --> 00:03:08,514
+What? No candy?
+
+78
+00:03:08,922 --> 00:03:10,617
+ANDY: Valentine's Day.
+Right around the corner.
+
+79
+00:03:10,690 --> 00:03:13,557
+Erin and I have been
+on zero dates.
+
+80
+00:03:13,626 --> 00:03:15,457
+So I got her a
+Valentine's Day card,
+
+81
+00:03:15,528 --> 00:03:17,655
+<i>but I didn't want
+to seem too eager,</i>
+
+82
+00:03:17,730 --> 00:03:19,721
+<i>so I got cards for
+everyone in the whole office</i>
+
+83
+00:03:19,799 --> 00:03:21,767
+<i>to kind of dilute
+it a little bit.</i>
+
+84
+00:03:21,834 --> 00:03:23,927
+Look alive.
+(EXCLAIMS)
+
+85
+00:03:24,003 --> 00:03:26,164
+Jeez, you gave me
+a paper cut on my throat.
+
+86
+00:03:26,406 --> 00:03:28,271
+Yeah, I have this thing
+about men cutting
+
+87
+00:03:28,341 --> 00:03:30,275
+or threatening
+to cut my throat.
+
+88
+00:03:30,343 --> 00:03:32,208
+Don't try to
+cut my throat.
+
+89
+00:03:32,278 --> 00:03:35,770
+Jo, I don't know how things work in
+Florida, which from your description
+
+90
+00:03:35,848 --> 00:03:38,908
+sounds like a colorful,
+lawless swamp,
+
+91
+00:03:39,152 --> 00:03:42,952
+but here it takes
+two men to do one job,
+
+92
+00:03:43,423 --> 00:03:45,050
+where in Florida,
+it might take
+
+93
+00:03:45,124 --> 00:03:47,285
+one very strong
+woman to do such a job.
+
+94
+00:03:47,360 --> 00:03:48,725
+Whoa. Whoa.
+
+95
+00:03:48,995 --> 00:03:52,260
+I'll take over. Um,
+what we're doing here,
+
+96
+00:03:52,332 --> 00:03:54,664
+Michael handles more of
+the big picture stuff,
+
+97
+00:03:54,734 --> 00:03:57,134
+and I handle more of
+the day-to-day stuff.
+
+98
+00:03:57,203 --> 00:03:58,500
+Yeah.
+JIM: So, together...
+
+99
+00:03:58,571 --> 00:04:00,266
+I think I understand.
+All right.
+
+100
+00:04:00,340 --> 00:04:02,331
+Each of you is
+doing half a job.
+
+101
+00:04:02,408 --> 00:04:04,000
+No. (CHUCKLES) And sometimes
+I can hardly handle that.
+
+102
+00:04:04,077 --> 00:04:05,203
+(JO CHUCKLING)
+
+103
+00:04:05,278 --> 00:04:08,179
+Now this is knucklehead talk. I'm
+not going to abide it, you know.
+
+104
+00:04:08,248 --> 00:04:11,706
+You can't give me gravy and tell me
+it's jelly, 'cause gravy ain't sweet.
+
+105
+00:04:11,784 --> 00:04:13,479
+Is it, Jim? (SOFTLY) I don't think so.
+
+106
+00:04:13,553 --> 00:04:14,645
+Michael?
+
+107
+00:04:14,721 --> 00:04:15,779
+Forget the question.
+
+108
+00:04:15,922 --> 00:04:18,254
+I think one of you
+should return to Sales,
+
+109
+00:04:18,324 --> 00:04:20,349
+and the other one
+will be a manager.
+
+110
+00:04:20,426 --> 00:04:23,452
+I humbly accept
+the management position.
+
+111
+00:04:23,529 --> 00:04:24,621
+Why would you just
+automatically get it?
+
+112
+00:04:24,697 --> 00:04:28,690
+Because, well, Jim, where I'm
+from, there are two types of folk,
+
+113
+00:04:28,768 --> 00:04:32,568
+those who ain't and those who
+are knee-high on a grasshopper.
+
+114
+00:04:33,072 --> 00:04:36,473
+Which type ain't you ain't?
+Y'all come back now.
+
+115
+00:04:38,344 --> 00:04:40,244
+Do you even know what that means? Yes.
+
+116
+00:04:40,313 --> 00:04:42,474
+Well, I'm gonna let this
+marinate. So you can go.
+
+117
+00:04:42,548 --> 00:04:43,606
+Um...
+
+118
+00:04:43,683 --> 00:04:45,446
+You can go on.
+Yeah.
+
+119
+00:04:45,785 --> 00:04:47,275
+(SHOOING)
+
+120
+00:04:47,353 --> 00:04:51,289
+I'm Jolene Bennett, Jo for short.
+I'm a breast cancer survivor,
+
+121
+00:04:51,357 --> 00:04:53,484
+<i>close personal friends
+with Nancy Pelosi,</i>
+
+122
+00:04:53,559 --> 00:04:56,187
+<i>and Truman Capote and I slept
+with three of the same guys.</i>
+
+123
+00:04:56,329 --> 00:04:58,889
+When I was a little girl,
+I was terrified to fly,
+
+124
+00:04:58,965 --> 00:05:00,933
+<i>and now I have my
+own pilot's license.</i>
+
+125
+00:05:01,000 --> 00:05:02,934
+I am CEO of
+Sabre International
+
+126
+00:05:03,002 --> 00:05:06,699
+and I sell the best damn printers and
+all-in-one machines Korea can make.
+
+127
+00:05:06,773 --> 00:05:07,797
+Pleased to meet you.
+
+128
+00:05:08,007 --> 00:05:09,167
+(EXCLAIMS) Traffic jam.
+
+129
+00:05:09,242 --> 00:05:11,210
+Uh-oh. Traffic jam
+on route three.
+
+130
+00:05:11,277 --> 00:05:12,574
+(BOTH IMITATING
+HORN HONKING)
+
+131
+00:05:12,645 --> 00:05:14,272
+Twenty people
+dead in a pileup.
+
+132
+00:05:14,347 --> 00:05:16,338
+There's blood everywhere.
+
+133
+00:05:16,783 --> 00:05:19,183
+Um, I got you
+a Valentine's card.
+
+134
+00:05:19,252 --> 00:05:20,776
+You did?
+Yeah.
+
+135
+00:05:22,188 --> 00:05:23,678
+(EXCLAIMS) A bird and a dog!
+
+136
+00:05:23,756 --> 00:05:25,519
+Yeah, well, it's Snoopy and Woodstock.
+
+137
+00:05:25,591 --> 00:05:26,649
+You named them?
+
+138
+00:05:26,726 --> 00:05:28,125
+Uh, Charles Schulz did.
+
+139
+00:05:28,928 --> 00:05:29,917
+I thought it was relevant
+
+140
+00:05:29,996 --> 00:05:32,089
+'cause I got you all those
+birds for Christmas, remember?
+
+141
+00:05:32,165 --> 00:05:35,862
+Yeah, I do remember.
+Oh, they love each other.
+
+142
+00:05:35,935 --> 00:05:38,335
+Oh, look at that. They
+sure do. I hadn't noticed.
+
+143
+00:05:38,938 --> 00:05:40,667
+Oh, it smells
+really good, too.
+
+144
+00:05:40,740 --> 00:05:42,105
+Yeah, it's
+Roger Federer for Men.
+
+145
+00:05:42,175 --> 00:05:43,665
+I sprayed
+some in there.
+
+146
+00:05:43,743 --> 00:05:46,610
+Andy, whoa!
+Thank you very much.
+
+147
+00:05:46,679 --> 00:05:48,476
+It's got pheromones
+in it. (CHUCKLES)
+
+148
+00:05:48,748 --> 00:05:50,113
+JO: Hey.
+KEVIN: Hi.
+
+149
+00:05:50,950 --> 00:05:55,080
+Just choosing seats, not getting
+married. Chop, chop, little onion.
+
+150
+00:05:55,254 --> 00:05:57,085
+Jo, there's books
+in my chair.
+
+151
+00:05:57,156 --> 00:05:58,521
+That's right, darling.
+
+152
+00:05:58,591 --> 00:06:01,822
+Now you're the proud new
+owner of a Sabre handbook,
+
+153
+00:06:01,894 --> 00:06:03,725
+and my autobiography.
+
+154
+00:06:03,830 --> 00:06:07,231
+Now, you all must be in a tizzy.
+I can see it on your faces.
+
+155
+00:06:07,300 --> 00:06:10,565
+I mean, what's going on now? I
+mean, who owns Dunder Mifflin?
+
+156
+00:06:10,636 --> 00:06:13,469
+Right? I mean, Sabre?
+What's that?
+
+157
+00:06:13,973 --> 00:06:17,932
+Some company we never heard
+of from down in Tallahassee?
+
+158
+00:06:18,010 --> 00:06:20,638
+I mean, where is that?
+Near Mars?
+
+159
+00:06:20,713 --> 00:06:22,510
+No, we know. Texas.
+
+160
+00:06:22,949 --> 00:06:25,440
+Now, Dunder Mifflin
+has an arm's reach
+
+161
+00:06:25,518 --> 00:06:28,112
+into all these small businesses
+all over the northeast,
+
+162
+00:06:28,287 --> 00:06:30,687
+and now we're gonna
+take that arm
+
+163
+00:06:31,057 --> 00:06:35,391
+and we're going to
+start selling printers.
+
+164
+00:06:35,461 --> 00:06:36,894
+I could manage my
+way around that.
+
+165
+00:06:36,963 --> 00:06:38,794
+They're the easiest-to-use
+printers in the market.
+
+166
+00:06:38,865 --> 00:06:41,356
+I will try to
+manage my excitement.
+
+167
+00:06:42,268 --> 00:06:45,465
+I have been saying
+the word "manager" a lot,
+
+168
+00:06:45,538 --> 00:06:48,632
+so whenever Jo thinks
+manager, she thinks of me.
+
+169
+00:06:50,243 --> 00:06:52,211
+Camel cigarettes did the
+same thing with Joe Camel
+
+170
+00:06:52,278 --> 00:06:54,178
+by making him
+look like a penis.
+
+171
+00:06:54,247 --> 00:06:57,011
+I can't even go
+near a cigarette now
+
+172
+00:06:57,083 --> 00:06:59,574
+without thinking of
+a penis, and vice versa.
+
+173
+00:07:00,253 --> 00:07:02,346
+I think that's it.
+So we're all good.
+
+174
+00:07:02,422 --> 00:07:04,219
+Okay.
+Thanks, y'all.
+
+175
+00:07:12,398 --> 00:07:13,763
+Oh, my God.
+
+176
+00:07:14,300 --> 00:07:17,963
+I guess Andy likes me. I never
+thought of him in that way.
+
+177
+00:07:18,171 --> 00:07:19,968
+But I guess in most
+romantic comedies,
+
+178
+00:07:20,039 --> 00:07:21,529
+the guy you're supposed
+to be with is the one
+
+179
+00:07:21,607 --> 00:07:23,302
+that you never
+thought of in that way.
+
+180
+00:07:23,376 --> 00:07:27,176
+You might have even thought he was
+annoying or possibly homosexual.
+
+181
+00:07:27,447 --> 00:07:28,846
+So check this out.
+
+182
+00:07:28,915 --> 00:07:31,349
+According to the handbook,
+you could make more money
+
+183
+00:07:31,417 --> 00:07:33,009
+as a salesman
+than as a manager.
+
+184
+00:07:33,085 --> 00:07:35,144
+They have all these
+incentive programs.
+
+185
+00:07:35,221 --> 00:07:36,779
+I ran your numbers
+from last year.
+
+186
+00:07:36,856 --> 00:07:38,687
+This is way more
+than I make now.
+
+187
+00:07:38,758 --> 00:07:40,919
+I don't think I'm gonna
+miss being manager.
+
+188
+00:07:40,993 --> 00:07:42,790
+You know how some people say
+they're not in it for the money?
+
+189
+00:07:42,862 --> 00:07:44,727
+Well, with all due
+respect to this job,
+
+190
+00:07:44,797 --> 00:07:46,958
+I think I'm definitely
+in it for the money.
+
+191
+00:07:47,033 --> 00:07:48,898
+And, quite honestly,
+the women.
+
+192
+00:07:49,936 --> 00:07:51,301
+Hey. Got a second?
+
+193
+00:07:51,370 --> 00:07:52,462
+Sure.
+All right.
+
+194
+00:07:52,538 --> 00:07:55,336
+You here to tell me that you
+think I would be a better manager,
+
+195
+00:07:55,408 --> 00:07:57,933
+and that you are sorry
+for being such a jerk?
+
+196
+00:07:58,010 --> 00:07:59,534
+Actually, yeah.
+
+197
+00:08:00,713 --> 00:08:02,544
+What?
+Exactly that.
+
+198
+00:08:02,615 --> 00:08:07,018
+I think that you absolutely deserve
+the manager position more than I do.
+
+199
+00:08:08,120 --> 00:08:10,588
+What? Really?
+Yeah.
+
+200
+00:08:11,290 --> 00:08:13,224
+(LAUGHING) Wow! Wow!
+
+201
+00:08:13,793 --> 00:08:14,919
+(VOCALIZING)
+
+202
+00:08:14,994 --> 00:08:16,791
+Hello, Oscar.
+
+203
+00:08:16,863 --> 00:08:18,057
+Michael, reading.
+
+204
+00:08:18,130 --> 00:08:19,154
+What are you reading?
+
+205
+00:08:19,232 --> 00:08:20,256
+<i>The Atlantic.</i>
+
+206
+00:08:20,333 --> 00:08:22,528
+Oh, that is my favorite
+ocean. I love it.
+
+207
+00:08:22,602 --> 00:08:26,663
+I'm so happy right now. No, I
+can't keep it a secret any longer.
+
+208
+00:08:26,973 --> 00:08:28,270
+Jim's stepping
+down to salesman.
+
+209
+00:08:28,341 --> 00:08:30,605
+I am going to be the
+sole manager once again.
+
+210
+00:08:30,676 --> 00:08:32,644
+(SIGHS) I should step
+into Sales myself.
+
+211
+00:08:32,712 --> 00:08:35,078
+Why? Is there an
+untapped gay market?
+
+212
+00:08:35,548 --> 00:08:37,743
+Sabre has no caps
+on commissions.
+
+213
+00:08:37,817 --> 00:08:39,944
+He can make a lot
+more money in Sales.
+
+214
+00:08:40,887 --> 00:08:42,115
+(SIGHING)
+
+215
+00:08:43,489 --> 00:08:44,649
+(CLICKS TONGUE)
+
+216
+00:08:45,458 --> 00:08:46,720
+Where did you get
+that information?
+
+217
+00:08:46,792 --> 00:08:49,192
+Manual.
+Manuel who?
+
+218
+00:08:49,896 --> 00:08:52,797
+Mmm-hmm. Well, according to the manual,
+
+219
+00:08:52,865 --> 00:08:55,095
+there is no cap
+on commissions.
+
+220
+00:08:55,167 --> 00:08:56,930
+I have been hustled.
+
+221
+00:08:59,138 --> 00:09:00,469
+(SOFTLY) Son of a bitch.
+
+222
+00:09:00,540 --> 00:09:02,405
+JIM: This is...
+Pardon me.
+
+223
+00:09:02,475 --> 00:09:04,170
+Speak of the devil. We
+were just talking about you.
+
+224
+00:09:04,243 --> 00:09:05,676
+Have a seat.
+Okay.
+
+225
+00:09:05,745 --> 00:09:08,805
+Now, Jim here is thinking
+about taking himself
+
+226
+00:09:08,881 --> 00:09:10,542
+out of the running
+for being manager. Yep.
+
+227
+00:09:10,616 --> 00:09:14,677
+Oh, really? (EXCLAIMS)
+That is so sweet of you!
+
+228
+00:09:15,454 --> 00:09:19,322
+But I cannot accept, because
+I have been thinking about it,
+
+229
+00:09:19,792 --> 00:09:21,783
+and I think I want
+to go back to Sales.
+
+230
+00:09:21,861 --> 00:09:23,089
+Really?
+JIM: Really?
+
+231
+00:09:23,162 --> 00:09:24,993
+Yeah, you can take the man
+out of the salesman,
+
+232
+00:09:25,064 --> 00:09:27,259
+but you can't take
+the sales out of salesman.
+
+233
+00:09:27,333 --> 00:09:29,028
+Well, I think you're both
+being a little too modest.
+
+234
+00:09:29,101 --> 00:09:32,867
+No, I really, really think
+Michael is better at being manager
+
+235
+00:09:32,939 --> 00:09:34,429
+for so many reasons.
+Mmm-mmm.
+
+236
+00:09:34,507 --> 00:09:39,638
+No. I think I would be bad.
+I would sleep in my office...
+
+237
+00:09:39,712 --> 00:09:41,737
+JO: Okay. ...and I would
+sexually harass people.
+
+238
+00:09:41,814 --> 00:09:43,714
+Why would you do that? I'm
+turning myself in right now.
+
+239
+00:09:43,783 --> 00:09:46,980
+You know, Michael, you have more
+experience in sales and management,
+
+240
+00:09:47,053 --> 00:09:48,748
+so I'm going to defer
+to your judgment.
+
+241
+00:09:48,821 --> 00:09:49,845
+Thank you.
+
+242
+00:09:49,922 --> 00:09:52,413
+I think you will
+become the salesman,
+
+243
+00:09:52,491 --> 00:09:54,686
+and congratulations,
+
+244
+00:09:54,760 --> 00:09:57,285
+you're gonna be the new
+manager of this branch.
+
+245
+00:09:57,797 --> 00:10:00,027
+That's great.
+Congratulations.
+
+246
+00:10:00,399 --> 00:10:03,300
+Have fun signing my
+commission checks, boss.
+
+247
+00:10:06,372 --> 00:10:07,464
+(EXCLAIMS)
+
+248
+00:10:07,540 --> 00:10:10,907
+Michael marked his heights.
+He's grown.
+
+249
+00:10:11,477 --> 00:10:13,308
+(BOTH LAUGHING)
+
+250
+00:10:17,249 --> 00:10:21,515
+Bobcat, this is Dragon. Listen,
+he's been promoted to sole manager.
+
+251
+00:10:21,921 --> 00:10:26,255
+We have got to step this up. Meet
+me behind the dumpster in 90 seconds.
+
+252
+00:10:26,659 --> 00:10:28,456
+Eighty-nine, 88...
+
+253
+00:10:29,228 --> 00:10:30,695
+You're 20 minutes late.
+
+254
+00:10:31,764 --> 00:10:34,198
+Um, I was
+at another dumpster.
+
+255
+00:10:34,333 --> 00:10:36,767
+Just admit you lost
+track of time. (SIGHS)
+
+256
+00:10:37,036 --> 00:10:40,733
+<i>DWIGHT: Ryan and I have been meeting up
+to work on our diabolical plot against Jim.</i>
+
+257
+00:10:40,806 --> 00:10:43,400
+Ryan is always late
+for our meetings.
+
+258
+00:10:44,010 --> 00:10:45,773
+I wish I had a lair.
+
+259
+00:10:46,612 --> 00:10:48,079
+<i>Did you see Saw?</i>
+
+260
+00:10:48,147 --> 00:10:50,707
+Of course I seesaw. Mose
+and I seesaw all the time.
+
+261
+00:10:50,783 --> 00:10:53,581
+<i>No, the movie. Did
+you see the movie Saw?</i>
+
+262
+00:10:53,953 --> 00:10:57,650
+Oh. Yeah. Great film. Almost
+as fun as going on a seesaw.
+
+263
+00:10:57,723 --> 00:11:00,624
+Okay. The reason these movies
+are so popular... Mmm-hmm.
+
+264
+00:11:00,726 --> 00:11:03,456
+...is the element of
+psychological torment.
+
+265
+00:11:03,696 --> 00:11:06,756
+I like where you're
+going with this. Continue.
+
+266
+00:11:06,966 --> 00:11:09,935
+Could we lure him into an
+old warehouse or something?
+
+267
+00:11:10,002 --> 00:11:11,731
+I have an old barn.
+It's kind of smelly. Yes.
+
+268
+00:11:11,804 --> 00:11:13,635
+But that might be a
+plus. And then what? Okay.
+
+269
+00:11:13,706 --> 00:11:15,799
+<i>We do what they
+did in Saw.</i>
+
+270
+00:11:19,278 --> 00:11:21,769
+I mean, we don't
+kill him, obviously.
+
+271
+00:11:21,847 --> 00:11:22,836
+I have a mask.
+
+272
+00:11:22,915 --> 00:11:23,973
+Okay, that's your idea?
+
+273
+00:11:24,050 --> 00:11:25,881
+Exactly like in the movie?
+
+274
+00:11:25,951 --> 00:11:28,784
+That is the most idiotic thing
+I have ever heard in my life.
+
+275
+00:11:28,854 --> 00:11:30,344
+Well, suggest something
+else then. Don't just...
+
+276
+00:11:30,423 --> 00:11:31,720
+Are you supposed
+to cut his leg off?
+
+277
+00:11:31,791 --> 00:11:33,053
+Don't just criticize my idea! Think!
+
+278
+00:11:33,125 --> 00:11:35,252
+You think of
+something then.
+
+279
+00:11:36,629 --> 00:11:40,224
+Michael, I'm worried that not all your
+toys are gonna fit on your new desk.
+
+280
+00:11:40,299 --> 00:11:41,561
+How is that possible?
+
+281
+00:11:41,634 --> 00:11:44,296
+Well, in your old office, there were
+all those ledges and extra space.
+
+282
+00:11:44,370 --> 00:11:47,203
+No excuses, Erin, come on.
+Make it happen.
+
+283
+00:11:47,873 --> 00:11:49,773
+You know, I actually think
+that I should get back to work.
+
+284
+00:11:49,842 --> 00:11:52,936
+Jim asked me to do some
+stuff, and he's manager.
+
+285
+00:11:54,413 --> 00:11:56,347
+Oh, yeah, fine, fine.
+Leave it here.
+
+286
+00:11:56,415 --> 00:11:57,507
+Okay. All right.
+
+287
+00:11:57,583 --> 00:11:59,346
+MICHAEL: I have to make
+some sales anyway.
+
+288
+00:11:59,418 --> 00:12:02,410
+Who should I call with
+my magic sales fingers?
+
+289
+00:12:02,488 --> 00:12:03,887
+(PHONE RINGING)
+
+290
+00:12:08,260 --> 00:12:09,727
+Michael Scott,
+Head of Sales.
+
+291
+00:12:09,795 --> 00:12:13,231
+<i>You gotta do something, man.
+You can't just sit there.</i>
+
+292
+00:12:17,837 --> 00:12:20,397
+The new IT guy. Nick.
+
+293
+00:12:20,473 --> 00:12:21,531
+Nick.
+
+294
+00:12:21,607 --> 00:12:24,576
+I think he's the key. He's very
+trusting. He's looking for friends.
+
+295
+00:12:24,643 --> 00:12:26,838
+He's been given an
+awesome amount of power,
+
+296
+00:12:26,912 --> 00:12:28,675
+and does not know
+how to wield it.
+
+297
+00:12:28,748 --> 00:12:30,010
+Like Frodo.
+
+298
+00:12:30,583 --> 00:12:35,020
+Why don't you just let me handle the
+Tolkien references, okay, dumb jock?
+
+299
+00:12:35,387 --> 00:12:38,447
+Well, I think he can be
+corrupted. Like Gollum.
+
+300
+00:12:39,191 --> 00:12:42,820
+Smeagol was corrupted
+and became Gollum.
+
+301
+00:12:43,362 --> 00:12:46,126
+I might start a diabolical
+plot against him after this one.
+
+302
+00:12:47,867 --> 00:12:49,129
+Who's hungry?
+
+303
+00:12:49,201 --> 00:12:50,259
+What is that?
+
+304
+00:12:50,336 --> 00:12:52,827
+It's ants on a log. Michael would
+always have me bring them in at 2:30
+
+305
+00:12:52,905 --> 00:12:54,805
+and say, "Who's hungry?"
+
+306
+00:12:54,874 --> 00:12:57,206
+(CHUCKLES) Oh. I'm fine.
+Thank you, though.
+
+307
+00:12:57,810 --> 00:12:59,641
+Do you want me to spin you in
+your chair and make you dizzy?
+
+308
+00:12:59,712 --> 00:13:00,906
+Why would I
+want to do that?
+
+309
+00:13:00,980 --> 00:13:03,744
+It's a thinking technique.
+All the top executives do it.
+
+310
+00:13:03,816 --> 00:13:07,115
+It keeps the brain moving, and a
+spinning brain's a working brain.
+
+311
+00:13:07,186 --> 00:13:10,178
+For now I'm just gonna
+go back to work here.
+
+312
+00:13:10,256 --> 00:13:11,621
+Oh, sure.
+Yeah, thank you.
+
+313
+00:13:11,690 --> 00:13:12,884
+Well...
+
+314
+00:13:14,493 --> 00:13:18,452
+It will be a pleasure doing
+business with you. Thanks. Bye, bye.
+
+315
+00:13:21,901 --> 00:13:25,632
+I just got a new account. The
+gentlemen's club in Carbondale.
+
+316
+00:13:25,704 --> 00:13:29,572
+It is called Curves. I
+went by there the other day,
+
+317
+00:13:30,075 --> 00:13:33,135
+saw some of the women walking
+in. Not really my cup of tea.
+
+318
+00:13:33,212 --> 00:13:35,305
+Actually, Kevin,
+you might like it.
+
+319
+00:13:35,381 --> 00:13:36,439
+Nice.
+
+320
+00:13:36,849 --> 00:13:40,683
+You know, we really don't announce
+out loud our sales that much.
+
+321
+00:13:40,753 --> 00:13:42,880
+Why not? It's part of
+the sales experience.
+
+322
+00:13:42,955 --> 00:13:45,185
+It's not really
+1992 anymore.
+
+323
+00:13:45,257 --> 00:13:46,349
+(ALL LAUGHING)
+MICHAEL: Okay.
+
+324
+00:13:49,094 --> 00:13:51,255
+"You brighten my day with
+the sound of your voice.
+
+325
+00:13:51,330 --> 00:13:54,527
+"You bring so much laughter and
+love. You're everything to me,
+
+326
+00:13:54,600 --> 00:13:57,034
+"and I was so blessed when
+God sent you here to me."
+
+327
+00:13:57,102 --> 00:13:58,194
+(CHUCKLES) Jeez Louise.
+
+328
+00:13:58,270 --> 00:13:59,794
+I know.
+Obsessed with me much?
+
+329
+00:13:59,872 --> 00:14:00,930
+Well, everyone got one.
+
+330
+00:14:01,006 --> 00:14:02,735
+What did yours say?
+
+331
+00:14:03,209 --> 00:14:05,973
+"Friends are worth sharing
+a dog house with."
+
+332
+00:14:06,045 --> 00:14:09,606
+It's no wonder that Andy gave
+Kelly such a romantic card.
+
+333
+00:14:09,715 --> 00:14:11,410
+I can't
+compete with her.
+
+334
+00:14:11,483 --> 00:14:15,715
+That girl can sing and dance and
+gets all of her clothes at the mall.
+
+335
+00:14:16,355 --> 00:14:19,847
+And I feel like such a fool for thinking
+that Andy was only going after one girl,
+
+336
+00:14:20,092 --> 00:14:23,892
+<i>because Andy Bernard is a
+playboy. And why shouldn't he be?</i>
+
+337
+00:14:24,630 --> 00:14:26,222
+<i>He's got it all.</i>
+
+338
+00:14:28,133 --> 00:14:29,532
+(EXCLAIMS)
+
+339
+00:14:29,602 --> 00:14:31,570
+There he is.
+The IT guy.
+
+340
+00:14:32,838 --> 00:14:34,271
+I see you discovered
+the break room.
+
+341
+00:14:34,340 --> 00:14:35,364
+Yep.
+
+342
+00:14:35,441 --> 00:14:37,773
+I imagine one of the best
+things about being an IT guy is,
+
+343
+00:14:37,843 --> 00:14:40,107
+you get to know everyone's
+computer passwords.
+
+344
+00:14:40,179 --> 00:14:41,976
+No, I actually don't.
+
+345
+00:14:42,047 --> 00:14:43,241
+(ALL LAUGHING)
+
+346
+00:14:43,315 --> 00:14:45,545
+Listen, I know you
+have to say that,
+
+347
+00:14:45,618 --> 00:14:47,313
+but we got
+a little problem here.
+
+348
+00:14:47,386 --> 00:14:49,820
+There is an employee
+named Jim Halpert,
+
+349
+00:14:49,889 --> 00:14:51,652
+and he's doing some
+terrible things. Okay?
+
+350
+00:14:51,724 --> 00:14:55,683
+He's molesting people via the
+Internet, and we need to stop him.
+
+351
+00:14:56,662 --> 00:14:58,254
+I think that you
+should call the cops.
+
+352
+00:14:58,330 --> 00:15:00,628
+No, the cops called us.
+
+353
+00:15:01,533 --> 00:15:06,368
+So I'm gonna need you to give me the
+password to Jim Halpert's computer.
+
+354
+00:15:06,572 --> 00:15:08,005
+I don't know what to
+tell you, man. I'm sorry.
+
+355
+00:15:08,073 --> 00:15:09,631
+I just can't give out
+his password like that.
+
+356
+00:15:09,708 --> 00:15:14,441
+Nick, we can make things
+very difficult for you.
+
+357
+00:15:16,482 --> 00:15:19,042
+Are you threatening me?
+
+358
+00:15:19,118 --> 00:15:20,176
+Threatening you?
+
+359
+00:15:22,288 --> 00:15:23,312
+No.
+
+360
+00:15:26,592 --> 00:15:27,684
+(GRUNTS)
+
+361
+00:15:30,629 --> 00:15:31,789
+(EXHALES DEEPLY)
+
+362
+00:15:34,500 --> 00:15:37,128
+What is that smell?
+Do you smell that?
+
+363
+00:15:37,670 --> 00:15:41,436
+What is that? Like a
+sulfur deposit under here?
+
+364
+00:15:41,507 --> 00:15:43,304
+Michael, stop.
+
+365
+00:15:43,375 --> 00:15:45,240
+No, I'm serious.
+We don't have to put up...
+
+366
+00:15:46,412 --> 00:15:48,403
+(SOFTLY) Is it the dogs?
+Michael.
+
+367
+00:15:48,547 --> 00:15:50,845
+You know what? We don't
+have to deal with this.
+
+368
+00:15:50,916 --> 00:15:53,146
+I am going to
+google sulfur maps.
+
+369
+00:15:53,218 --> 00:15:54,549
+Michael, it's Phyllis.
+
+370
+00:15:56,889 --> 00:15:58,379
+No, this is geological.
+
+371
+00:15:58,457 --> 00:16:01,255
+I sent an email out to
+everyone in this area
+
+372
+00:16:01,327 --> 00:16:03,318
+that this might be
+a side effect
+
+373
+00:16:03,395 --> 00:16:05,659
+to my new allergy
+medication I'm on.
+
+374
+00:16:05,731 --> 00:16:07,699
+Are you kidding me?
+No.
+
+375
+00:16:11,036 --> 00:16:12,469
+And you guys are
+okay with this?
+
+376
+00:16:12,538 --> 00:16:14,062
+She sent an email.
+
+377
+00:16:14,139 --> 00:16:15,299
+PHYLLIS: I did.
+
+378
+00:16:33,192 --> 00:16:34,682
+It's not 'cause
+of the smell.
+
+379
+00:16:34,760 --> 00:16:37,024
+I'm just expecting
+a nose bleed.
+
+380
+00:16:39,565 --> 00:16:40,623
+Oh, my God.
+
+381
+00:16:43,535 --> 00:16:44,832
+(LAUGHS)
+
+382
+00:16:44,903 --> 00:16:46,200
+You scared me.
+
+383
+00:16:46,271 --> 00:16:47,829
+I'm sorry.
+I thought you saw me.
+
+384
+00:16:47,906 --> 00:16:50,966
+I didn't see you. And
+you were there all along.
+
+385
+00:16:52,811 --> 00:16:56,372
+Well, warmed it up for you,
+so it should be good to go.
+
+386
+00:16:56,849 --> 00:16:58,840
+Cool. Thanks.
+Bye, Andy.
+
+387
+00:17:04,590 --> 00:17:06,114
+That was weird.
+
+388
+00:17:06,225 --> 00:17:09,524
+No, it ain't. We all saw
+the valentine you gave her.
+
+389
+00:17:09,628 --> 00:17:11,289
+I don't even know
+what that card said.
+
+390
+00:17:11,363 --> 00:17:13,888
+Believe me,
+if I got that card,
+
+391
+00:17:13,966 --> 00:17:17,367
+we'd be in the bathroom
+doing it right now.
+
+392
+00:17:17,436 --> 00:17:18,528
+(EXCLAIMS)
+
+393
+00:17:23,242 --> 00:17:24,334
+Hey.
+
+394
+00:17:24,977 --> 00:17:26,069
+Hey.
+
+395
+00:17:26,378 --> 00:17:29,779
+You know, it's funny. I used to stand
+in here and wish I was out there.
+
+396
+00:17:29,848 --> 00:17:31,577
+Now I'm out there,
+and I wish I was in here.
+
+397
+00:17:31,650 --> 00:17:33,083
+Well, the grass
+is always greener.
+
+398
+00:17:33,152 --> 00:17:35,882
+Yeah, except there's
+no grass out there.
+
+399
+00:17:36,655 --> 00:17:38,680
+It's just a farty dirt-patch.
+
+400
+00:17:38,757 --> 00:17:39,883
+Well, it's what
+you wanted.
+
+401
+00:17:39,958 --> 00:17:43,655
+I really need my job back. We
+made a terrible mistake here.
+
+402
+00:17:43,762 --> 00:17:46,526
+For the record, I
+fought this. All right?
+
+403
+00:17:46,598 --> 00:17:49,032
+And now, I'm not
+really sure what we do.
+
+404
+00:17:50,469 --> 00:17:52,562
+We make a poster that says,
+"Happy Opposite Day"
+
+405
+00:17:52,638 --> 00:17:55,300
+and she sees it on the
+way out. That's stupid.
+
+406
+00:17:55,374 --> 00:17:59,834
+<i>Oh, I wish we had one of those
+amnesia flashlights from Men In Black.</i>
+
+407
+00:18:00,179 --> 00:18:03,876
+Hey. What was that movie where
+their boss was within earshot
+
+408
+00:18:03,949 --> 00:18:06,383
+and they could have just
+gone and talked to her?
+
+409
+00:18:06,452 --> 00:18:07,942
+<i>Lethal Weapon?
+That's it.</i>
+
+410
+00:18:08,020 --> 00:18:09,578
+<i>I think we should do it
+the Lethal Weapon way.</i>
+
+411
+00:18:09,922 --> 00:18:12,891
+You two are grown-assed men.
+What do I have to do?
+
+412
+00:18:12,958 --> 00:18:14,357
+Fire you and get
+two people in here
+
+413
+00:18:14,426 --> 00:18:15,552
+who don't need so
+much management?
+
+414
+00:18:15,627 --> 00:18:16,651
+Ah!
+
+415
+00:18:16,728 --> 00:18:18,457
+(COUGHS) What I... Michael's
+saying that he's better
+
+416
+00:18:18,530 --> 00:18:19,656
+at being a manager,
+and I agree.
+
+417
+00:18:19,731 --> 00:18:21,961
+I'm just... He's a better
+people person, weirdly.
+
+418
+00:18:22,034 --> 00:18:24,502
+And weirdly, I'm a good
+dog person, right, guys?
+
+419
+00:18:24,570 --> 00:18:26,538
+Come on. See?
+They love me.
+
+420
+00:18:26,605 --> 00:18:29,472
+Fine. I don't care which
+one of you does which job,
+
+421
+00:18:29,541 --> 00:18:32,408
+just stop meeting with me
+to talk about it.
+
+422
+00:18:32,478 --> 00:18:33,536
+(DOGS PANTING)
+
+423
+00:18:33,612 --> 00:18:34,874
+All right.
+All right.
+
+424
+00:18:34,947 --> 00:18:36,312
+(CELL PHONE RINGING)
+Oh.
+
+425
+00:18:36,381 --> 00:18:40,875
+I gotta take this. Yeah.
+Finish walking my dogs for me.
+
+426
+00:18:41,286 --> 00:18:44,722
+And don't ride them. A lot
+of people try to ride them.
+
+427
+00:18:49,261 --> 00:18:51,092
+Excuse me, everyone,
+please check your emails.
+
+428
+00:18:51,163 --> 00:18:53,358
+I just sent you
+the following message,
+
+429
+00:18:53,432 --> 00:18:56,367
+"Coworkers, you may have
+received a valentine from me.
+
+430
+00:18:56,435 --> 00:18:59,302
+"Please understand this does not
+mean that I like you in any way."
+
+431
+00:18:59,371 --> 00:19:01,805
+You don't even
+like us as friends?
+
+432
+00:19:02,074 --> 00:19:05,168
+Phyllis, you guys are,
+like, my closest friends.
+
+433
+00:19:05,377 --> 00:19:07,538
+I just mean I don't
+like-like you.
+
+434
+00:19:07,613 --> 00:19:08,671
+What are we, five?
+
+435
+00:19:08,747 --> 00:19:10,374
+"Please don't read
+into this card.
+
+436
+00:19:10,449 --> 00:19:13,077
+"Yours in professionalism,
+Nard Dog."
+
+437
+00:19:13,519 --> 00:19:15,578
+Um, why did I just receive
+a mass email from you
+
+438
+00:19:15,654 --> 00:19:17,121
+that said that
+you don't like me?
+
+439
+00:19:17,189 --> 00:19:19,714
+Do you realize how hard
+that makes me like you, Andy?
+
+440
+00:19:19,791 --> 00:19:22,191
+It's not... That wasn't...
+
+441
+00:19:24,329 --> 00:19:26,160
+I like someone else.
+
+442
+00:19:26,231 --> 00:19:27,289
+Who?
+
+443
+00:19:27,966 --> 00:19:29,092
+(STUTTERS)
+
+444
+00:19:29,568 --> 00:19:31,468
+It's not...
+
+445
+00:19:33,238 --> 00:19:34,865
+Whether or not...
+
+446
+00:19:35,541 --> 00:19:37,805
+(MUMBLING)
+
+447
+00:19:38,277 --> 00:19:39,335
+Who? What?
+
+448
+00:19:39,411 --> 00:19:42,403
+Yeah, I guess Andy
+never liked Kelly.
+
+449
+00:19:43,048 --> 00:19:44,174
+How about that?
+
+450
+00:19:45,250 --> 00:19:47,013
+(BREATHING DEEPLY)
+
+451
+00:19:47,085 --> 00:19:48,609
+It smells good in here.
+
+452
+00:19:48,687 --> 00:19:53,124
+It sure does. Okay, we have your
+space heater, your humidifier,
+
+453
+00:19:53,192 --> 00:19:56,821
+your dehumidifier, your fan, your
+foot fan and your food dehydrator.
+
+454
+00:19:56,895 --> 00:19:59,420
+Erin, what about
+my keyboard?
+
+455
+00:20:01,466 --> 00:20:02,831
+(MUSIC PLAYING ON KEYBOARD)
+
+456
+00:20:02,901 --> 00:20:04,027
+Ah.
+
+457
+00:20:05,304 --> 00:20:07,033
+So good to be home.
+
+458
+00:20:09,508 --> 00:20:10,634
+How about a little
+Bossa Nova?
+
+459
+00:20:10,709 --> 00:20:11,733
+(EXCLAIMS)
+
+460
+00:20:12,311 --> 00:20:14,040
+(SLOW MUSIC PLAYING)
+
+461
+00:20:15,881 --> 00:20:17,542
+(BOTH CHUCKLING)
+
+462
+00:20:23,555 --> 00:20:24,817
+He looks happy.
+
+463
+00:20:25,857 --> 00:20:26,983
+Yep.
+
+464
+00:20:27,426 --> 00:20:31,692
+Well, well, well.
+Hmm. Boss for...
+
+465
+00:20:31,763 --> 00:20:33,287
+What was it? Oh.
+
+466
+00:20:33,398 --> 00:20:37,630
+Four-and-a-half hours.
+New record. Low.
+
+467
+00:20:38,370 --> 00:20:40,736
+Previous record,
+Henry Rostin.
+
+468
+00:20:40,806 --> 00:20:42,535
+Boss for nine years,
+four months.
+
+469
+00:20:42,608 --> 00:20:45,076
+And he only left because he
+had family matters to attend to,
+
+470
+00:20:45,143 --> 00:20:46,701
+and he... What?
+
+471
+00:20:47,112 --> 00:20:48,602
+(MUSIC CONTINUES PLAYING)
+
+472
+00:20:52,551 --> 00:20:53,779
+DWIGHT: Michael!
+
+473
+00:20:55,420 --> 00:20:56,717
+(ELEVATOR BELL DINGS)
+
+474
+00:20:56,788 --> 00:20:59,621
+I can't help but think that
+something we did made this possible.
+
+475
+00:20:59,691 --> 00:21:04,151
+Jim dug his own grave, but
+maybe we provided the shovel.
+
+476
+00:21:04,463 --> 00:21:08,763
+(EXCLAIMS) Temp, I like that. I'm
+gonna engrave that into a piece of wood.
+
+477
+00:21:09,101 --> 00:21:10,568
+Care to celebrate
+with a drink?
+
+478
+00:21:10,636 --> 00:21:12,035
+I would love to.
+
+479
+00:21:12,104 --> 00:21:13,196
+(CHUCKLING)
+
+480
+00:21:15,841 --> 00:21:16,865
+Why not?
+
+481
+00:21:16,942 --> 00:21:18,773
+Because martini bars
+are pretentious.
+
+482
+00:21:18,844 --> 00:21:20,334
+No, thank you. I'm
+sorry that I don't want
+
+483
+00:21:20,412 --> 00:21:21,879
+farm-boy swill
+like you do, you know?
+
+484
+00:21:21,947 --> 00:21:23,847
+It is not farm-boy swill.
+I will show you.
+
+485
+00:21:23,915 --> 00:21:25,974
+It is beet vodka
+and it is delicious.
+
+486
+00:21:26,051 --> 00:21:28,713
+I'm not interested in
+anything I have to make myself.
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

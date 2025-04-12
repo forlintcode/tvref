@@ -1,0 +1,584 @@
+[
+    {
+        "quote": "Frankly, my dear, I don't give a damn.",
+        "show": "Gone with the Wind",
+        "start_year": 1939,
+        "end_year": 1940
+    },
+    {
+        "quote": "I'm gonna make him an offer he can't refuse.",
+        "show": "The Godfather",
+        "start_year": 1972,
+        "end_year": 1973
+    },
+    {
+        "quote": "You don't understand! I coulda had class. I coulda been a contender. I could've been somebody, instead of a bum, which is what I am.",
+        "show": "On the Waterfront",
+        "start_year": 1954,
+        "end_year": 1955
+    },
+    {
+        "quote": "Toto, I've got a feeling we're not in Kansas anymore.",
+        "show": "The Wizard of Oz",
+        "start_year": 1939,
+        "end_year": 1949
+    },
+    {
+        "quote": "Here's looking at you, kid.",
+        "show": "Casablanca",
+        "start_year": 1942,
+        "end_year": 1943
+    },
+    {
+        "quote": "Go ahead, make my day.",
+        "show": "Sudden Impact",
+        "start_year": 1983,
+        "end_year": 1984
+    },
+    {
+        "quote": "All right, Mr. DeMille, I'm ready for my close-up.",
+        "show": "Sunset Boulevard",
+        "start_year": 1950,
+        "end_year": 1951
+    },
+    {
+        "quote": "May the Force be with you.",
+        "show": "Star Wars",
+        "start_year": 1977,
+        "end_year": 1978
+    },
+    {
+        "quote": "Fasten your seatbelts. It's going to be a bumpy night.",
+        "show": "All About Eve",
+        "start_year": 1950,
+        "end_year": 1951
+    },
+    {
+        "quote": "You talking to me?",
+        "show": "Taxi Driver",
+        "start_year": 1976,
+        "end_year": 1977
+    },
+    {
+        "quote": "What we've got here is failure to communicate.",
+        "show": "Cool Hand Luke",
+        "start_year": 1967,
+        "end_year": 1968
+    },
+    {
+        "quote": "I love the smell of napalm in the morning.",
+        "show": "Apocalypse Now",
+        "start_year": 1979,
+        "end_year": 1979
+    },
+    {
+        "quote": "The stuff that dreams are made of.",
+        "show": "The Maltese Falcon",
+        "start_year": 1941,
+        "end_year": 1942
+    },
+    {
+        "quote": "E.T. phone home.",
+        "show": "E.T. the Extra-Terrestrial",
+        "start_year": 1982,
+        "end_year": 1982
+    },
+    {
+        "quote": "They call me Mister Tibbs!",
+        "show": "In the Heat of the Night",
+        "start_year": 1967,
+        "end_year": 1968
+    },
+    {
+        "quote": "Rosebud.",
+        "show": "Citizen Kane",
+        "start_year": 1941,
+        "end_year": 1941
+    },
+    {
+        "quote": "Made it, Ma! Top of the world!",
+        "show": "White Heat",
+        "start_year": 1949,
+        "end_year": 1950
+    },
+    {
+        "quote": "I'm as mad as hell, and I'm not going to take this anymore!",
+        "show": "Network",
+        "start_year": 1976,
+        "end_year": 1977
+    },
+    {
+        "quote": "Louis, I think this is the beginning of a beautiful friendship.",
+        "show": "Casablanca",
+        "start_year": 1942,
+        "end_year": 1943
+    },
+    {
+        "quote": "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.",
+        "show": "The Silence of the Lambs",
+        "start_year": 1991,
+        "end_year": 1992
+    },
+    {
+        "quote": "Bond. James Bond.",
+        "show": "Dr. No",
+        "start_year": 1962,
+        "end_year": 1963
+    },
+    {
+        "quote": "There's no place like home.",
+        "show": "The Wizard of Oz",
+        "start_year": 1939,
+        "end_year": 1949
+    },
+    {
+        "quote": "Show me the money!",
+        "show": "Jerry Maguire",
+        "start_year": 1996,
+        "end_year": 1997
+    },
+    {
+        "quote": "You can't handle the truth!",
+        "show": "A Few Good Men",
+        "start_year": 1992,
+        "end_year": 1992
+    },
+    {
+        "quote": "I'll have what she's having.",
+        "show": "When Harry Met Sally...",
+        "start_year": 1989,
+        "end_year": 1990
+    },
+    {
+        "quote": "Houston, we have a problem.",
+        "show": "Apollo 13",
+        "start_year": 1995,
+        "end_year": 1995
+    },
+    {
+        "quote": "There's no crying in baseball!",
+        "show": "A League of Their Own",
+        "start_year": 1992,
+        "end_year": 1993
+    },
+    {
+        "quote": "Ew, David!",
+        "show": "Schitt's Creek",
+        "start_year": 2015,
+        "end_year": 2020
+    },
+    {
+        "quote": "It does not do to dwell on dreams and forget to live.",
+        "show": "Harry Potter and the Sorcerer's Stone",
+        "start_year": 2001,
+        "end_year": 2002
+    },
+    {
+        "quote": "I'm the king of the world!",
+        "show": "Titanic",
+        "start_year": 1997,
+        "end_year": 1998
+    },
+    {
+        "quote": "Hasta la vista, baby.",
+        "show": "Terminator 2: Judgment Day",
+        "start_year": 1991,
+        "end_year": 1992
+    },
+    {
+        "quote": "I see dead people.",
+        "show": "The Sixth Sense",
+        "start_year": 1999,
+        "end_year": 2000
+    },
+    {
+        "quote": "Why so serious?",
+        "show": "The Dark Knight",
+        "start_year": 2008,
+        "end_year": 2009
+    },
+    {
+        "quote": "To infinity and beyond!",
+        "show": "Toy Story",
+        "start_year": 1995,
+        "end_year": 1996
+    },
+    {
+        "quote": "I am Groot.",
+        "show": "Guardians of the Galaxy",
+        "start_year": 2014,
+        "end_year": 2015
+    },
+    {
+        "quote": "Winter is coming.",
+        "show": "Game of Thrones",
+        "start_year": 2011,
+        "end_year": 2019
+    },
+    {
+        "quote": "Bazinga!",
+        "show": "The Big Bang Theory",
+        "start_year": 2007,
+        "end_year": 2019
+    },
+    {
+        "quote": "My precious.",
+        "show": "The Lord of the Rings: The Two Towers",
+        "start_year": 2002,
+        "end_year": 2003
+    },
+    {
+        "quote": "I feel the need—the need for speed.",
+        "show": "Top Gun",
+        "start_year": 1986,
+        "end_year": 1987
+    },
+    {
+        "quote": "Keep your friends close, but your enemies closer.",
+        "show": "The Godfather Part II",
+        "start_year": 1974,
+        "end_year": 1975
+    },
+    {
+        "quote": "Say 'hello' to my little friend!",
+        "show": "Scarface",
+        "start_year": 1983,
+        "end_year": 1984
+    },
+    {
+        "quote": "Just keep swimming.",
+        "show": "Finding Nemo",
+        "start_year": 2003,
+        "end_year": 2004
+    },
+    {
+        "quote": "I'm walking here! I'm walking here!",
+        "show": "Midnight Cowboy",
+        "start_year": 1969,
+        "end_year": 1970
+    },
+    {
+        "quote": "Nobody puts Baby in a corner.",
+        "show": "Dirty Dancing",
+        "start_year": 1987,
+        "end_year": 1988
+    },
+    {
+        "quote": "You're gonna need a bigger boat.",
+        "show": "Jaws",
+        "start_year": 1975,
+        "end_year": 1976
+    },
+    {
+        "quote": "Here's Johnny!",
+        "show": "The Shining",
+        "start_year": 1980,
+        "end_year": 1981
+    },
+    {
+        "quote": "Yo, Adrian!",
+        "show": "Rocky",
+        "start_year": 1976,
+        "end_year": 1977
+    },
+    {
+        "quote": "Elementary, my dear Watson.",
+        "show": "The Adventures of Sherlock Holmes",
+        "start_year": 1939,
+        "end_year": 1939
+    },
+    {
+        "quote": "Shaken, not stirred.",
+        "show": "Goldfinger",
+        "start_year": 1964,
+        "end_year": 1965
+    },
+    {
+        "quote": "Life is like a box of chocolates. You never know what you're gonna get.",
+        "show": "Forrest Gump",
+        "start_year": 1994,
+        "end_year": 1995
+    },
+    {
+        "quote": "That'll do, pig. That'll do.",
+        "show": "Babe",
+        "start_year": 1995,
+        "end_year": 1996
+    },
+    {
+        "quote": "I'm too old for this shit.",
+        "show": "Lethal Weapon",
+        "start_year": 1987,
+        "end_year": 1988
+    },
+    {
+        "quote": "They may take our lives, but they'll never take our freedom!",
+        "show": "Braveheart",
+        "start_year": 1995,
+        "end_year": 1995
+    },
+    {
+        "quote": "I drink your milkshake!",
+        "show": "There Will Be Blood",
+        "start_year": 2007,
+        "end_year": 2008
+    },
+    {
+        "quote": "Wakanda forever!",
+        "show": "Black Panther",
+        "start_year": 2018,
+        "end_year": 2018
+    },
+    {
+        "quote": "This is the way.",
+        "show": "The Mandalorian",
+        "start_year": 2019,
+        "end_year": 2023
+    },
+    {
+        "quote": "I am the one who knocks!",
+        "show": "Breaking Bad",
+        "start_year": 2008,
+        "end_year": 2013
+    },
+    {
+        "quote": "Clear eyes, full hearts, can't lose.",
+        "show": "Friday Night Lights",
+        "start_year": 2006,
+        "end_year": 2011
+    },
+    {
+        "quote": "That's what she said.",
+        "show": "The Office",
+        "start_year": 2005,
+        "end_year": 2013
+    },
+    {
+        "quote": "How you doin'?",
+        "show": "Friends",
+        "start_year": 1994,
+        "end_year": 2004
+    },
+    {
+        "quote": "We were on a break!",
+        "show": "Friends",
+        "start_year": 1994,
+        "end_year": 2004
+    },
+    {
+        "quote": "Dunder Mifflin, this is Pam.",
+        "show": "The Office",
+        "start_year": 2005,
+        "end_year": 2013
+    },
+    {
+        "quote": "The night is dark and full of terrors.",
+        "show": "Game of Thrones",
+        "start_year": 2011,
+        "end_year": 2019
+    },
+    {
+        "quote": "Say my name.",
+        "show": "Breaking Bad",
+        "start_year": 2008,
+        "end_year": 2013
+    },
+    {
+        "quote": "No soup for you!",
+        "show": "Seinfeld",
+        "start_year": 1989,
+        "end_year": 1998
+    },
+    {
+        "quote": "Yada yada yada.",
+        "show": "Seinfeld",
+        "start_year": 1989,
+        "end_year": 1998
+    },
+    {
+        "quote": "Serenity now!",
+        "show": "Seinfeld",
+        "start_year": 1989,
+        "end_year": 1998
+    },
+    {
+        "quote": "You got it, dude!",
+        "show": "Full House",
+        "start_year": 1987,
+        "end_year": 1995
+    },
+    {
+        "quote": "I want to believe.",
+        "show": "The X-Files",
+        "start_year": 1993,
+        "end_year": 2018
+    },
+    {
+        "quote": "Cowabunga!",
+        "show": "Teenage Mutant Ninja Turtles",
+        "start_year": 1987,
+        "end_year": 1996
+    },
+    {
+        "quote": "Zoinks!",
+        "show": "Scooby-Doo",
+        "start_year": 1969,
+        "end_year": 2024
+    },
+    {
+        "quote": "I choo-choo-choose you.",
+        "show": "The Simpsons",
+        "start_year": 1989,
+        "end_year": 2025
+    },
+    {
+        "quote": "Eat my shorts!",
+        "show": "The Simpsons",
+        "start_year": 1989,
+        "end_year": 2025
+    },
+    {
+        "quote": "Excellent...",
+        "show": "The Simpsons",
+        "start_year": 1989,
+        "end_year": 2025
+    },
+    {
+        "quote": "Did I do that?",
+        "show": "Family Matters",
+        "start_year": 1989,
+        "end_year": 1998
+    },
+    {
+        "quote": "I'm Pickle Rick!",
+        "show": "Rick and Morty",
+        "start_year": 2013,
+        "end_year": 2025
+    },
+    {
+        "quote": "Wubba Lubba Dub Dub!",
+        "show": "Rick and Morty",
+        "start_year": 2013,
+        "end_year": 2025
+    },
+    {
+        "quote": "By the power of Grayskull!",
+        "show": "He-Man and the Masters of the Universe",
+        "start_year": 1983,
+        "end_year": 1985
+    },
+    {
+        "quote": "I am vengeance. I am the night. I am Batman!",
+        "show": "Batman: The Animated Series",
+        "start_year": 1992,
+        "end_year": 1995
+    },
+    {
+        "quote": "Do or do not. There is no try.",
+        "show": "Star Wars: The Empire Strikes Back",
+        "start_year": 1980,
+        "end_year": 1980
+    },
+    {
+        "quote": "It's-a me, Mario!",
+        "show": "Super Mario Bros. Super Show",
+        "start_year": 1989,
+        "end_year": 1989
+    },
+    {
+        "quote": "I'm not a crook.",
+        "show": "Frost/Nixon",
+        "start_year": 2008,
+        "end_year": 2008
+    },
+    {
+        "quote": "It’s morphin’ time!",
+        "show": "Mighty Morphin Power Rangers",
+        "start_year": 1993,
+        "end_year": 1996
+    },
+    {
+        "quote": "You have failed this city!",
+        "show": "Arrow",
+        "start_year": 2012,
+        "end_year": 2020
+    },
+    {
+        "quote": "You know nothing, Jon Snow.",
+        "show": "Game of Thrones",
+        "start_year": 2011,
+        "end_year": 2019
+    },
+    {
+        "quote": "To boldly go where no man has gone before.",
+        "show": "Star Trek",
+        "start_year": 1966,
+        "end_year": 1969
+    },
+    {
+        "quote": "Resistance is futile.",
+        "show": "Star Trek: The Next Generation",
+        "start_year": 1987,
+        "end_year": 1994
+    },
+    {
+        "quote": "Space... the final frontier.",
+        "show": "Star Trek",
+        "start_year": 1966,
+        "end_year": 1969
+    },
+    {
+        "quote": "Just one more thing...",
+        "show": "Columbo",
+        "start_year": 1968,
+        "end_year": 2003
+    },
+    {
+        "quote": "You rang?",
+        "show": "The Addams Family",
+        "start_year": 1964,
+        "end_year": 1966
+    },
+    {
+        "quote": "Danger, Will Robinson!",
+        "show": "Lost in Space",
+        "start_year": 1965,
+        "end_year": 1968
+    },
+    {
+        "quote": "The tribe has spoken.",
+        "show": "Survivor",
+        "start_year": 2000,
+        "end_year": 2025
+    },
+    {
+        "quote": "Is that your final answer?",
+        "show": "Who Wants to Be a Millionaire?",
+        "start_year": 1999,
+        "end_year": 2020
+    },
+    {
+        "quote": "Come on down!",
+        "show": "The Price Is Right",
+        "start_year": 1972,
+        "end_year": 2025
+    },
+    {
+        "quote": "I'm the captain now.",
+        "show": "Captain Phillips",
+        "start_year": 2013,
+        "end_year": 2013
+    },
+    {
+        "quote": "I solemnly swear that I am up to no good.",
+        "show": "Harry Potter and the Prisoner of Azkaban",
+        "start_year": 2004,
+        "end_year": 2004
+    },
+    {
+        "quote": "It's LeviOsa, not LeviosA.",
+        "show": "Harry Potter and the Sorcerer's Stone",
+        "start_year": 2001,
+        "end_year": 2002
+    }
+]

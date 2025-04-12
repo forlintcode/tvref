@@ -1,0 +1,191 @@
+{
+  "nodes": [
+    {
+      "id": "friends",
+      "count": 0,
+      "is_source": true
+    },
+    {
+      "id": "The Simpsons",
+      "count": 4,
+      "is_source": false
+    },
+    {
+      "id": "When Harry Met Sally...",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "All About Eve",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Mighty Morphin Power Rangers",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "star wars",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Dr. No",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "titanic",
+      "count": 3,
+      "is_source": false
+    },
+    {
+      "id": "Columbo",
+      "count": 3,
+      "is_source": false
+    },
+    {
+      "id": "Family Matters",
+      "count": 3,
+      "is_source": false
+    },
+    {
+      "id": "citizen kane",
+      "count": 2,
+      "is_source": false
+    },
+    {
+      "id": "jurassic park",
+      "count": 2,
+      "is_source": false
+    },
+    {
+      "id": "Scarface",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "die hard",
+      "count": 8,
+      "is_source": false
+    },
+    {
+      "id": "The Price Is Right",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Seinfeld",
+      "count": 4,
+      "is_source": false
+    },
+    {
+      "id": "E.T. the Extra-Terrestrial",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "gladiator",
+      "count": 4,
+      "is_source": false
+    },
+    {
+      "id": "toy story",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "the terminator",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Jaws",
+      "count": 1,
+      "is_source": false
+    }
+  ],
+  "links": [
+    {
+      "source": "friends",
+      "target": "The Simpsons"
+    },
+    {
+      "source": "friends",
+      "target": "When Harry Met Sally..."
+    },
+    {
+      "source": "friends",
+      "target": "All About Eve"
+    },
+    {
+      "source": "friends",
+      "target": "Mighty Morphin Power Rangers"
+    },
+    {
+      "source": "friends",
+      "target": "star wars"
+    },
+    {
+      "source": "friends",
+      "target": "Dr. No"
+    },
+    {
+      "source": "friends",
+      "target": "titanic"
+    },
+    {
+      "source": "friends",
+      "target": "Columbo"
+    },
+    {
+      "source": "friends",
+      "target": "Family Matters"
+    },
+    {
+      "source": "friends",
+      "target": "citizen kane"
+    },
+    {
+      "source": "friends",
+      "target": "jurassic park"
+    },
+    {
+      "source": "friends",
+      "target": "Scarface"
+    },
+    {
+      "source": "friends",
+      "target": "die hard"
+    },
+    {
+      "source": "friends",
+      "target": "The Price Is Right"
+    },
+    {
+      "source": "friends",
+      "target": "Seinfeld"
+    },
+    {
+      "source": "friends",
+      "target": "E.T. the Extra-Terrestrial"
+    },
+    {
+      "source": "friends",
+      "target": "gladiator"
+    },
+    {
+      "source": "friends",
+      "target": "toy story"
+    },
+    {
+      "source": "friends",
+      "target": "the terminator"
+    },
+    {
+      "source": "friends",
+      "target": "Jaws"
+    }
+  ]
+}
