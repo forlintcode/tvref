@@ -11,7 +11,10 @@ print("🚀 Starting backend...")
 print("📂 Current working directory:", os.getcwd())
 
 app = Flask(__name__)
-CORS(app, origins=["http://localhost:5173"])
+
+CORS(app, origins=["https://tvref.vercel.app"],
+     methods=["GET", "POST"],
+     allowed_headers=["Content-Type", "Authorization"])
 
 BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "data"
