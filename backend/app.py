@@ -86,5 +86,8 @@ def get_references(show_name):
         return jsonify({"error": str(e)}), 500
 
 if __name__ == "__main__":
-    print("🟢 Flask app is now running at http://localhost:5000")
-    app.run(debug=True, use_reloader=False)
+    # Get the PORT environment variable or default to 5000
+    port = os.getenv("PORT", 5000)
+    # Flask app is now binding to 0.0.0.0 to allow external connections
+    print(f"🟢 Flask app is now running at http://0.0.0.0:{port}")
+    app.run(host="0.0.0.0", port=int(port), debug=True, use_reloader=False)
