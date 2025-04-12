@@ -5,10 +5,9 @@ const Home = () => {
   const [shows, setShows] = useState<string[]>([]);
 
   useEffect(() => {
-    fetch("https://tvref-backend.onrender.com/shows")
+    fetch("/api/shows")
       .then((res) => res.json())
       .then((data) => {
-        console.log("Shows fetched from backend:", data);
         setShows(data);
       })
       .catch((err) => {
@@ -17,16 +16,16 @@ const Home = () => {
   }, []);
 
   return (
-    <div className="p-6 bg-black min-h-screen text-white">
-      <h1 className="text-4xl font-extrabold mb-8">📺 TV Reference Explorer</h1>
+    <div className="min-h-screen bg-background text-heading font-sans px-6 py-10">
+      <h1 className="text-5xl font-bold mb-10 text-accent tracking-wide">
+        🎬 Explore the TV Multiverse
+      </h1>
 
-      {/* Section Title */}
-      <h2 className="text-2xl font-semibold mb-3">All Shows</h2>
+      <h2 className="text-2xl font-semibold mb-4 text-primary">All Shows</h2>
 
-      {/* Horizontal Scroll Row */}
-      <div className="flex overflow-x-auto gap-4 pb-4 scrollbar-hide">
+      <div className="flex overflow-x-auto gap-6 pb-6 scrollbar-hide">
         {shows.map((show) => (
-          <div key={show} className="flex-shrink-0 w-[180px]">
+          <div key={show} className="flex-shrink-0 w-[200px]">
             <ShowCard name={show} />
           </div>
         ))}
