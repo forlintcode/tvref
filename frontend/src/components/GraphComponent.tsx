@@ -89,8 +89,8 @@ const GraphComponent = ({ data, showName }) => {
         <div className="w-[90vw] h-[90vh] rounded-2xl overflow-hidden shadow-lg border border-gray-700 relative z-0">
           <ForceGraph2D
             ref={fgRef}
-            linkDirectionalParticles={2}
-            linkDirectionalParticleSpeed={0.005}
+            linkDirectionalParticles={0}
+            linkDirectionalParticleSpeed={0}
             cooldownTicks={100}
             onEngineStop={() => fgRef.current.zoomToFit(400)}
             nodeAutoColorBy="group"
