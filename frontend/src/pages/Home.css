@@ -1,0 +1,30 @@
+/* Home.css */
+
+.flicker {
+    animation: flicker 2s infinite alternate;
+  }
+  
+  @keyframes flicker {
+    0%   { opacity: 0.85; text-shadow: 0 0 4px #0ff; }
+    20%  { opacity: 1; text-shadow: 0 0 6px #0ff; }
+    40%  { opacity: 0.7; }
+    60%  { opacity: 0.95; text-shadow: 0 0 8px #0ff; }
+    80%  { opacity: 1; }
+    100% { opacity: 0.85; }
+  }
+  
+  .neon-frame {
+    border-radius: 20px;
+    border: 2px solid rgba(0, 255, 255, 0.2);
+    box-shadow: 0 0 10px rgba(0, 255, 255, 0.1), 0 0 40px rgba(0, 255, 255, 0.3);
+  }
+  
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
