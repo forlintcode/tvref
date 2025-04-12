@@ -74,7 +74,7 @@ const GraphComponent = ({ data, showName }) => {
       setSelectedNode(node);
       try {
         const response = await axios.get(
-          `http://127.0.0.1:5000/references/${showName}`
+          `https://tvref-backend.onrender.com/references/${showName}`
         );
         const allRefs = response.data;
         const nodeRefs = allRefs[node.id] || [];

@@ -5,7 +5,7 @@ const Home = () => {
   const [shows, setShows] = useState<string[]>([]);
 
   useEffect(() => {
-    fetch("http://127.0.0.1:5000/shows")
+    fetch("https://tvref-backend.onrender.com/shows")
       .then((res) => res.json())
       .then((data) => {
         console.log("Shows fetched from backend:", data);

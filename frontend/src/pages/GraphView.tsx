@@ -14,7 +14,7 @@ function GraphView() {
     const fetchGraph = async () => {
       try {
         console.log("Fetching graph for:", showName);
-        const response = await fetch(`http://127.0.0.1:5000/graph/${showName}`);
+        const response = await fetch(`https://tvref-backend.onrender.com/graph/${showName}`);
         const data = await response.json();
         console.log("Graph data received:", data);
         setGraph(data);
@@ -31,7 +31,7 @@ function GraphView() {
 
   const handleNodeClick = async (nodeId: string) => {
     try {
-      const res = await axios.get(`http://127.0.0.1:5000/references/${showName}`);
+      const res = await axios.get(`https://tvref-backend.onrender.com/references/${showName}`);
       const allRefs = res.data;
       const nodeRefs = allRefs[nodeId] || [];
       setSelectedNode(nodeId);
