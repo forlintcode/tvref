@@ -1,12 +1,13 @@
 import { useEffect, useState } from "react";
 import ShowCard from "../components/ShowCard";
 import bgImg from "../assets/image.png"; // Ensure this is in your assets folder
+import BASE_URL from "../config"; // 👈 import domain here
 
 const Home = () => {
   const [shows, setShows] = useState<string[]>([]);
 
   useEffect(() => {
-    fetch("https://tvref-backend.onrender.com/shows")
+    fetch(`${BASE_URL}/shows`) // 👈 use global domain
       .then((res) => res.json())
       .then((data) => {
         console.log("Shows fetched from backend:", data);

@@ -2,6 +2,7 @@ import { useParams } from 'react-router-dom'
 import { useEffect, useRef, useState } from 'react'
 import axios from 'axios'
 import GraphComponent from '../components/GraphComponent'
+import BASE_URL from "../config"; // 👈 import domain here
 
 function GraphView() {
   const { showName } = useParams()
@@ -14,7 +15,7 @@ function GraphView() {
     const fetchGraph = async () => {
       try {
         console.log("Fetching graph for:", showName);
-        const response = await fetch(`https://tvref-backend.onrender.com/graph/${showName}`);
+        const response = await fetch(`${BASE_URL}/graph/${showName}`);
         const data = await response.json();
         console.log("Graph data received:", data);
         setGraph(data);
@@ -31,7 +32,7 @@ function GraphView() {
 
   const handleNodeClick = async (nodeId: string) => {
     try {
-      const res = await axios.get(`https://tvref-backend.onrender.com/references/${showName}`);
+      const res = await axios.get(`${BASE_URL}/references/${showName}`);
       const allRefs = res.data;
       const nodeRefs = allRefs[nodeId] || [];
       setSelectedNode(nodeId);
@@ -43,7 +44,7 @@ function GraphView() {
 
   return (
     <div className="h-screen w-screen bg-black text-white overflow-y-auto">
-      <div className="flex justify-between items-center px-6 py-4 bg-[#111] border-b border-gray-700">
+      <div className="sticky top-0 z-50 flex justify-between items-center px-6 py-4 bg-[#111] border-b border-gray-700">
         <button
           onClick={() => window.location.href = '/'}
           className="bg-[#222] text-white px-4 py-1 rounded-full border border-gray-600 hover:border-cyan-400 hover:text-cyan-300 transition"

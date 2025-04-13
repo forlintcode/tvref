@@ -12,7 +12,7 @@ print("📂 Current working directory:", os.getcwd())
 
 app = Flask(__name__)
 
-CORS(app, origins=["https://tvref.vercel.app"],
+CORS(app, origins=["https://tvref.vercel.app", "http://localhost:5173"],
      methods=["GET", "POST"],
      allowed_headers=["Content-Type", "Authorization"])
 
