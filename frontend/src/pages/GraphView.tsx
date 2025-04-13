@@ -13,6 +13,11 @@ function GraphView() {
   const [tvShowReferences, setTvShowReferences] = useState<any[]>([]);
   const hasFetchedGraph = useRef(false);
 
+  // Reset scroll position when the component is mounted
+  useEffect(() => {
+    window.scrollTo(0, 0);  // This will scroll to the top of the page when the component loads
+  }, []);
+
   useEffect(() => {
     const fetchGraph = async () => {
       try {
