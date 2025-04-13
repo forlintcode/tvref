@@ -9,8 +9,10 @@ function GraphView() {
   const [graph, setGraph] = useState<any>(null);
   const [selectedNode, setSelectedNode] = useState<string | null>(null);
   const [references, setReferences] = useState<any[]>([]);
+
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [tvShowReferences, setTvShowReferences] = useState<any[]>([]);
+
   const hasFetchedGraph = useRef(false);
 
   useEffect(() => {
@@ -115,8 +117,9 @@ function GraphView() {
               <li>🔆 Brighter nodes have <span className="text-cyan-200">higher reference counts</span>.</li>
               <li>🎯 Source nodes are highlighted with <span className="text-yellow-400">yellow</span>.</li>
               <li>
-  &#x1F448; Clicking on a node will expand and show the references.
-</li>            </ul>
+                &#x1F448; Clicking on a node will expand and show the references.
+              </li>
+            </ul>
 
             <div className="mt-4 flex justify-end">
               <button
