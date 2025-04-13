@@ -1,79 +1,126 @@
-import requests
-from bs4 import BeautifulSoup
 import os
+import re
 import time
 import zipfile
-from io import BytesIO
+import shutil
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.common.exceptions import NoSuchElementException
 
-BASE_URL = "https://www.tvsubtitles.net"
-headers = {"User-Agent": "Mozilla/5.0"}
+# Shows we want to download
+target_shows = {
+    "Two and a Half Men",
+    "The Big Bang Theory",
+    "The Simpsons",
+    "Family Guy",
+    "How I Met Your Mother",
+    "Modern Family",
+    "Gilmore Girls"
+}
 
-known_shows = {
-    "friends": 17,
-    "breaking bad": 21,
-    "the office us": 267,
-    "game of thrones": 82,
-} 
+# Setup download directory
+base_download_dir = os.path.join(os.getcwd(), "subtitles")
 
+# Chrome options
+chrome_options = Options()
+chrome_options.add_experimental_option("prefs", {
+    "download.prompt_for_download": False,
+    "download.directory_upgrade": True,
+    "safebrowsing.enabled": True,
+})
 
-def find_show_url(show_name):
-    show_id = known_shows.get(show_name.lower())
-    if show_id:
-        return f"{BASE_URL}/tvshow-{show_id}.html"
-    print("❌ Show ID not found in known list.")
-    return None
+# Set up Chrome
+service = Service(ChromeDriverManager().install())
+driver = webdriver.Chrome(service=service, options=chrome_options)
 
-def download_and_extract_subtitle(url, season, episode, show_name, output_folder):
-    res = requests.get(url, headers=headers)
-    soup = BeautifulSoup(res.text, "html.parser")
-    download_link = soup.find("a", string="Download English subtitle")
-    if not download_link:
-        return
-    subtitle_url = BASE_URL + "/" + download_link["href"]
-    r = requests.get(subtitle_url, headers=headers)
+base_url = "https://www.tvsubtitles.net"
 
+# Function to extract zip files
+def extract_zip(zip_path, extract_to):
     try:
-        with zipfile.ZipFile(BytesIO(r.content)) as z:
-            for file in z.namelist():
-                if file.endswith(".srt"):
-                    filename = f"s{season:02d}e{episode:02d}.srt"
-                    filepath = os.path.join(output_folder, filename)
-                    with open(filepath, "wb") as f:
-                        f.write(z.read(file))
-                    print(f"✅ Saved: {filename}")
-                    return
-    except zipfile.BadZipFile:
-        print(f"❌ Bad zip for S{season:02d}E{episode:02d}")
+        with zipfile.ZipFile(zip_path, 'r') as zip_ref:
+            zip_ref.extractall(extract_to)
+        os.remove(zip_path)  # Remove the zip file after extraction
+        print(f"✅ Extracted: {zip_path}")
+    except Exception as e:
+        print(f"❌ Error extracting {zip_path}: {e}")
 
-def scrape_show_to_flat_folder(show_url, show_name):
-    output_folder = f"subs/{show_name}"
-    os.makedirs(output_folder, exist_ok=True)
+# Loop through each target show
+for show_title in target_shows:
+    try:
+        print(f"Starting download process for '{show_title}'...")
 
-    res = requests.get(show_url, headers=headers)
-    soup = BeautifulSoup(res.text, "html.parser")
-    season_links = soup.select("div#right_container div.season > a")
-    
-    for season_link in season_links:
-        season_url = BASE_URL + "/" + season_link["href"]
-        season_num = int(season_link.text.strip().split()[-1])
-        res = requests.get(season_url, headers=headers)
-        soup = BeautifulSoup(res.text, "html.parser")
-        rows = soup.select("table#table5 tr")[1:]
+        # Reload top page for fresh DOM
+        driver.get(f"{base_url}/top.html")
+        time.sleep(2)
 
-        for row in rows:
-            cols = row.find_all("td")
-            if len(cols) < 3:
-                continue
-            episode_num = int(cols[0].text.strip())
-            ep_link = BASE_URL + "/" + cols[1].find("a")["href"]
-            download_and_extract_subtitle(ep_link, season_num, episode_num, show_name, output_folder)
-            time.sleep(1)
+        # Find the link to the show by visible text
+        show_link = driver.find_element(By.LINK_TEXT, show_title)
+        show_href = show_link.get_attribute("href")
+        show_name_folder = show_title.replace("_", " ")  # Replace underscores with spaces
 
-# 🔄 Wrapper function
-def scrape_subtitles_for_show(show_name):
-    show_url = find_show_url(show_name)
-    if show_url:
-        scrape_show_to_flat_folder(show_url, show_name)
+        # Prepare folder
+        download_dir = os.path.join(base_download_dir, show_name_folder)
+        os.makedirs(download_dir, exist_ok=True)
 
-# Example usage:
-scrape_subtitles_for_show("The Office Us")
+        # Set dynamic download path
+        driver.execute_cdp_cmd("Page.setDownloadBehavior", {
+            "behavior": "allow",
+            "downloadPath": download_dir,
+        })
+
+        # Visit show page (latest season page usually)
+        driver.get(show_href)
+        time.sleep(2)
+
+        # Extract show ID and season number from the URL
+        match = re.search(r"tvshow-(\d+)-(\d+)", show_href)
+        if not match:
+            print(f"❌ Could not parse show ID for {show_title}")
+            continue
+        show_id = match.group(1)
+        current_season = int(match.group(2))
+
+        # Loop through seasons from current season down to season 1
+        for season in range(current_season, 0, -1):
+            subtitle_page = f"{base_url}/subtitle-{show_id}-{season}-en.html"
+            driver.get(subtitle_page)
+            time.sleep(2)
+
+            try:
+                download_button = driver.find_element(By.XPATH, f'//a[@href="download-{show_id}-{season}-en.html"]')
+                driver.execute_script("arguments[0].scrollIntoView();", download_button)
+                time.sleep(1)
+                download_button.click()
+                print(f"✅ Downloaded: {show_title} - Season {season}")
+                time.sleep(3)  # Wait for download to finish
+
+            except NoSuchElementException:
+                print(f"⚠️ Skipped {show_title} - Season {season} (No English subtitle page)")
+            except Exception as e:
+                print(f"❌ Error downloading {show_title} Season {season}: {e}")
+
+        # Wait to ensure all downloads for the show are complete
+        time.sleep(10)
+
+        # After all seasons are downloaded, now extract the zip files
+        downloaded_files = os.listdir(download_dir)
+        zip_files = [f for f in downloaded_files if f.endswith('.zip')]
+
+        for zip_file in zip_files:
+            zip_path = os.path.join(download_dir, zip_file)
+            season_folder = os.path.join(download_dir, "Extracted")
+            os.makedirs(season_folder, exist_ok=True)
+            extract_zip(zip_path, season_folder)  # Extract the zip file
+
+        print(f"✅ All seasons downloaded and extracted for {show_title}")
+        time.sleep(5)  # Time between each show
+
+    except Exception as e:
+        print(f"❌ Error processing show '{show_title}': {e}")
+
+driver.quit()
+print("All downloads and extractions complete.")

@@ -1,0 +1,245 @@
+{
+  "nodes": [
+    {
+      "id": "The Simpsons",
+      "count": 0,
+      "is_source": true
+    },
+    {
+      "id": "the boys",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Captain Phillips",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "star wars",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "barbie",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Terminator 2: Judgment Day",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Apollo 13",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "braveheart",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "suits",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Scarface",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "sherlock",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "the godfather",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "modern family",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Teenage Mutant Ninja Turtles",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Titanic",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "The Adventures of Sherlock Holmes",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "The Godfather",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Star Trek",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "seinfeld",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "inside out",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Seinfeld",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Game of Thrones",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Friends",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "ghostbusters",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "coco",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "the matrix",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Family Matters",
+      "count": 1,
+      "is_source": false
+    }
+  ],
+  "links": [
+    {
+      "source": "The Simpsons",
+      "target": "the boys"
+    },
+    {
+      "source": "The Simpsons",
+      "target": "Captain Phillips"
+    },
+    {
+      "source": "The Simpsons",
+      "target": "star wars"
+    },
+    {
+      "source": "The Simpsons",
+      "target": "barbie"
+    },
+    {
+      "source": "The Simpsons",
+      "target": "Terminator 2: Judgment Day"
+    },
+    {
+      "source": "The Simpsons",
+      "target": "Apollo 13"
+    },
+    {
+      "source": "The Simpsons",
+      "target": "braveheart"
+    },
+    {
+      "source": "The Simpsons",
+      "target": "suits"
+    },
+    {
+      "source": "The Simpsons",
+      "target": "Scarface"
+    },
+    {
+      "source": "The Simpsons",
+      "target": "sherlock"
+    },
+    {
+      "source": "The Simpsons",
+      "target": "the godfather"
+    },
+    {
+      "source": "The Simpsons",
+      "target": "modern family"
+    },
+    {
+      "source": "The Simpsons",
+      "target": "Teenage Mutant Ninja Turtles"
+    },
+    {
+      "source": "The Simpsons",
+      "target": "Titanic"
+    },
+    {
+      "source": "The Simpsons",
+      "target": "The Adventures of Sherlock Holmes"
+    },
+    {
+      "source": "The Simpsons",
+      "target": "The Godfather"
+    },
+    {
+      "source": "The Simpsons",
+      "target": "Star Trek"
+    },
+    {
+      "source": "The Simpsons",
+      "target": "seinfeld"
+    },
+    {
+      "source": "The Simpsons",
+      "target": "inside out"
+    },
+    {
+      "source": "The Simpsons",
+      "target": "Seinfeld"
+    },
+    {
+      "source": "The Simpsons",
+      "target": "Game of Thrones"
+    },
+    {
+      "source": "The Simpsons",
+      "target": "Friends"
+    },
+    {
+      "source": "The Simpsons",
+      "target": "ghostbusters"
+    },
+    {
+      "source": "The Simpsons",
+      "target": "coco"
+    },
+    {
+      "source": "The Simpsons",
+      "target": "the matrix"
+    },
+    {
+      "source": "The Simpsons",
+      "target": "Family Matters"
+    }
+  ]
+}

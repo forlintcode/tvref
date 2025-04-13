@@ -1,0 +1,434 @@
+{
+  "nodes": [
+    {
+      "id": "Gilmore Girls",
+      "count": 0,
+      "is_source": true
+    },
+    {
+      "id": "schindler's list",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "The Office",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Friends",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "barbie",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "citizen kane",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Casablanca",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "the shawshank redemption",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "the lion king",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Dirty Dancing",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "The Wizard of Oz",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Lost in Space",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "oppenheimer",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "ghostbusters",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "the boys",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "the crown",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Taxi Driver",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "suits",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "The X-Files",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Schitt's Creek",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "The Mandalorian",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Babe",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "The Simpsons",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "The Price Is Right",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "the matrix",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "the simpsons",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "dexter",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "the godfather",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "casablanca",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "south park",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Seinfeld",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Family Matters",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Game of Thrones",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "The Sixth Sense",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "house of cards",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "pulp fiction",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "sherlock",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "seinfeld",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "family guy",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "star wars",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "There Will Be Blood",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "The Shining",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "When Harry Met Sally...",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "gladiator",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Sunset Boulevard",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Star Trek",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "All About Eve",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Captain Phillips",
+      "count": 1,
+      "is_source": false
+    }
+  ],
+  "links": [
+    {
+      "source": "Gilmore Girls",
+      "target": "schindler's list"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "The Office"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "Friends"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "barbie"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "citizen kane"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "Casablanca"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "the shawshank redemption"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "the lion king"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "Dirty Dancing"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "The Wizard of Oz"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "Lost in Space"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "oppenheimer"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "ghostbusters"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "the boys"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "the crown"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "Taxi Driver"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "suits"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "The X-Files"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "Schitt's Creek"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "The Mandalorian"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "Babe"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "The Simpsons"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "The Price Is Right"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "the matrix"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "the simpsons"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "dexter"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "the godfather"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "casablanca"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "south park"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "Seinfeld"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "Family Matters"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "Game of Thrones"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "The Sixth Sense"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "house of cards"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "pulp fiction"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "sherlock"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "seinfeld"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "family guy"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "star wars"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "There Will Be Blood"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "The Shining"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "When Harry Met Sally..."
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "gladiator"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "Sunset Boulevard"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "Star Trek"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "All About Eve"
+    },
+    {
+      "source": "Gilmore Girls",
+      "target": "Captain Phillips"
+    }
+  ]
+}

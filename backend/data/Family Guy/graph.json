@@ -1,0 +1,695 @@
+{
+  "nodes": [
+    {
+      "id": "Family Guy",
+      "count": 0,
+      "is_source": true
+    },
+    {
+      "id": "suits",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "The Simpsons",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Apollo 13",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Family Matters",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Captain Phillips",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "The Wizard of Oz",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "fight club",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Titanic",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Friends",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Top Gun",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Columbo",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "barbie",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Full House",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "The Office",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "the boys",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Schitt's Creek",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "The Price Is Right",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Jerry Maguire",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "inside out",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "forrest gump",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Super Mario Bros. Super Show",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "sherlock",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "euphoria",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "the simpsons",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Teenage Mutant Ninja Turtles",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "The Shining",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "The Lord of the Rings: The Two Towers",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "The Big Bang Theory",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "interstellar",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Lethal Weapon",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "seinfeld",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "game of thrones",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "gladiator",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "A Few Good Men",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Dr. No",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "the terminator",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "There Will Be Blood",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Taxi Driver",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "modern family",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "breaking bad",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "mr. robot",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "house of cards",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "the crown",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "star wars",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "When Harry Met Sally...",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Forrest Gump",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "how i met your mother",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "titanic",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "pulp fiction",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "die hard",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Seinfeld",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Guardians of the Galaxy",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "the godfather",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Casablanca",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "stranger things",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "jurassic park",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Survivor",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "dexter",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Black Panther",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "the matrix",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "The Mandalorian",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Babe",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "coco",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "back to the future",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Braveheart",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "the last of us",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Frost/Nixon",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Citizen Kane",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "ghostbusters",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Game of Thrones",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "grey's anatomy",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "braveheart",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Midnight Cowboy",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Dirty Dancing",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "The Dark Knight",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "the shawshank redemption",
+      "count": 1,
+      "is_source": false
+    }
+  ],
+  "links": [
+    {
+      "source": "Family Guy",
+      "target": "suits"
+    },
+    {
+      "source": "Family Guy",
+      "target": "The Simpsons"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Apollo 13"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Family Matters"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Captain Phillips"
+    },
+    {
+      "source": "Family Guy",
+      "target": "The Wizard of Oz"
+    },
+    {
+      "source": "Family Guy",
+      "target": "fight club"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Titanic"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Friends"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Top Gun"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Columbo"
+    },
+    {
+      "source": "Family Guy",
+      "target": "barbie"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Full House"
+    },
+    {
+      "source": "Family Guy",
+      "target": "The Office"
+    },
+    {
+      "source": "Family Guy",
+      "target": "the boys"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Schitt's Creek"
+    },
+    {
+      "source": "Family Guy",
+      "target": "The Price Is Right"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Jerry Maguire"
+    },
+    {
+      "source": "Family Guy",
+      "target": "inside out"
+    },
+    {
+      "source": "Family Guy",
+      "target": "forrest gump"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Super Mario Bros. Super Show"
+    },
+    {
+      "source": "Family Guy",
+      "target": "sherlock"
+    },
+    {
+      "source": "Family Guy",
+      "target": "euphoria"
+    },
+    {
+      "source": "Family Guy",
+      "target": "the simpsons"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Teenage Mutant Ninja Turtles"
+    },
+    {
+      "source": "Family Guy",
+      "target": "The Shining"
+    },
+    {
+      "source": "Family Guy",
+      "target": "The Lord of the Rings: The Two Towers"
+    },
+    {
+      "source": "Family Guy",
+      "target": "The Big Bang Theory"
+    },
+    {
+      "source": "Family Guy",
+      "target": "interstellar"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Lethal Weapon"
+    },
+    {
+      "source": "Family Guy",
+      "target": "seinfeld"
+    },
+    {
+      "source": "Family Guy",
+      "target": "game of thrones"
+    },
+    {
+      "source": "Family Guy",
+      "target": "gladiator"
+    },
+    {
+      "source": "Family Guy",
+      "target": "A Few Good Men"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Dr. No"
+    },
+    {
+      "source": "Family Guy",
+      "target": "the terminator"
+    },
+    {
+      "source": "Family Guy",
+      "target": "There Will Be Blood"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Taxi Driver"
+    },
+    {
+      "source": "Family Guy",
+      "target": "modern family"
+    },
+    {
+      "source": "Family Guy",
+      "target": "breaking bad"
+    },
+    {
+      "source": "Family Guy",
+      "target": "mr. robot"
+    },
+    {
+      "source": "Family Guy",
+      "target": "house of cards"
+    },
+    {
+      "source": "Family Guy",
+      "target": "the crown"
+    },
+    {
+      "source": "Family Guy",
+      "target": "star wars"
+    },
+    {
+      "source": "Family Guy",
+      "target": "When Harry Met Sally..."
+    },
+    {
+      "source": "Family Guy",
+      "target": "Forrest Gump"
+    },
+    {
+      "source": "Family Guy",
+      "target": "how i met your mother"
+    },
+    {
+      "source": "Family Guy",
+      "target": "titanic"
+    },
+    {
+      "source": "Family Guy",
+      "target": "pulp fiction"
+    },
+    {
+      "source": "Family Guy",
+      "target": "die hard"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Seinfeld"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Guardians of the Galaxy"
+    },
+    {
+      "source": "Family Guy",
+      "target": "the godfather"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Casablanca"
+    },
+    {
+      "source": "Family Guy",
+      "target": "stranger things"
+    },
+    {
+      "source": "Family Guy",
+      "target": "jurassic park"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Survivor"
+    },
+    {
+      "source": "Family Guy",
+      "target": "dexter"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Black Panther"
+    },
+    {
+      "source": "Family Guy",
+      "target": "the matrix"
+    },
+    {
+      "source": "Family Guy",
+      "target": "The Mandalorian"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Babe"
+    },
+    {
+      "source": "Family Guy",
+      "target": "coco"
+    },
+    {
+      "source": "Family Guy",
+      "target": "back to the future"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Braveheart"
+    },
+    {
+      "source": "Family Guy",
+      "target": "the last of us"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Frost/Nixon"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Citizen Kane"
+    },
+    {
+      "source": "Family Guy",
+      "target": "ghostbusters"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Game of Thrones"
+    },
+    {
+      "source": "Family Guy",
+      "target": "grey's anatomy"
+    },
+    {
+      "source": "Family Guy",
+      "target": "braveheart"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Midnight Cowboy"
+    },
+    {
+      "source": "Family Guy",
+      "target": "Dirty Dancing"
+    },
+    {
+      "source": "Family Guy",
+      "target": "The Dark Knight"
+    },
+    {
+      "source": "Family Guy",
+      "target": "the shawshank redemption"
+    }
+  ]
+}

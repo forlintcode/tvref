@@ -1,0 +1,416 @@
+{
+  "nodes": [
+    {
+      "id": "The Big Bang Theory",
+      "count": 0,
+      "is_source": true
+    },
+    {
+      "id": "The Office",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Star Trek",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "mr. robot",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "The Simpsons",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Scarface",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Friends",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Breaking Bad",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Taxi Driver",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "the notebook",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "the matrix",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "sherlock",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Family Matters",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "star wars",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "seinfeld",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "inside out",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "gladiator",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Jerry Maguire",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "back to the future",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Captain Phillips",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Star Wars",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Game of Thrones",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "suits",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Seinfeld",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Columbo",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "the simpsons",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "All About Eve",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "whiplash",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "dexter",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "interstellar",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "ghostbusters",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Star Trek: The Next Generation",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "The Lord of the Rings: The Two Towers",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "The Wizard of Oz",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "toy story",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "the dark knight",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "the crown",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "the boys",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "coco",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "breaking bad",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Apollo 13",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Toy Story",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Midnight Cowboy",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "the lion king",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "game of thrones",
+      "count": 1,
+      "is_source": false
+    },
+    {
+      "id": "Guardians of the Galaxy",
+      "count": 1,
+      "is_source": false
+    }
+  ],
+  "links": [
+    {
+      "source": "The Big Bang Theory",
+      "target": "The Office"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "Star Trek"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "mr. robot"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "The Simpsons"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "Scarface"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "Friends"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "Breaking Bad"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "Taxi Driver"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "the notebook"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "the matrix"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "sherlock"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "Family Matters"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "star wars"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "seinfeld"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "inside out"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "gladiator"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "Jerry Maguire"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "back to the future"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "Captain Phillips"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "Star Wars"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "Game of Thrones"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "suits"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "Seinfeld"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "Columbo"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "the simpsons"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "All About Eve"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "whiplash"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "dexter"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "interstellar"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "ghostbusters"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "Star Trek: The Next Generation"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "The Lord of the Rings: The Two Towers"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "The Wizard of Oz"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "toy story"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "the dark knight"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "the crown"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "the boys"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "coco"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "breaking bad"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "Apollo 13"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "Toy Story"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "Midnight Cowboy"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "the lion king"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "game of thrones"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "target": "Guardians of the Galaxy"
+    }
+  ]
+}
