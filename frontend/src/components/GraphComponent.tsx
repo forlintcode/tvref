@@ -3,7 +3,30 @@ import ForceGraph2D from "react-force-graph-2d";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 import BASE_URL from "../config";
-
+// Utility to interpolate between two hex colors
+const getGradientColor = (startColor, endColor, percent) => {
+    const hexToRgb = hex =>
+      hex.replace(/^#/, "").match(/.{2}/g).map(x => parseInt(x, 16));
+  
+    const rgbToHex = rgb =>
+      "#" +
+      rgb
+        .map(x => {
+          const hex = x.toString(16);
+          return hex.length === 1 ? "0" + hex : hex;
+        })
+        .join("");
+  
+    const startRGB = hexToRgb(startColor);
+    const endRGB = hexToRgb(endColor);
+  
+    const resultRGB = startRGB.map((start, i) =>
+      Math.round(start + (endRGB[i] - start) * percent)
+    );
+  
+    return rgbToHex(resultRGB);
+  };
+  
 const GraphComponent = ({ data, showName }) => {
   const fgRef = useRef();
   const navigate = useNavigate();
@@ -108,32 +131,34 @@ const GraphComponent = ({ data, showName }) => {
           }}
           nodeCanvasObject={(node, ctx, globalScale) => {
             const fontSize = 10 / globalScale;
-
+          
             ctx.save();
             const isMax = node.count === maxCount;
+          
+            const minCount = Math.min(...data.nodes.map((n) => n.count || 0));
+            const normalizedCount = (node.count - minCount) / (maxCount - minCount);
+          
+            const color = getGradientColor("#7FDBFF", "#00FFFF", normalizedCount);
+          
             ctx.shadowColor = node.is_source
               ? "#FFD700"
               : isMax
               ? "#00ffff"
-              : "#00bfff";
+              : color;
             ctx.shadowBlur = node.is_source ? 20 : isMax ? 25 : 10;
-
+          
             ctx.beginPath();
             ctx.arc(node.x, node.y, dynamicSize, 0, 2 * Math.PI, false);
-            ctx.fillStyle = node.is_source
-              ? "#FFD700"
-              : isMax
-              ? "#00ffff"
-              : node.color || "#69b3a2";
+            ctx.fillStyle = node.is_source ? "#FFD700" : color;
             ctx.fill();
             ctx.restore();
-
+          
             ctx.font = `${fontSize}px Sans-Serif`;
             ctx.fillStyle = "white";
             ctx.textAlign = "center";
             ctx.textBaseline = "top";
             ctx.fillText(node.id, node.x, node.y + dynamicSize + 1);
-          }}
+          }}          
           onNodeClick={handleNodeClick}
           linkColor={() => "#999"}
           linkWidth={1}
@@ -175,7 +200,7 @@ const GraphComponent = ({ data, showName }) => {
         ))
       ) : (
         <p className="text-center text-sm text-gray-600">
-          No references found.
+          Unable to load references (probably transient error, try again later).
         </p>
       )}
     </div>
