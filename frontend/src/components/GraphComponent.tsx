@@ -131,34 +131,32 @@ const GraphComponent = ({ data, showName }) => {
           }}
           nodeCanvasObject={(node, ctx, globalScale) => {
             const fontSize = 10 / globalScale;
-          
+
             ctx.save();
             const isMax = node.count === maxCount;
-          
-            const minCount = Math.min(...data.nodes.map((n) => n.count || 0));
-            const normalizedCount = (node.count - minCount) / (maxCount - minCount);
-          
-            const color = getGradientColor("#7FDBFF", "#00FFFF", normalizedCount);
-          
             ctx.shadowColor = node.is_source
               ? "#FFD700"
               : isMax
               ? "#00ffff"
-              : color;
+              : "#00bfff";
             ctx.shadowBlur = node.is_source ? 20 : isMax ? 25 : 10;
-          
+
             ctx.beginPath();
             ctx.arc(node.x, node.y, dynamicSize, 0, 2 * Math.PI, false);
-            ctx.fillStyle = node.is_source ? "#FFD700" : color;
+            ctx.fillStyle = node.is_source
+              ? "#FFD700"
+              : isMax
+              ? "#00ffff"
+              : node.color || "#69b3a2";
             ctx.fill();
             ctx.restore();
-          
+
             ctx.font = `${fontSize}px Sans-Serif`;
             ctx.fillStyle = "white";
             ctx.textAlign = "center";
             ctx.textBaseline = "top";
             ctx.fillText(node.id, node.x, node.y + dynamicSize + 1);
-          }}          
+          }}
           onNodeClick={handleNodeClick}
           linkColor={() => "#999"}
           linkWidth={1}
