@@ -89,6 +89,7 @@ const GraphComponent = ({ data, showName }) => {
         <ForceGraph2D
           ref={fgRef}
           linkDirectionalParticles={0}
+          enableNodeDrag={false} // Prevent dragging
           linkDirectionalParticleSpeed={0}
           cooldownTicks={100}
           onEngineStop={() => fgRef.current.zoomToFit(400)}
