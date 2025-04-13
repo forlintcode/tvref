@@ -9,10 +9,8 @@ function GraphView() {
   const [graph, setGraph] = useState<any>(null);
   const [selectedNode, setSelectedNode] = useState<string | null>(null);
   const [references, setReferences] = useState<any[]>([]);
-
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [tvShowReferences, setTvShowReferences] = useState<any[]>([]);
-
   const hasFetchedGraph = useRef(false);
 
   useEffect(() => {
@@ -66,9 +64,12 @@ function GraphView() {
           ← Home
         </button>
 
-        <h1 className="text-2xl font-bold text-white">📺 {showName}</h1>
+        {/* Adjusted font size for responsive design */}
+        <h1 className="text-xl sm:text-2xl md:text-3xl font-bold text-white">
+          📺 {showName}
+        </h1>
 
-        {/* Matching Info Button (no icons used) */}
+        {/* Info Button */}
         <button
           onClick={() => {
             setIsModalOpen(true);
