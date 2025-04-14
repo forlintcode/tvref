@@ -42,17 +42,20 @@ const Home = () => {
         </blockquote>
 
         {/* New: What is this */}
-        <div className="text-center text-[#aaa] mb-8 max-w-3xl mx-auto">
-          <h4 className="text-lg font-semibold text-[#BBBBBB] mb-2">What is this?</h4>
-          <p className="text-sm">
-            TV Reference Explorer analyzes shows like <em>Friends</em>, <em>The Office</em>, and more to detect when they
-            mention, quote, or reference other media/TV shows/Movies. It uses a mix of NLP, semantic similarity, and a curated knowledge base to build a
-            visual graph of how shows and movies connect. There can be some false positives :)
-          </p>
-          <p className="text-sm mt-2">
-            Click on a show below to explore its reference map and see what it’s paying homage to.
-          </p>
-        </div>
+        {/* 👇 Updated "What is this" section */}
+<div className="text-center text-[#aaa] mb-8 max-w-3xl mx-auto">
+  <h4 className="text-lg font-semibold text-[#BBBBBB] mb-2">What is this?</h4>
+  <p className="text-sm">
+    Ever watched a show and thought, “Hey, that line sounds familiar”? TV Reference Explorer helps you find out where it came from.
+  </p>
+  <p className="text-sm mt-2">
+    It scans shows like <em>Friends</em>, <em>The Office</em>, and more to spot when they mention or quote other shows or movies — like a pop culture detective. 
+  </p>
+  <p className="text-sm mt-2">
+    Click on a show below to explore who it references, and where it might’ve been referenced too. It's fun, a little nerdy, and still a work in progress — so expect a few surprises!
+  </p>
+</div>
+
 
         {/* ✅ Compact Grid */}
         <div className="text-center text-white mb-6">
