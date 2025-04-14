@@ -47,8 +47,6 @@ const Home = () => {
   <h4 className="text-lg font-semibold text-[#BBBBBB] mb-2">What is this?</h4>
   <p className="text-sm">
     Ever watched a show and thought, “Hey, that line sounds familiar”? TV Reference Explorer helps you find out where it came from.
-  </p>
-  <p className="text-sm mt-2">
     It scans shows like <em>Friends</em>, <em>The Office</em>, and more to spot when they mention or quote other shows or movies — like a pop culture detective. 
   </p>
   <p className="text-sm mt-2">
