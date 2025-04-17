@@ -12,14 +12,8 @@ const Home = () => {
       .then((data) => {
         console.log("Shows fetched from backend:", data);
       
-        // Normalize and de-duplicate
-        const normalized = data.map((s: string) => s.trim());
-        const filtered = normalized.filter((show: string) => show.toLowerCase() !== "friends");
-      
-        const reordered = ["Friends", ...filtered];
-      
-        setShows(reordered);
-        setLoading(false);
+        setShows(data);
+        setLoading(false); // Data has been fetched, set loading to false
       })      
       .catch((err) => {
         console.error("Failed to fetch shows:", err);
