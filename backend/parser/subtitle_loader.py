@@ -82,16 +82,30 @@ def detect_format(content):
     return "unknown"
 
 def extract_episode_id(filename):
-    return Path(filename).stem
+    """
+    Extract episode ID like 'Two and a Half Men - 2x03' from the filename.
+    This ensures different encodings or title suffixes are treated as one episode.
+    """
+    name = Path(filename).stem
+    match = re.match(r"(.+? - \d+x\d+)", name)
+    return match.group(1).strip() if match else name
+
 
 def load_subtitles_from_folder(folder_relative_path):
     project_root = Path(__file__).resolve().parent.parent
     folder_path = project_root / folder_relative_path
 
     subtitle_data = {}
+    seen_episode_ids = set()  # Track already processed episodes
 
-    for filename in os.listdir(folder_path):
+    for filename in sorted(os.listdir(folder_path)):
         if filename.endswith(".srt") or filename.endswith(".sub"):
+            episode_id = extract_episode_id(filename)
+
+            if episode_id in seen_episode_ids:
+                print(f"⏩ Skipping duplicate subtitle: {filename}")
+                continue
+
             file_path = folder_path / filename
             try:
                 with open(file_path, "r", encoding="utf-8") as f:
@@ -104,7 +118,6 @@ def load_subtitles_from_folder(folder_relative_path):
                     print(f"❌ Skipping unreadable file: {filename} — {e}")
                     continue
 
-            episode_id = extract_episode_id(filename)
             file_format = detect_format(content)
 
             if file_format == "srt":
@@ -118,6 +131,7 @@ def load_subtitles_from_folder(folder_relative_path):
                 continue
 
             subtitle_data[episode_id] = blocks
+            seen_episode_ids.add(episode_id)
             print(f"🎞️  Episode: {filename} with {len(blocks)} subtitle block(s) [{file_format}]")
 
     return subtitle_data

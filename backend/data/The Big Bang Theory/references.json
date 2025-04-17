@@ -2,1371 +2,2194 @@
   "The Office": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 10x01 - The Conjugal Conjecture.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 10x01",
       "line": "That's what he said to me."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 10x02 - The Military Miniaturization.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 10x02",
       "line": "That's what he said to me."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 10x02 - The Military Miniaturization.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 10x02",
       "line": "That's what you said."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 10x12 - The Holiday Summation.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 10x12",
       "line": "That's exactly what she was saying."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 11x12 - The Matrimonial Metric.HDTV.SVA.en",
+      "episode": "The Big Bang Theory - 11x12",
       "line": "That's what she said."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 11x17 - The Athenaeum Allocation.HDTV.SVA.en",
+      "episode": "The Big Bang Theory - 11x17",
       "line": "That's what he was saying."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 4x05 - The Desperation Emanation.720p HDTV.CTU.en",
+      "episode": "The Big Bang Theory - 4x05",
       "line": "That's what she said."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 4x05 - The Desperation Emanation.HDTV.FQM.en",
-      "line": "That's what she said."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 8x16 - The Intimacy Acceleration.HDTV.DIMENSION.en",
+      "episode": "The Big Bang Theory - 8x16",
       "line": "That's what I said."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x18",
+      "line": "That's exactly what she said!"
+    }
+  ],
+  "the social network": [
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 10x02",
+      "line": "Fine, I'll put it on Facebook like a caveman."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 11x23",
+      "line": "Although, Stuart's already friended her on Facebook,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 12x08",
+      "line": "Still, you might want to take it off Facebook."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 12x12",
+      "line": "That doesn't seem to bother you. Mark Zuckerberg,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 12x18",
+      "line": "- We're Facebook friends. - Smooty!"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 1x09",
+      "line": "would you like to explain to me why your Facebook page"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 1x10",
+      "line": "If she Googles \"Leopold Houston,\" she'll find a Facebook page,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x03",
+      "line": "I even changed my Facebook status to"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x09",
+      "line": "This is Stephanie's Facebook page."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x09",
+      "line": "It's just her Facebook page"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x09",
+      "line": "Your Facebook status update."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x09",
+      "line": "You hacked my Facebook account?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x09",
+      "line": "She just updated her Facebook status."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x17",
+      "line": "if I take one picture of us together for my Facebook page?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x19",
+      "line": "According to Alicia's Facebook page,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x21",
+      "line": "That's not an email. That's Leslie's Facebook page."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x21",
+      "line": "I'm checking her Facebook page. Look at her status update."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 3x04",
+      "line": "Updating my facebook status,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 3x06",
+      "line": "Okay, some of my Facebook friends aren't geniuses."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 4x09",
+      "line": "I'll friend you on Facebook."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 4x12",
+      "line": "or post them on Facebook right from the app."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 4x15",
+      "line": "on your Facebook page."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 4x17",
+      "line": "take a taxi home from Raj's, but according to Facebook,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 4x23",
+      "line": "Sheldon's new Facebook photo."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 5x01",
+      "line": "It's all over her Facebook page."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 5x08",
+      "line": "her Facebook wall, texting her, nothing."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 5x10",
+      "line": "You friended Stuart on Facebook?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 5x10",
+      "line": "I thought you didn't like Facebook anymore."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 5x10",
+      "line": "You're looking at Facebook to find out how their date went."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 5x11",
+      "line": "He sent me a message through Facebook."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 6x10",
+      "line": "all those pictures on Facebook."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 6x16",
+      "line": "I went on Amy's Facebook page"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 8x05",
+      "line": "I feel like we're in the Facebook movie."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 8x15",
+      "line": "Eh, it's good enough for Facebook."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x03",
+      "line": "\"in a relationship\" on Facebook."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x03",
+      "line": "I should probably let all of my Facebook friends know."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x09",
+      "line": "So I'm gonna let you post a shame photo of me on Facebook."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x10",
+      "line": "on Facebook for our band and... Wait a second."
+    }
+  ],
+  "star wars: episode vi - return of the jedi": [
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 10x02",
+      "line": "the Death Star from <i>Star Trek.</i>"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 10x02",
+      "line": "and the Death Star is from <i>Star Wars,</i> not <i>Star Trek!</i>"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 10x17",
+      "line": "talking about Ewoks."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 11x05",
+      "line": "See, he gets Ewoks in his bed."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 4x14",
+      "line": "just before he started building the Death Star."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 5x08",
+      "line": "and building my Lego Death Star."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x12",
+      "line": "Luke Skywalker was only given one chance to destroy the Death Star."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x22",
+      "line": "No. He blew up the Death Star. Why do I know this?!"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x22",
+      "line": "Although, it might've been thoughtless of us to bake a Death Star cake."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x22",
+      "line": "Then how would Palpatine get Chancellor Valorum kicked out of office?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x22",
+      "line": "- A Death Star cake! - Yeah."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 8x19",
+      "line": "to a holding cell on the Death Star."
+    }
+  ],
+  "stranger things": [
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 10x02",
+      "line": "Hey, I learned a long time ago, when you're four feet eleven"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x14",
+      "line": "Hang on, hang on. There's a 7-Eleven here."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 3x18",
+      "line": "Hey, you didn't want a Slurpee at 7-Eleven,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x23",
+      "line": "Eleven."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 8x22",
+      "line": "...eleven."
+    }
+  ],
+  "the dark knight": [
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 10x03",
+      "line": "You know why Batman wanders around at night"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 10x06",
+      "line": "I put on Batman: The Animated Series. Your favorite!"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 10x07",
+      "line": "Where's Batman?!"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 10x10",
+      "line": "Do something, Batman."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 10x18",
+      "line": "no Hulk, no Batman, no life-size statues."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 11x09",
+      "line": "It's on the Batman flash drive on your key chain."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 11x09",
+      "line": "<i>Ooh, Batman flash drive.</i>"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 11x17",
+      "line": "We were like Batman and Robin."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 11x18",
+      "line": "The Bat-Signal isn't just to alert Batman,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 11x18",
+      "line": "Comparing me to Batman? I'll take it."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 11x18",
+      "line": "how long do you think they'll talk about Batman?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 11x21",
+      "line": "But it won't be with a Val Kilmer Batman figurine"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 12x15",
+      "line": "That's how I feel about Ben Affleck as Batman."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 12x15",
+      "line": "Take that, Batman.\""
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 12x22",
+      "line": "More than Batman wants to ignore"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 1x08",
+      "line": "It's right here under Batman's signature."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 1x16",
+      "line": "limited edition Dark Knight sculpture based on Alex Ross's definitive Batman."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x01",
+      "line": "I could be Batman."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x01",
+      "line": "You could be Batman?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x01",
+      "line": "Sure. I'm Batman. See?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x01",
+      "line": "- I'm Batman! - Damn it! Sheldon!"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x04",
+      "line": "We're here to see Koothrappali, not kill Batman."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x20",
+      "line": "Look, a new Batman belt buckle."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x20",
+      "line": "Come on! I need this for my Batman collection."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x20",
+      "line": "in an online debate in the DC Comics Batman chatroom,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x20",
+      "line": "in the event that Batman's death proves permanent,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x20",
+      "line": "Batman 2 has to be the second Robin, Jason Todd."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x20",
+      "line": "Removing Joe Chill as the killer of Batman's parents"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x20",
+      "line": "restored Joe Chill to the Batman mythology."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x21",
+      "line": "I'll take her to my stately manor outside Gotham City, and..."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 3x05",
+      "line": "who nearly destroyed the Batman movie franchise,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 3x09",
+      "line": "like, how the Joker got back at Batman for putting him"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 3x09",
+      "line": "He, he broke out and poisoned Gotham's water supply."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 3x16",
+      "line": "of this month's Batman."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 3x16",
+      "line": "Stan Lee had nothing to do with Batman."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 3x16",
+      "line": "I'm going to get him to sign a Batman as well."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 3x17",
+      "line": "Adam West was TV's Batman."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 4x06",
+      "line": "um, if I were Batman and you were Alfred,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 4x06",
+      "line": "Why do you get to be Batman?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 4x06",
+      "line": "Because Batman has the secret."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 4x06",
+      "line": "Which I've now just told to Batman."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 4x07",
+      "line": "But that doesn't prove I know Batman."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 4x11",
+      "line": "I'm Batman."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 4x17",
+      "line": "Sadly, Penny, this evening, I am the Dark Knight,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 5x05",
+      "line": "Here's the Batman 612"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 5x11",
+      "line": "It's yet another way I'm exactly like Batman."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 5x11",
+      "line": "The Dark Knight has your back."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 5x19",
+      "line": "Batman utility belt."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 6x04",
+      "line": "Batman."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 6x04",
+      "line": "LEONARD: Batman and Robin."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 6x04",
+      "line": "Wonder Twins plus the monkey <i>and</i> Batman."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 6x13",
+      "line": "Although when he comes to bed in his Batman pajamas,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 6x13",
+      "line": "your Batman, your Wolverine, Punisher."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 6x14",
+      "line": "Now I can look like Val Kilmer as Batman"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x02",
+      "line": "How about a Batman squirt gun?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x05",
+      "line": "Well, we're real close to finishing off the new Batman game."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x10",
+      "line": "I am cleaning up. Look at the mess the Joker made of Gotham City."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x13",
+      "line": "Batman got his ass kicked by my curling iron."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x14",
+      "line": "Even Batman breaks the rules."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x14",
+      "line": "You know I struggle with Batman."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 8x20",
+      "line": "Batman is a load-bearing blanket."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x03",
+      "line": "If Batman was real"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x13",
+      "line": "How could Batman possibly fight Superman?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x13",
+      "line": "Well, Batman's got a lot of money."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x13",
+      "line": "And now Ben Affleck is Batman?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x17",
+      "line": "When I was six, they told me Batman was coming to my party."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x17",
+      "line": "Closest thing to Batman I saw"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x17",
+      "line": "tricked him into thinking Batman was coming to his party."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x17",
+      "line": "Maybe we could get Batman to actually show up."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x17",
+      "line": "Or a real Batman. Hey, Stuart?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x17",
+      "line": "But it was a little weird to hear Batman say,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x17",
+      "line": "You know, Adam West is my favorite Batman?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x17",
+      "line": "and Batman from <i>The Lego Movie.</i>"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x17",
+      "line": "(deep voice): “I'm Batman.”"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x17",
+      "line": "I never had to say I'm Batman."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x17",
+      "line": "People knew I was Batman."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x17",
+      "line": "Batman finally came to your party."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x17",
+      "line": "Batman on the toilet."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x21",
+      "line": "I have a question about Batman."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x21",
+      "line": "Batman is a man who dresses up like a bat."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x21",
+      "line": "would he be Man-Batman?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x21",
+      "line": "But wouldn't Man-Batman just be a Batman"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x21",
+      "line": "But Batman is a man."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x21",
+      "line": "Well, that's just Batman."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x21",
+      "line": "that's Batman, but if Man-Man dresses as a bat,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x21",
+      "line": "that's Batman-Man."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x21",
+      "line": "I never got to ask my question about Batman."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x21",
+      "line": "If Batman were bitten by a radioactive Man-Bat,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x21",
+      "line": "or simply Man-Bat-Man-Bat-Batman?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x21",
+      "line": "Is he still wearing the Batman suit under the Man-Bat suit?"
     }
   ],
   "Star Trek": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 10x04 - The Cohabitation Experimentation.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 10x04",
       "line": "You enjoy your mission to boldly go where no man has gone before."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x22 - The Classified Materials Turbulence.720p HDTV.DiMENSiON.en",
-      "line": "will \"boldly go where no man has gone before.\""
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x22 - The Classified Materials Turbulence.HDTV.0TV.en",
-      "line": "will \"boldly go where no man has gone before.\""
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x22 - The Classified Materials Turbulence.HDTV.Proper NoTV.en",
+      "episode": "The Big Bang Theory - 2x22",
       "line": "will \"boldly go where no man has gone before.\""
     }
   ],
   "mr. robot": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 10x05 - The Hot Tub Contamination.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 10x05",
       "line": "Which one is Mr. Robot?"
     }
   ],
-  "The Simpsons": [
+  "the lord of the rings: the fellowship of the ring": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 10x07 - The Veracity Elasticity.HDTV.LOL.en",
-      "line": "Excellent."
+      "episode": "The Big Bang Theory - 10x09",
+      "line": "it's the MacArthur Fellowship."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 10x19 - The Collaboration Fluctuation.HDTV.LOL.en",
-      "line": "Excellent. Excellent."
+      "episode": "The Big Bang Theory - 10x23",
+      "line": "I was offered a summer research fellowship at Princeton."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 12x01 - The Conjugal Configuration.HDTV.KILLERS.en",
-      "line": "Excellent."
+      "episode": "The Big Bang Theory - 10x24",
+      "line": "I was offered a summer research fellowship at Princeton."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x17 - The Precious Fragmentation.720p HDTV.CTU.en",
-      "line": "Excellent, excellent."
+      "episode": "The Big Bang Theory - 11x01",
+      "line": "I was offered a summer research fellowship at Princeton."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x17 - The Precious Fragmentation.HDTV.FQM.en",
-      "line": "Excellent, excellent."
+      "episode": "The Big Bang Theory - 11x10",
+      "line": "and us getting one ring to rule them all."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x21 - The Plimpton Stimulation.720p HDTV.CTU.en",
-      "line": "Excellent."
+      "episode": "The Big Bang Theory - 11x24",
+      "line": "and you're the Fellowship."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x21 - The Plimpton Stimulation.HDTV.FQM.en",
-      "line": "Excellent."
+      "episode": "The Big Bang Theory - 1x06",
+      "line": "That's how we roll in the Shire."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 4x08 - The 21-second Excitation.HDTV.en",
-      "line": "Excellent."
+      "episode": "The Big Bang Theory - 2x01",
+      "line": "for a prestigious government research fellowship"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x02 - The Infestation Hypothesis.720p HDTV.IMMERSE.en",
-      "line": "Now take off your shorts."
+      "episode": "The Big Bang Theory - 2x14",
+      "line": "When Frodo left the Shire to take the one ring to Mordor,"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x02 - The Infestation Hypothesis.HDTV.ASAP.en",
-      "line": "Now take off your shorts."
+      "episode": "The Big Bang Theory - 3x17",
+      "line": "\"One Ring to rule them all.\""
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x02 - The Infestation Hypothesis.HDTV.TLA.en",
-      "line": "Now take off your shorts."
+      "episode": "The Big Bang Theory - 3x17",
+      "line": "\"One Ring to find them.\""
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x04 - The Raiders Minimization.HDTV.LOL.en",
-      "line": "Excellent."
+      "episode": "The Big Bang Theory - 3x17",
+      "line": "\"One Ring to bring them all.\""
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x12 - The Hesitation Ramification.HDTV.LOL.en",
-      "line": "Excellent."
+      "episode": "The Big Bang Theory - 3x17",
+      "line": "this is the one ring."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 4x02",
+      "line": "The pleasures of fellowship and camaraderie"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 4x14",
+      "line": "I just got offered a fellowship"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x20",
+      "line": "Oh, yeah. Wasn't that the basis of your postdoc fellowship?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 8x12",
+      "line": "are going to attack the Shire"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x08",
+      "line": "from Mordor to the Shire. And..."
     }
   ],
   "Scarface": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 10x09 - The Geology Elevation.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 10x09",
       "line": "Say hello to everybody's little friend--"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 6x14 - The Cooper Kripke Inversion.720p.WEB-DL.en",
-      "line": "Say hello"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 6x14 - The Cooper Kripke Inversion.en",
+      "episode": "The Big Bang Theory - 6x14",
       "line": "Say hello"
     }
   ],
   "Friends": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 10x10 - The Property Division Collision.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 10x10",
       "line": "Hey, how you doing?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 10x11 - The Birthday Synchronicity.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 10x11",
       "line": "You doin' okay?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 10x16 - The Allowance Evaporation.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 10x16",
       "line": "How ya doing?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 11x06 - The Proton Regeneration.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 11x06",
       "line": "Hey, how you doing?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 12x23-24 - The Change Constant.HDTV.SVA.en",
+      "episode": "The Big Bang Theory - 12x23",
       "line": "Finally caught a break."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x18 - The Work Song Nanocluster.720p HDTV.CTU.en",
+      "episode": "The Big Bang Theory - 2x18",
       "line": "How we doing?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x18 - The Work Song Nanocluster.HDTV.NoTV.en",
-      "line": "How we doing?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x09 - The Vengeance Formulation.720p HDTV.CTU.en",
+      "episode": "The Big Bang Theory - 3x09",
       "line": "How ya doin', buddy?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x09 - The Vengeance Formulation.HDTV.FQM.en",
-      "line": "How ya doin', buddy?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x18 - The Pants Alternative.720p HDTV.CTU.en",
+      "episode": "The Big Bang Theory - 3x18",
       "line": "...how you doing?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x18 - The Pants Alternative.HDTV.FQM.en",
-      "line": "...how you doing?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x23 - The Lunar Excitation.720p HDTV.CTU.en",
+      "episode": "The Big Bang Theory - 3x23",
       "line": "So how you doing?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x23 - The Lunar Excitation.HDTV.FQM.en",
-      "line": "So how you doing?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x01 - The Skank Reflex Analysis.720p HDTV.IMMERSE.en",
+      "episode": "The Big Bang Theory - 5x01",
       "line": "How you doing?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x01 - The Skank Reflex Analysis.HDTV.ASAP.en",
-      "line": "How you doing?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 6x08 - The 43 Peculiarity.720p HDTV.en",
+      "episode": "The Big Bang Theory - 6x08",
       "line": "So, how you doing?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 6x09 - The Parking Spot Escalation.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 6x09",
       "line": "So, how you doing?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x12 - The Hesitation Ramification.HDTV.LOL.en",
-      "line": "How you doing?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 8x09 - The Septum Deviation.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 8x09",
       "line": "So, how you doing?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 8x22 - The Graduation Transmission.HDTV.DIMENSION.en",
+      "episode": "The Big Bang Theory - 8x22",
       "line": "How are you doing?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x13",
+      "line": "We just needed a little break."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x16",
+      "line": "Hey, how you doin'?"
     }
   ],
   "Breaking Bad": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 10x14 - The Emotion Detection Automation.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 10x14",
       "line": "say your name,"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x08 - The Lizard-Spock Expansion.720p HDTV.CTU.en",
+      "episode": "The Big Bang Theory - 2x08",
       "line": "Really? Is that what you do when someone knocks?!"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x08 - The Lizard-Spock Expansion.HDTV.FoV.en",
-      "line": "Really? Is that what you do when someone knocks?!"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x02 - The Infestation Hypothesis.720p HDTV.IMMERSE.en",
+      "episode": "The Big Bang Theory - 5x02",
       "line": "That's right, say my name..."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x02 - The Infestation Hypothesis.HDTV.ASAP.en",
-      "line": "That's right, say my name..."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x02 - The Infestation Hypothesis.HDTV.TLA.en",
-      "line": "That's right, say my name..."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 8x02 - The Junior Professor Solution.720p.WEB-DL.HI.en",
+      "episode": "The Big Bang Theory - 8x02",
       "line": "That's right, say my name."
+    }
+  ],
+  "the godfather": [
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 10x15",
+      "line": "My apologies. I didn't mean to offend you, Don Corleone."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 8x02 - The Junior Professor Solution.HDTV.LOL.en",
-      "line": "That's right, say my name."
+      "episode": "The Big Bang Theory - 3x13",
+      "line": "Good idea. We'll go to Corleone's."
     }
   ],
   "Taxi Driver": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 10x16 - The Allowance Evaporation.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 10x16",
       "line": "Why aren't you talking to me?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 12x22 - The Maternal Conclusion.HDTV.SVA.en",
+      "episode": "The Big Bang Theory - 12x22",
       "line": "Oh, so now you're not talking to me?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 12x23-24 - The Change Constant.HDTV.SVA.en",
+      "episode": "The Big Bang Theory - 12x23",
       "line": "You're talking to me."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x02 - The Big Bran Hypothesis.720p HDTV.CTU.en",
+      "episode": "The Big Bang Theory - 1x02",
       "line": "Still not talking to me, huh?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x02 - The Big Bran Hypothesis.DVDRip.FoV.en",
-      "line": "Still not talking to me, huh?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x02 - The Big Bran Hypothesis.HDTV.XOR.en",
-      "line": "Still not talking to me, huh?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x08 - The Grasshopper Experiment.720p HDTV.HDQ.en",
+      "episode": "The Big Bang Theory - 1x08",
       "line": "Are you talking to me?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x08 - The Grasshopper Experiment.720p HDTV.HDQ.en",
+      "episode": "The Big Bang Theory - 1x08",
       "line": "I am talking to you."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x08 - The Grasshopper Experiment.DVDRip.FoV.en",
-      "line": "Are you talking to me?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x08 - The Grasshopper Experiment.DVDRip.FoV.en",
-      "line": "I am talking to you."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x08 - The Grasshopper Experiment.HDTV.XOR.en",
-      "line": "Are you talking to me?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x08 - The Grasshopper Experiment.HDTV.XOR.en",
-      "line": "I am talking to you."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 6x08 - The 43 Peculiarity.HDTV.ASAP.en",
-      "line": "Who you talking to?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 6x08 - The 43 Peculiarity.HDTV.LOL.en",
-      "line": "Who you talking to?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 6x24 - The Bon Voyage Reaction.en",
+      "episode": "The Big Bang Theory - 6x24",
       "line": "You're talking to me."
     }
   ],
   "the notebook": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 10x20 - The Recollection Dissipation.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 10x20",
       "line": "The notebook isn't in the bathroom."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 4x09 - The Boyfriend Complexity.720p HDTV.immerse.en",
+      "episode": "The Big Bang Theory - 4x09",
       "line": "I did it with you when we rented \"The Notebook\"."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 4x09 - The Boyfriend Complexity.HDTV.FQM.en",
-      "line": "I did it with you when we rented \"The Notebook\"."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 8x13 - The Anxiety Optimization.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 8x13",
       "line": "Maybe you want to put the notebook away and talk to me."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 8x13 - The Anxiety Optimization.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 8x13",
       "line": "Take the cap off, and put the notebook away."
+    }
+  ],
+  "breaking bad": [
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 10x21",
+      "line": "Okay, here. Uh, Heisenberg is pulled over by a police officer."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 10x21",
+      "line": "And Heisenberg says,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x23",
+      "line": "For the next 840 minutes, I'm effectively one of Heisenberg's particles."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 4x20",
+      "line": "Wait till you hear how he dumbs down Werner Heisenberg for the crowd."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 4x20",
+      "line": "You can think about Heisenberg's \"Uncertainty Principle\""
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 5x02",
+      "line": "That's right, say my name..."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 5x05",
+      "line": "of Heisenberg's uncertainty principle,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 5x16",
+      "line": "You know, I'm a big believer in breaking bad news"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 8x02",
+      "line": "That's right, say my name."
+    }
+  ],
+  "star wars: episode v - the empire strikes back": [
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 11x03",
+      "line": "\"Luke, I am your father.\" See?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x23",
+      "line": "Did Han Solo let Luke Skywalker freeze to death on the ice planet of Hoth?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 3x05",
+      "line": "as an air conditioner on the ice planet Hoth."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 3x19",
+      "line": "who can quote Yoda."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 5x23",
+      "line": "Leonard, I am your father."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x13",
+      "line": "Well, to be honest, I thought she said \"Yoda.\""
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 8x19",
+      "line": "Yoda's swamp was in the middle of nowhere."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 8x19",
+      "line": "Hoth was in the middle of nowhere."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 8x19",
+      "line": "What if I told you that I was the voice of Yoda?"
     }
   ],
   "the matrix": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 11x06 - The Proton Regeneration.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 11x06",
       "line": "you can only use integral values for the matrix"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x10 - The Loobenfeld Decay.HDTV.ASAP.en",
-      "line": "I'm in the matrix, Leonard; I see everything."
+      "episode": "The Big Bang Theory - 12x16",
+      "line": "How do we know it's not a Neo-otyugh?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x12 - The Jerusalem Duality.720p HDTV.CTU.en",
+      "episode": "The Big Bang Theory - 1x12",
+      "line": "The Oracle told us little Neo was the one."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 1x12",
       "line": "You can see the matrix, can't you?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x12 - The Jerusalem Duality.DVDRip.FoV.en",
-      "line": "You can see the matrix, can't you?"
+      "episode": "The Big Bang Theory - 1x17",
+      "line": "While speech is centered in the much more recently developed neo-cortex."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x12 - The Jerusalem Duality.HDTV.FoV.en",
-      "line": "You can see the matrix, can't you?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x02 - The Codpiece Topology.720p HDTV.CTU.en",
+      "episode": "The Big Bang Theory - 2x02",
       "line": "You know how I know we're not in the matrix?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x02 - The Codpiece Topology.DVDRip.SAiNTS.en",
-      "line": "You know how I know we're not in the Matrix?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x02 - The Codpiece Topology.HDTV.DOT.en",
-      "line": "You know how I know we're not in the matrix?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x10 - The Flaming Spittoon Acquisition.HDTV.ASAP.en",
+      "episode": "The Big Bang Theory - 5x10",
       "line": "I'm in the matrix, Leonard; I see everything."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 6x06 - The Extract Obliteration.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 6x06",
       "line": "gotten lost in the matrix.\""
-    }
-  ],
-  "sherlock": [
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 11x13 - The Solo Oscillation.HDTV.SVA.en",
-      "line": "Maybe “Sherlock Around the Clock.”"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 11x13 - The Solo Oscillation.HDTV.SVA.en",
-      "line": "♪ Sherlock, Sherlock ♪"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 11x13 - The Solo Oscillation.HDTV.SVA.en",
-      "line": "♪ Sherlock around the clock ♪"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x04 - The Pirate Solution.720p HDTV.CTU.en",
-      "line": "<i>We're watching goonies, gremlins and young sherlock holmes. </i>"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x04 - The Pirate Solution.HDTV.2HD.en",
-      "line": "<i>We're watching Goonies, Gremlins and Young Sherlock Holmes.</i>"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x01 - The Skank Reflex Analysis.720p HDTV.IMMERSE.en",
-      "line": "They slept together, Sherlock."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x01 - The Skank Reflex Analysis.HDTV.ASAP.en",
-      "line": "They slept together, Sherlock."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x18 - The Mommy Observation.720p HDTV.DIMENSION.en",
-      "line": "What is that, like, the Indian Sherlock Holmes?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x18 - The Mommy Observation.720p HDTV.DIMENSION.en",
-      "line": "Or is Sherlock Holmes the English Byomkesh Bakshi?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x18 - The Mommy Observation.720p HDTV.DIMENSION.en",
-      "line": "According to Wikipedia, Sherlock Holmes came first."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x18 - The Mommy Observation.720p.WEB-DL.en",
-      "line": "What is that, like, the Indian Sherlock Holmes?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x18 - The Mommy Observation.720p.WEB-DL.en",
-      "line": "Or is Sherlock Holmes the English Byomkesh Bakshi?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x18 - The Mommy Observation.720p.WEB-DL.en",
-      "line": "According to Wikipedia, Sherlock Holmes came first."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x18 - The Mommy Observation.HDTV.LOL.en",
-      "line": "What is that, like, the Indian Sherlock Holmes?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x18 - The Mommy Observation.HDTV.LOL.en",
-      "line": "Or is Sherlock Holmes the English Byomkesh Bakshi?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x18 - The Mommy Observation.HDTV.LOL.en",
-      "line": "According to Wikipedia, Sherlock Holmes came first."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 8x01 - The Locomotion Interruption.720p.WEB-DL.en",
-      "line": "Sherlock Holmes always says when you eliminate the impossible,"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 8x01 - The Locomotion Interruption.720p.WEB-DL.en",
-      "line": "Th-Th-There's lots of books called “Sherlock Holmes”"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 8x01 - The Locomotion Interruption.720p.WEB-DL.en",
-      "line": "You know, Sherlock Holmes liked to use cocaine to sharpen his focus."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 8x01 - The Locomotion Interruption.HDTV.LOL.en",
-      "line": "Sherlock Holmes always says"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 8x01 - The Locomotion Interruption.HDTV.LOL.en",
-      "line": "Th-Th-There's lots of books called “Sherlock Holmes”"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 8x01 - The Locomotion Interruption.HDTV.LOL.en",
-      "line": "You know, Sherlock Holmes"
-    }
-  ],
-  "Family Matters": [
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 11x20 - The Reclusive Potential.HDTV.SVA.en",
-      "line": "I did that?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x07 - The Panty Pi ata Polarization.HDTV.FoV.en",
-      "line": "I did?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x07 - The Panty Pi├▒ata Polarization.720p HDTV.SHELDON.en",
-      "line": "I did?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x07 - The Panty Pi├▒ata Polarization.DVDRip.SAiNTS.en",
-      "line": "I did?"
     }
   ],
   "star wars": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 11x24 - The Bow Tie Asymmetry.HDTV.SVA.en",
+      "episode": "The Big Bang Theory - 11x09",
+      "line": "and then you were the saddest Darth Vader."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 11x24",
       "line": "does anyone have any questions about Star Wars?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 11x24 - The Bow Tie Asymmetry.HDTV.SVA.en",
+      "episode": "The Big Bang Theory - 11x24",
       "line": "Why aren't there tires on any of those Star Wars vehicles?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 12x10 - The VCR Illumination.HDTV.SVA.en",
+      "episode": "The Big Bang Theory - 12x10",
       "line": "I was saving it for the day they stop making Star Wars movies."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x05 - The Euclid Alternative.720p HDTV.CTU.en",
+      "episode": "The Big Bang Theory - 1x01",
+      "line": "It's Darth Vader shampoo."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 1x14",
+      "line": "or Darth Vader voice changers."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 1x14",
+      "line": "More importantly, you have a Darth Vader voice changer?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x05",
+      "line": "I don't like the way Darth Vader stares at me."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x05",
       "line": "Now, take me to return my Star Wars sheets!"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x05 - The Euclid Alternative.720p HDTV.CTU.en",
+      "episode": "The Big Bang Theory - 2x05",
       "line": "Plus, we have to go to Pottery Barn and return my Star Wars sheets."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x05 - The Euclid Alternative.DVDRip.SAiNTS.en",
-      "line": "I bought these Star Wars sheets."
+      "episode": "The Big Bang Theory - 2x05",
+      "line": "You know the pale blue of Luke Skywalker's lightsaber?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x05 - The Euclid Alternative.DVDRip.SAiNTS.en",
-      "line": "Now take me to return my Star Wars sheets."
+      "episode": "The Big Bang Theory - 2x12",
+      "line": "Way to bust out the Jedi mind tricks, dude."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x05 - The Euclid Alternative.DVDRip.SAiNTS.en",
-      "line": "We have to go to Pottery Barn and return my Star Wars sheets."
+      "episode": "The Big Bang Theory - 3x01",
+      "line": "He came out of his room this morning wearing his Darth Vader helmet"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x05 - The Euclid Alternative.HDTV.NoTV.en",
-      "line": "Now, take me to return my Star Wars sheets!"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x05 - The Euclid Alternative.HDTV.NoTV.en",
-      "line": "Plus, we have to go to Pottery Barn and return my Star Wars sheets."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x21 - The Vegas Renormalization.DVDRip.SAiNTS.en",
-      "line": "Okay. Are you from the Star Wars universe?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x21 - The Vegas Renormalization.DVDRip.SAiNTS.en",
-      "line": "Are you in all six Star Wars movies?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x21 - The Vegas Renormalization.DVDRip.SAiNTS.en",
-      "line": "Are you Star Wars?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x06 - The Cornhusker Vortex.720p HDTV.CTU.en",
+      "episode": "The Big Bang Theory - 3x06",
       "line": "When we watch Star Wars,"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x16 - The Excelsior Acquisition.720p HDTV.CTU.en",
+      "episode": "The Big Bang Theory - 3x14",
+      "line": "Darth Vader, Rupert Murdoch."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 3x14",
+      "line": "he and Darth Vader are tied for #2."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 3x15",
+      "line": "Darth Vader, Rupert Murdoch."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 3x15",
+      "line": "he and Darth Vader are tied for #2."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 3x16",
       "line": "Star Wars? No."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x19 - The Wheaton Recurrence.HDTV.FQM.en",
-      "line": "Did you just quote Star Wars?"
+      "episode": "The Big Bang Theory - 4x02",
+      "line": "Let's take him to Tatooine and sell him to some Jawas."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x09 - The Ornithophobia Diffusion.HDTV.DIMENSION.en",
+      "episode": "The Big Bang Theory - 4x06",
+      "line": "I'm the Darth Vader of Pasadena."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 4x06",
+      "line": "You're far too short to be Darth Vader."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 4x14",
+      "line": "FYI, I think that's what Darth Vader said"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 5x03",
+      "line": "(imitating lightsaber)"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 5x03",
+      "line": "(imitates lightsaber turning off)"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 5x09",
       "line": "Star Wars on Blu-ray."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x09 - The Ornithophobia Diffusion.HDTV.DIMENSION.en",
+      "episode": "The Big Bang Theory - 5x09",
       "line": "Come on, Sheldon, Star Wars."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x09 - The Ornithophobia Diffusion.HDTV.FQM.en",
-      "line": "Star Wars on Blu-ray."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x09 - The Ornithophobia Diffusion.HDTV.FQM.en",
-      "line": "Come on, Sheldon, Star Wars."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x19 - The Weekend Vortex.720p HDTV.lol.en",
+      "episode": "The Big Bang Theory - 5x19",
       "line": "Star Wars."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x19 - The Weekend Vortex.DVDRip.en",
-      "line": "Star Wars."
+      "episode": "The Big Bang Theory - 6x06",
+      "line": "Trying to use a Jedi mind trick"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x19 - The Weekend Vortex.HDTV.2HD.en",
-      "line": "Star Wars."
+      "episode": "The Big Bang Theory - 7x07",
+      "line": "It's a lightsaber belt buckle."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x12 - The Hesitation Ramification.720p.WEB-DL.en",
+      "episode": "The Big Bang Theory - 7x12",
       "line": "Star Wars audition, take one..."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x12 - The Hesitation Ramification.HDTV.LOL.en",
-      "line": "Star Wars audition, take one..."
+      "episode": "The Big Bang Theory - 7x14",
+      "line": "The voice of Darth Vader,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x14",
+      "line": "Which also sounds like Darth Vader."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x14",
+      "line": "Darth Vader's gonna pour soy sauce on your head."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x14",
+      "line": "and Darth Vader told Luke he was his father..."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x14",
+      "line": "to create the sound of Darth Vader breathing?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x14",
+      "line": "I'm on a Ferris wheel with Darth Vader!"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x22",
+      "line": "\"May the force be with you.\" Get it?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x22",
+      "line": "When Darth Vader struck down Obi-Wan,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x22",
+      "line": "Those are your Jedi robes."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x22",
+      "line": "It's where Luke was trained in the ways of the Jedi."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x22",
+      "line": "Hey, the guys are about to start <i>Jedi. </i> You want to go watch?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 8x09",
+      "line": "that has a Jedi class."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 8x13",
+      "line": "so I'm using Darth Vader, the Joker, and Godzilla's roar"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 8x19",
+      "line": "Tatooine was in the middle of nowhere."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 8x21",
+      "line": "Well, from Jabba's head to ice cream with Darth Vader,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x05",
+      "line": "(with accent): My name is Darth Vader."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x11",
+      "line": "Those are the robes of the Jedi,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x12",
+      "line": "when our entire bedroom is filled with Star Wars toys?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x22",
+      "line": "this is one that I like to call Star Wars Toast because..."
+    }
+  ],
+  "sherlock": [
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 11x13",
+      "line": "Maybe “Sherlock Around the Clock.”"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 11x13",
+      "line": "♪ Sherlock, Sherlock ♪"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 11x13",
+      "line": "♪ Sherlock around the clock ♪"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 3x04",
+      "line": "<i>We're watching goonies, gremlins and young sherlock holmes. </i>"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 5x01",
+      "line": "They slept together, Sherlock."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x18",
+      "line": "What is that, like, the Indian Sherlock Holmes?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x18",
+      "line": "Or is Sherlock Holmes the English Byomkesh Bakshi?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x18",
+      "line": "According to Wikipedia, Sherlock Holmes came first."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 8x01",
+      "line": "Sherlock Holmes always says when you eliminate the impossible,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 8x01",
+      "line": "Th-Th-There's lots of books called “Sherlock Holmes”"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 8x01",
+      "line": "You know, Sherlock Holmes liked to use cocaine to sharpen his focus."
+    }
+  ],
+  "django unchained": [
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 11x13",
+      "line": "not because Craig Schultz is making me."
+    }
+  ],
+  "money heist": [
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 11x14",
+      "line": "instead of Tokyo."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x06",
+      "line": "Not unless she destroys Tokyo."
+    }
+  ],
+  "back to the future": [
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 11x16",
+      "line": "so this diagram is really just a flux capacitor"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 12x10",
+      "line": "No, I had just watched <i>Back to the Future II,</i>"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 12x10",
+      "line": "where Marty McFly gets a glimpse of his future self"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 1x14",
+      "line": "In <i>Back to the Future</i>, Marty McFly got the opportunity"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x01",
+      "line": "<i>Back to the Future II</i> was in the <i>Back to the Future III</i> case..."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x01",
+      "line": "and <i>Back to the Future III</i> was-- get this--"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x01",
+      "line": "in the <i>Back to the Future II</i> case."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x01",
+      "line": "<i>Back to the Future II</i> was in the <i>Back to the</i> <i>Future III</i> case."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 8x05",
+      "line": "the future they show in <i>Back to the Future II</i>"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 8x05",
+      "line": "We got to watch <i>Back to the Future II!</i>"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 8x05",
+      "line": "We saw <i>Back to the Future II,</i>"
+    }
+  ],
+  "Family Matters": [
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 11x20",
+      "line": "I did that?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x07",
+      "line": "I did?"
+    }
+  ],
+  "the lord of the rings: the return of the king": [
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 11x24",
+      "line": "Uh, someone's got to go to Gondor,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 3x17",
+      "line": "forged by Sauron in Mount Doom,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 3x17",
+      "line": "The fires of Mount Doom?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 8x10",
+      "line": "the Stewards of Gondor, and the Japanese Minamoto clan,"
     }
   ],
   "seinfeld": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 12x01 - The Conjugal Configuration.HDTV.KILLERS.en",
+      "episode": "The Big Bang Theory - 12x01",
       "line": "I'm-I'm not Seinfeld funny, but I did an open mic night once."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 5x20",
+      "line": "and not your muscular Nebraska man hands."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 5x20",
+      "line": "Oh, nice job, man hands!"
     }
   ],
   "inside out": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 12x06 - The Imitation Perturbation.HDTV.SVA.en",
+      "episode": "The Big Bang Theory - 12x06",
       "line": "was actually a Captain Kirk mask turned inside out?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 6x16 - The Tangible Affection Proof.en",
-      "line": "I told you, turn them inside out."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 6x16 - The Tangible Affection Proof.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 6x16",
       "line": "I told you, turn them inside out."
     }
   ],
   "gladiator": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 12x06 - The Imitation Perturbation.HDTV.SVA.en",
+      "episode": "The Big Bang Theory - 12x06",
       "line": "I felt like a gladiator."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x09 - The White Asparagus Triangulation.720p HDTV.CTU.en",
+      "episode": "The Big Bang Theory - 2x09",
       "line": "- I'm bleeding. - Like a gladiator!"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x09 - The White Asparagus Triangulation.DVDRip.SAiNTS.en",
-      "line": "Like a gladiator."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x09 - The White Asparagus Triangulation.HDTV.FoV.en",
-      "line": "- I'm bleeding. - Like a gladiator!"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 4x19 - The Zarnecki Incursion.HDTV.FEVER.en",
+      "episode": "The Big Bang Theory - 4x19",
       "line": "my vicious gladiator armor,"
     }
   ],
   "Jerry Maguire": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 12x07 - The Grant Allocation Derivation.HDTV.SVA.en",
+      "episode": "The Big Bang Theory - 12x07",
       "line": "saying, \"Show me the money!\""
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 12x07 - The Grant Allocation Derivation.HDTV.SVA.en",
+      "episode": "The Big Bang Theory - 12x07",
       "line": "Show me the money!"
     }
   ],
-  "back to the future": [
+  "the lion king": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 12x10 - The VCR Illumination.HDTV.SVA.en",
-      "line": "No, I had just watched <i>Back to the Future II,</i>"
+      "episode": "The Big Bang Theory - 12x10",
+      "line": "to <i>The Simpsons,</i> Simba from <i>The Lion King,</i>"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x14 - The Nerdvana Annihilation.DVDRip.FoV.en",
-      "line": "<i>In Back to the Future, Marty McFly got to hook up...</i>"
+      "episode": "The Big Bang Theory - 4x23",
+      "line": "It's the circle of life, sweetie."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x01 - The Hofstadter Insufficiency.720p.WEB-DL.en",
-      "line": "<i>Back to the Future II</i> was in the <i>Back to the Future III</i> case..."
+      "episode": "The Big Bang Theory - 7x14",
+      "line": "the Lion King's dad,"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x01 - The Hofstadter Insufficiency.720p.WEB-DL.en",
-      "line": "and <i>Back to the Future III</i> was-- get this--"
+      "episode": "The Big Bang Theory - 7x14",
+      "line": "Bring it home, Mufasa."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x01 - The Hofstadter Insufficiency.720p.WEB-DL.en",
-      "line": "in the <i>Back to the Future II</i> case."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x01 - The Hofstadter Insufficiency.720p.WEB-DL.en",
-      "line": "<i>Back to the Future II</i> was in the <i>Back to the</i> <i>Future III</i> case."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x01 - The Hofstadter Insufficiency.HDTV.LOL.en",
-      "line": "<i>Back to the Future II</i> was"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x01 - The Hofstadter Insufficiency.HDTV.LOL.en",
-      "line": "in the <i>Back to the Future III</i> case..."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x01 - The Hofstadter Insufficiency.HDTV.LOL.en",
-      "line": "and <i>Back to the Future III</i> was-- get this--"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x01 - The Hofstadter Insufficiency.HDTV.LOL.en",
-      "line": "in the <i>Back to the Future II</i> case."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 8x05 - The Focus Attenuation.HDTV.LOL.HI.en",
-      "line": "the future they show in <i>Back to the Future II</i>"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 8x05 - The Focus Attenuation.HDTV.LOL.HI.en",
-      "line": "We got to watch <i>Back to the Future II!</i>"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 8x05 - The Focus Attenuation.HDTV.LOL.HI.en",
-      "line": "We saw <i>Back to the Future II,</i>"
+      "episode": "The Big Bang Theory - 8x10",
+      "line": "Sing \"Hakuna Matata\" like an eight-year-old girl?"
     }
   ],
   "Captain Phillips": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 12x11 - The Paintball Scattering.HDTV.SVA.en",
+      "episode": "The Big Bang Theory - 12x11",
       "line": "Who wants to be the captain?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 12x16 - The D & D Vortex.HDTV.SVA.en",
+      "episode": "The Big Bang Theory - 12x16",
       "line": "Ooh, can I call you Captain? No."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x19 - The Wheaton Recurrence.720p HDTV.CTU.en",
+      "episode": "The Big Bang Theory - 3x19",
       "line": "but before you stands the co-captain of the"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x19 - The Wheaton Recurrence.720p HDTV.CTU.en",
+      "episode": "The Big Bang Theory - 3x19",
       "line": "I'm the captain. I can do that."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x19 - The Wheaton Recurrence.HDTV.FQM.en",
-      "line": "but before you stands the co-captain of the"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x19 - The Wheaton Recurrence.HDTV.FQM.en",
-      "line": "I'm the captain. I can do that."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x01 - The Skank Reflex Analysis.720p HDTV.IMMERSE.en",
-      "line": "I've decided my rank will be captain."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x01 - The Skank Reflex Analysis.HDTV.ASAP.en",
+      "episode": "The Big Bang Theory - 5x01",
       "line": "I've decided my rank will be captain."
     }
   ],
   "Star Wars": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 12x23-24 - The Change Constant.HDTV.SVA.en",
+      "episode": "The Big Bang Theory - 12x23",
       "line": "So what, now the Force is with you?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x22 - The Proton Transmogrification.720p.WEB-DL.en",
+      "episode": "The Big Bang Theory - 7x22",
       "line": "\"May the force be with you.\" Get it?"
+    }
+  ],
+  "game of thrones": [
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 1x03",
+      "line": "Now given that winter is coming,"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x22 - The Proton Transmogrification.HDTV.LOL.en",
-      "line": "\"May the force be with you.\" Get it?"
+      "episode": "The Big Bang Theory - 8x15",
+      "line": "We still watch Game of Thrones."
     }
   ],
   "Game of Thrones": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x03 - The Fuzzy Boots Corollary.720p HDTV.YesTV.en",
+      "episode": "The Big Bang Theory - 1x03",
       "line": "Now given that winter is coming,"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x03 - The Fuzzy Boots Corollary.HDTV.XOR.en",
-      "line": "Now given that winter is coming,"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 4x13 - The Love Car Displacement.720p HDTV.immerse.en",
-      "line": "I'm prone to night terrors,"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 4x13 - The Love Car Displacement.HDTV.FQM.en",
+      "episode": "The Big Bang Theory - 4x13",
       "line": "I'm prone to night terrors,"
     }
   ],
-  "suits": [
+  "the boys": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x09 - The Cooper-Hofstadter Polarization.720p HDTV.HDQ.en",
-      "line": "Oh, I didn't know they still made corduroy suits."
+      "episode": "The Big Bang Theory - 1x06",
+      "line": "Well, why don't you just tell people you're one of the seven dwarves?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x09 - The Cooper-Hofstadter Polarization.DVDRip.FoV.en",
-      "line": "Oh, I didn't know they still made corduroy suits."
+      "episode": "The Big Bang Theory - 1x13",
+      "line": "either her son or her butcher."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x09 - The Cooper-Hofstadter Polarization.HDTV.XOR.en",
-      "line": "Oh, I didn't know they still made corduroy suits."
+      "episode": "The Big Bang Theory - 2x06",
+      "line": "Forks are for eating, tridents are for ruling the seven seas."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x04 - The Griffin Equivalency.720p HDTV.CTU.en",
-      "line": "Yes, but I'm finding that having a lackey suits me."
+      "episode": "The Big Bang Theory - 3x13",
+      "line": "into this little butcher shop he ran"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x04 - The Griffin Equivalency.DVDRip.SAiNTS.en",
-      "line": "Yes, but I'm finding that having a lackey suits me."
+      "episode": "The Big Bang Theory - 3x13",
+      "line": "Every customer who walked into that butcher shop"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x04 - The Griffin Equivalency.HDTV.DOT.en",
-      "line": "Yes, but I'm finding that having a lackey suits me."
+      "episode": "The Big Bang Theory - 4x18",
+      "line": "like a mannequin in the boys' department."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x04 - The Griffin Equivalency.HDTV.iDontLikeFQM.en",
-      "line": "Yes, but I'm finding that having a lackey suits me."
+      "episode": "The Big Bang Theory - 5x01",
+      "line": "let all the boys see my underpants."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x04 - The Griffin Equivalency.HDTV.NoOneDoes.en",
-      "line": "Yes, but I'm finding that having a lackey suits me."
+      "episode": "The Big Bang Theory - 6x23",
+      "line": "The ladies are away, the boys will play."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x12 - The Shiny Trinket Maneuver.HDTV.ASAP.en",
-      "line": "Well, she cut up one of her old bathing suits."
+      "episode": "The Big Bang Theory - 7x22",
+      "line": "Well, anyway, it'll be a nice surprise for the boys."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x12 - The Shiny Trinket Maneuver.HDTV.en",
-      "line": "Well, she cut up one of her old bathing suits."
+      "episode": "The Big Bang Theory - 8x14",
+      "line": "\"regularly besting the boys in her class,"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x24 - The Countdown Reflection.HDTV.en",
-      "line": "How much urine do these suits hold?"
+      "episode": "The Big Bang Theory - 8x17",
+      "line": "During the seven-month space flight,"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x24 - The Countdown Reflection.HDTV.LOL.en",
-      "line": "How much urine do these suits hold?"
+      "episode": "The Big Bang Theory - 9x03",
+      "line": "I hope the boys don't get too crazy in Mexico."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x12",
+      "line": "Actually, funny story-- the boys in the lab"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x19",
+      "line": "The boys had to drive all the way to San Bernardino"
+    }
+  ],
+  "the witcher": [
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 1x09",
+      "line": "and transfered across the continent via microwave relays back to our ISP"
     }
   ],
   "Seinfeld": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x11 - The Pancake Batter Anomaly.720p HDTV.E7.en",
+      "episode": "The Big Bang Theory - 1x11",
       "line": "I need soup."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x11 - The Pancake Batter Anomaly.720p HDTV.E7.en",
+      "episode": "The Big Bang Theory - 1x11",
       "line": "I want soup."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x11 - The Pancake Batter Anomaly.DVDRip.FoV.en",
-      "line": "I need soup."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x11 - The Pancake Batter Anomaly.DVDRip.FoV.en",
-      "line": "I want soup."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x11 - The Pancake Batter Anomaly.HDTV.FoV.en",
-      "line": "I need soup."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x11 - The Pancake Batter Anomaly.HDTV.FoV.en",
-      "line": "I want soup."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x08 - The Adhesive Duck Deficiency.HDTV.FQM.en",
-      "line": "It's not soup."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x14 - The Einstein Approximation.720p HDTV.CTU.en",
+      "episode": "The Big Bang Theory - 3x14",
       "line": "Here's your soup."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x15 - The Large Hadron Collision.720p HDTV.CTU.en",
-      "line": "Here's your soup."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x15 - The Large Hadron Collision.HDTV.FQM.en",
+      "episode": "The Big Bang Theory - 3x15",
       "line": "Here's your soup."
     }
   ],
   "Columbo": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x11 - The Pancake Batter Anomaly.720p HDTV.E7.en",
-      "line": "One more thing."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 1x11 - The Pancake Batter Anomaly.HDTV.FoV.en",
+      "episode": "The Big Bang Theory - 1x11",
       "line": "One more thing."
     }
   ],
-  "the simpsons": [
+  "the terminator": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x04 - The Griffin Equivalency.DVDRip.SAiNTS.en",
-      "line": "It can't be racist. He's a beloved character on The Simpsons."
+      "episode": "The Big Bang Theory - 2x01",
+      "line": "And Sarah Connor."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x17",
+      "line": "i.e., \"That's Summer Glau from <i>The Sarah Connor Chronicles</i>."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 4x01",
+      "line": "Tomorrow, it travels back in time and tries to kill Sarah Connor."
     }
   ],
   "All About Eve": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x05 - The Euclid Alternative.720p HDTV.CTU.en",
+      "episode": "The Big Bang Theory - 2x05",
       "line": "Okay, fasten your seat belt."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x05 - The Euclid Alternative.DVDRip.SAiNTS.en",
-      "line": "Okay, fasten your seat belt."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x05 - The Euclid Alternative.HDTV.NoTV.en",
-      "line": "Okay, fasten your seat belt."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 4x06 - The Irish Pub Formulation.HDTV.FQM.en",
+      "episode": "The Big Bang Theory - 4x06",
       "line": "Okay. Fasten your seatbelts."
+    }
+  ],
+  "la la land": [
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x07",
+      "line": "to three square miles in the Hollywood Hills."
+    }
+  ],
+  "the silence of the lambs": [
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x16",
+      "line": "a quid pro quo situation where one party provides"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 4x15",
+      "line": "There's no quid pro quo here."
+    }
+  ],
+  "rick and morty": [
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x20",
+      "line": "and is familiar with the reestablishment of the DC multiverse."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 2x20",
+      "line": "What's a \"multiverse\"?"
     }
   ],
   "whiplash": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x20 - The Hofstadter Isotope.720p HDTV.CTU.en",
+      "episode": "The Big Bang Theory - 2x20",
       "line": "You want the one in the whiplash collar or the one who keeps blinking?"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x20 - The Hofstadter Isotope.DVDRip.SAiNTS.en",
-      "line": "You want the one in the whiplash collar or the one who keeps blinking?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 2x20 - The Hofstadter Isotope.HDTV.VAiN.en",
-      "line": "You want the one in the whiplash collar or the one who keeps blinking?"
+      "episode": "The Big Bang Theory - 3x03",
+      "line": "Anna May Fletcher."
     }
   ],
   "dexter": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x06 - The Cornhusker Vortex.720p HDTV.CTU.en",
+      "episode": "The Big Bang Theory - 3x06",
       "line": "All right, point dexter, sit down, shut up and listen."
     }
   ],
   "interstellar": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x16 - The Excelsior Acquisition.720p HDTV.CTU.en",
+      "episode": "The Big Bang Theory - 3x16",
       "line": "for interstellar flight on a silver surfboard"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x16 - The Excelsior Acquisition.HDTV.NoTV.en",
-      "line": "for interstellar flight on a silver surfboard"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 6x18 - The Contractual Obligation Implementation.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 6x18",
       "line": "to invent an interstellar warp drive,"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 8x10 - The Champagne Reflection.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 8x10",
       "line": "some sort of interstellar coordinate system,"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 8x21 - The Communication Deterioration.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 8x16",
+      "line": "Uh, then a wormhole opens,"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 8x21",
       "line": "So the ideal interstellar lingua franca would be haptic."
     }
   ],
   "ghostbusters": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x17 - The Precious Fragmentation.720p HDTV.CTU.en",
-      "line": "It's <i>Ghostbusters 2.</i>"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x17 - The Precious Fragmentation.HDTV.FQM.en",
+      "episode": "The Big Bang Theory - 3x17",
       "line": "It's <i>Ghostbusters 2.</i>"
     }
   ],
   "Star Trek: The Next Generation": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x17 - The Precious Fragmentation.720p HDTV.CTU.en",
-      "line": "that resistance is futile."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x17 - The Precious Fragmentation.HDTV.FQM.en",
+      "episode": "The Big Bang Theory - 3x17",
       "line": "that resistance is futile."
     }
   ],
   "The Lord of the Rings: The Two Towers": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x17 - The Precious Fragmentation.720p HDTV.CTU.en",
-      "line": "My precious."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 3x17 - The Precious Fragmentation.HDTV.FQM.en",
+      "episode": "The Big Bang Theory - 3x17",
       "line": "My precious."
     }
   ],
   "The Wizard of Oz": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 4x05 - The Desperation Emanation.720p HDTV.CTU.en",
-      "line": "It's not a home."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 4x05 - The Desperation Emanation.HDTV.FQM.en",
+      "episode": "The Big Bang Theory - 4x05",
       "line": "It's not a home."
     }
   ],
   "toy story": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 4x07 - The Apology Insufficiency.HDTV.FQM.en",
+      "episode": "The Big Bang Theory - 4x07",
       "line": "I haven't cried like this since <i>Toy Story 3.</i>"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x22 - The Proton Transmogrification.720p.WEB-DL.en",
+      "episode": "The Big Bang Theory - 5x15",
+      "line": "Buzz Lightyear is not real."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 6x02",
+      "line": "I'm basically married to a sexy Buzz Lightyear."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x22",
       "line": "<i>Toy Story 3?</i>"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x22 - The Proton Transmogrification.HDTV.LOL.en",
-      "line": "<i>Toy Story 3?</i>"
-    }
-  ],
-  "the dark knight": [
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 4x17 - The Toast Derivation.HDTV.FQM.en",
-      "line": "Sadly, Penny, this evening, I am the Dark Knight,"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x11 - The Speckerman Recurrence.720p HDTV.IMMERSE.en",
-      "line": "The Dark Knight has your back."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x11 - The Speckerman Recurrence.HDTV.2HD.en",
-      "line": "The Dark Knight has your back."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x11 - The Speckerman Recurrence.HDTV.en",
-      "line": "The Dark Knight has your back."
     }
   ],
   "the crown": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 4x17 - The Toast Derivation.HDTV.FQM.en",
+      "episode": "The Big Bang Theory - 4x17",
       "line": "Because the crown was irregularly shaped,"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 4x17 - The Toast Derivation.HDTV.FQM.en",
+      "episode": "The Big Bang Theory - 4x17",
       "line": "he could immerse the crown"
     }
   ],
-  "the boys": [
+  "finding nemo": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 4x18 - The Prestidigitation Approximation.HDTV.ASAP.en",
-      "line": "like a mannequin in the boys' department."
+      "episode": "The Big Bang Theory - 4x23",
+      "line": "into my circulatory system-- hunky-dory."
+    }
+  ],
+  "The Simpsons": [
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 5x02",
+      "line": "Now take off your shorts."
+    }
+  ],
+  "inception": [
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 5x10",
+      "line": "We should play limbo next."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x01 - The Skank Reflex Analysis.720p HDTV.IMMERSE.en",
-      "line": "let all the boys see my underpants."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x01 - The Skank Reflex Analysis.HDTV.ASAP.en",
-      "line": "let all the boys see my underpants."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 6x23 - The Love Spell Potential.HDTV.09-05-13.en",
-      "line": "The ladies are away, the boys will play."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x22 - The Proton Transmogrification.720p.WEB-DL.en",
-      "line": "Well, anyway, it'll be a nice surprise for the boys."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x22 - The Proton Transmogrification.HDTV.LOL.en",
-      "line": "Well, anyway, it'll be a nice surprise for the boys."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 8x14 - The Troll Manifestation.HDTV.LOL.en",
-      "line": "\"regularly besting the boys in her class,"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 9x03 - The Bachelor Party Corrosion.720p HDTV.[KoTuWa].HI.en",
-      "line": "I hope the boys don't get too crazy in Mexico."
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 9x03 - The Bachelor Party Corrosion.HDTV.LOL.en",
-      "line": "I hope the boys don't get too crazy in Mexico."
+      "episode": "The Big Bang Theory - 5x10",
+      "line": "No one beats me at limbo."
     }
   ],
   "coco": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x14 - The Beta Test Initiation.HDTV.en",
+      "episode": "The Big Bang Theory - 5x14",
       "line": "to paraphrase Coco Chanel,"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 8x22 - The Graduation Transmission.HDTV.DIMENSION.en",
+      "episode": "The Big Bang Theory - 8x22",
       "line": "and Geraldine Coco, wherever you are, thank you."
     }
   ],
-  "breaking bad": [
+  "the mandalorian": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x16 - The Vacation Solution.HDTV.en",
-      "line": "You know, I'm a big believer in breaking bad news"
+      "episode": "The Big Bang Theory - 5x18",
+      "line": "this is the way the world ends--"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 5x19",
+      "line": "This is the way it's supposed to be."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 8x20",
+      "line": "This is the way life is."
     }
   ],
   "Apollo 13": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x18 - The Werewolf Transformation.HDTV.en",
+      "episode": "The Big Bang Theory - 5x18",
       "line": "\"Houston, Texas,"
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 5x18 - The Werewolf Transformation.HDTV.LOL.en",
-      "line": "\"Houston, Texas,"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x17 - The Friendship Turbulence.720p.WEB-DL.en",
-      "line": "Maybe I can go with you guys to Houston?"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x17 - The Friendship Turbulence.HDTV.LOL.en",
-      "line": "where we land in Houston"
-    },
-    {
-      "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x17 - The Friendship Turbulence.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 7x17",
       "line": "Maybe I can go with you guys to Houston?"
     }
   ],
   "Toy Story": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 6x01 - The Date Night Variable.en",
+      "episode": "The Big Bang Theory - 6x01",
       "line": "To infinity and beyond, baby."
     }
   ],
   "Midnight Cowboy": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 6x20 - The Tenure Turbulence.HDTV.x264-LOL.en",
+      "episode": "The Big Bang Theory - 6x20",
       "line": "Walk!"
     }
   ],
-  "the lion king": [
+  "braveheart": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x14 - The Convention Conundrum.720p HDTV.DIMENSION.en",
-      "line": "the Lion King's dad,"
+      "episode": "The Big Bang Theory - 6x21",
+      "line": "Hello. Uh, is this the Bruce Miller who wrote"
+    }
+  ],
+  "the lord of the rings: the two towers": [
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 7x15",
+      "line": "I'm sorry, but \"Gollum\" and \"Flakey\" are not acceptable."
     },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 7x14 - The Convention Conundrum.720p.WEB-DL.en",
-      "line": "The voice of Darth Vader, the Lion King's dad,"
-    }
-  ],
-  "game of thrones": [
+      "episode": "The Big Bang Theory - 7x15",
+      "line": "All right, Gollum, we're good."
+    },
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 8x15 - The Comic Book Store Regeneration.HDTV.LOL.en",
-      "line": "We still watch Game of Thrones."
+      "episode": "The Big Bang Theory - 8x24",
+      "line": "Well, Gollum..."
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x01",
+      "line": "Well, Gollum..."
     }
   ],
   "Guardians of the Galaxy": [
     {
       "source": "The Big Bang Theory",
-      "episode": "The Big Bang Theory - 8x18 - The Leftover Thermalization.HDTV.LOL.en",
+      "episode": "The Big Bang Theory - 8x18",
       "line": "Well, I don't know-- we're all Groot?"
+    },
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x16",
+      "line": "\"We are Groot\"?"
+    }
+  ],
+  "indiana jones and the raiders of the lost ark": [
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 8x19",
+      "line": "with the Ark of the Covenant."
+    }
+  ],
+  "Finding Nemo": [
+    {
+      "source": "The Big Bang Theory",
+      "episode": "The Big Bang Theory - 9x15",
+      "line": "until you can go swimming again."
     }
   ]
 }

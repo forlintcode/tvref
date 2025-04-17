@@ -1,820 +1,742 @@
 {
+  "inception": [
+    {
+      "source": "the office",
+      "episode": "The Office - 1x03",
+      "line": "[Nick] Oh 4:15 when she takes them off to play limbo."
+    },
+    {
+      "source": "the office",
+      "episode": "The Office - 1x03",
+      "line": "The quicker I finish this, then we can play limbo."
+    },
+    {
+      "source": "the office",
+      "episode": "The Office - 2x11",
+      "line": "Not now, Mike, we're doing the limbo !"
+    },
+    {
+      "source": "the office",
+      "episode": "The Office - 2x11",
+      "line": "Ha, ha, that's right, partiers. It's time to limbo, limbo, limbo !"
+    },
+    {
+      "source": "the office",
+      "episode": "The Office - 3x18",
+      "line": "You would not believe how low this girl can limbo."
+    }
+  ],
+  "the social network": [
+    {
+      "source": "the office",
+      "episode": "The Office - 1x03",
+      "line": "You know how it is. -Righto Mark Zuckerberg."
+    },
+    {
+      "source": "the office",
+      "episode": "The Office - 6x24",
+      "line": "<i>PAM: So, it turns out Donna and I have a Facebook friend of a friend in common,</i>"
+    },
+    {
+      "source": "the office",
+      "episode": "The Office - 7x03",
+      "line": "Maybe on my facebook wall."
+    },
+    {
+      "source": "the office",
+      "episode": "The Office - 7x05",
+      "line": "I showed you his picture on facebook."
+    },
+    {
+      "source": "the office",
+      "episode": "The Office - 7x09",
+      "line": "- Hey, I'm wuphf. - I'm facebook."
+    },
+    {
+      "source": "the office",
+      "episode": "The Office - 7x09",
+      "line": "- What's up, facebook?"
+    },
+    {
+      "source": "the office",
+      "episode": "The Office - 7x09",
+      "line": "- I sent you a facebook message yesterday,"
+    },
+    {
+      "source": "the office",
+      "episode": "The Office - 7x09",
+      "line": "Email, Facebook, twitter, and home screen."
+    },
+    {
+      "source": "the office",
+      "episode": "The Office - 7x25",
+      "line": "He \"liked\" my Facebook photos"
+    },
+    {
+      "source": "the office",
+      "episode": "The Office - 8x17",
+      "line": "You're smarter than Mark Zuckerberg"
+    },
+    {
+      "source": "the office",
+      "episode": "The Office - 9x11",
+      "line": "Jim, you got a real Facebook energy going on here, man."
+    },
+    {
+      "source": "the office",
+      "episode": "The Office - 9x16",
+      "line": "We're even Facebook friends now."
+    }
+  ],
   "the matrix": [
     {
       "source": "the office",
-      "episode": "The Office - 1x07 - Away Day.WEB.EDITH.en",
+      "episode": "The Office - 1x07",
       "line": "Were you in The Matrix?"
     },
     {
       "source": "the office",
-      "episode": "The Office - 6x25 - Whistleblower.DVDRip.REWARD.en",
+      "episode": "The Office - 6x25",
       "line": "whether this is all part of The Matrix..."
     }
   ],
-  "The Price Is Right": [
+  "star wars: episode v - the empire strikes back": [
     {
       "source": "the office",
-      "episode": "The Office - 2x01 - The Dundies.en",
-      "line": "- So come on down ! - No."
+      "episode": "The Office - 2x04",
+      "line": "I'm like Mr. Miyagi and Yoda rolled into one."
     },
     {
       "source": "the office",
-      "episode": "The Office - 3x20 - Safety Training.en",
-      "line": "Come on down, okay?"
+      "episode": "The Office - 2x04",
+      "line": "Mm, no. That was Yoda."
     },
     {
       "source": "the office",
-      "episode": "The Office - 4x09 - Dinner Party.LOL.en",
-      "line": "Come on down here."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 5x11 - The Duel.HDTV.LOL.en",
-      "line": "Come on! Come on out!"
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 5x19 - Two Weeks.HDTV.LOL.en",
-      "line": "So everybody, come on down,"
+      "episode": "The Office - 7x19",
+      "line": "[Imitating yoda]"
     }
   ],
-  "The Simpsons": [
+  "the dark knight": [
     {
       "source": "the office",
-      "episode": "The Office - 2x01 - The Dundies.en",
-      "line": "Excellent."
+      "episode": "The Office - 2x04",
+      "line": "He's like Batman, I'm like Robin."
     },
     {
       "source": "the office",
-      "episode": "The Office - 2x15 - Boys and Girls.en",
-      "line": "Excellent."
+      "episode": "The Office - 2x18",
+      "line": "And the people who work here are like citizens of Gotham City."
     },
     {
       "source": "the office",
-      "episode": "The Office - 5x05 - Employee Transfer.HDTV.XOR.en",
-      "line": "excellent."
+      "episode": "The Office - 2x18",
+      "line": "- That's Batman. - Okay,"
     },
     {
       "source": "the office",
-      "episode": "The Office - 6x01 - Gossip.720p HDTV.CTU.en",
-      "line": "Excellent."
+      "episode": "The Office - 8x14",
+      "line": "Sometimes Batman's got to take off his cape."
     },
     {
       "source": "the office",
-      "episode": "The Office - 6x01 - Gossip.HDTV.2hd.en",
-      "line": "Excellent."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 6x01 - Gossip.HDTV.REWARD.en",
-      "line": "Excellent."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 6x09 - Murder.DVDRip.REWARD.en",
-      "line": "Excellent."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 8x20 - Welcome Party.HDTV.2HD.en",
-      "line": "Excellent."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 8x20 - Welcome Party.HDTV.LOL.en",
-      "line": "Excellent."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 8x23 - Turf War.720p HDTV.DIMENSION.en",
-      "line": "Excellent. Excellent."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 9x03 - Andy's Ancestry.HDTV.LOL.en",
-      "line": "Good..."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 9x24-25 - Finale  Part 1.HDTV.LOL.en",
-      "line": "wonderful..."
+      "episode": "The Office - 9x07",
+      "line": "We're trying to reach Jim Halpert, not Batman."
     }
   ],
   "Friends": [
     {
       "source": "the office",
-      "episode": "The Office - 2x05 - Halloween.en",
+      "episode": "The Office - 2x05",
       "line": "Hey,  how you doing ?"
     },
     {
       "source": "the office",
-      "episode": "The Office - 2x13 - The Secret.en",
+      "episode": "The Office - 2x13",
       "line": "How are you doing ?"
     },
     {
       "source": "the office",
-      "episode": "The Office - 4x11 - Night Out.HDTV.FoV.en",
+      "episode": "The Office - 4x11",
       "line": "How's everybody doin'?"
     },
     {
       "source": "the office",
-      "episode": "The Office - 4x13 - Job Fair.HDTV.LOL.en",
+      "episode": "The Office - 4x13",
       "line": "- Hi. - How you doin'?"
     },
     {
       "source": "the office",
-      "episode": "The Office - 5x05 - Employee Transfer.HDTV.XOR.en",
+      "episode": "The Office - 5x05",
       "line": "how you doin'?"
     },
     {
       "source": "the office",
-      "episode": "The Office - 5x08 - Frame Toby.en",
+      "episode": "The Office - 5x08",
       "line": "How you doing?"
     },
     {
       "source": "the office",
-      "episode": "The Office - 6x03 - The Promotion.HDTV.2HD.en",
+      "episode": "The Office - 6x03",
       "line": "How you doing?"
     },
     {
       "source": "the office",
-      "episode": "The Office - 6x17-18 - The Delivery.DVDRip.REWARD.en",
+      "episode": "The Office - 6x17",
       "line": "How you doing?"
     },
     {
       "source": "the office",
-      "episode": "The Office - 6x18-19 - St. Patricks Day.DVDRip.REWARD.en",
-      "line": "How you doing?"
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 7x01 - Nepotism.HDTV.LOL.en",
+      "episode": "The Office - 7x01",
       "line": "- How ya doin'?"
     },
     {
       "source": "the office",
-      "episode": "The Office - 8x15 - Tallahassee.HDTV.LOL.en",
+      "episode": "The Office - 8x15",
       "line": "Break's over!"
     },
     {
       "source": "the office",
-      "episode": "The Office - 8x17 - Test The Store.HDTV.2HD.en",
+      "episode": "The Office - 8x17",
       "line": "I'm on break."
     },
     {
       "source": "the office",
-      "episode": "The Office - 8x22 - Fundraiser.HDTV.en",
+      "episode": "The Office - 8x22",
       "line": "- Hey, how are you? - How you doin'?"
     },
     {
       "source": "the office",
-      "episode": "The Office - 8x22 - Fundraiser.HDTV.en",
+      "episode": "The Office - 8x22",
       "line": "I'm great. How you doin'?"
     },
     {
       "source": "the office",
-      "episode": "The Office - 9x10 - Lice.HDTV.2HD.en",
+      "episode": "The Office - 9x10",
       "line": "How are you doing?"
     },
     {
       "source": "the office",
-      "episode": "The Office - 9x16 - Moving On.HDTV.LOL.en",
+      "episode": "The Office - 9x16",
       "line": "How are you doing?"
     }
   ],
   "titanic": [
     {
       "source": "the office",
-      "episode": "The Office - 2x10 - Christmas Party.en",
+      "episode": "The Office - 2x10",
       "line": "Billy Zane, \"Titanic\"."
     },
     {
       "source": "the office",
-      "episode": "The Office - 2x11 - Booze Cruise.en",
+      "episode": "The Office - 2x11",
       "line": "I mean who saw the movie \"Titanic\" ?"
     },
     {
       "source": "the office",
-      "episode": "The Office - 2x11 - Booze Cruise.en",
+      "episode": "The Office - 2x11",
       "line": "They were very important in the movie \"Titanic\"."
     },
     {
       "source": "the office",
-      "episode": "The Office - 2x11 - Booze Cruise.en",
+      "episode": "The Office - 2x11",
       "line": "- You sure you got the title right ? -  \"Titanic\" ?"
     }
   ],
   "Captain Phillips": [
     {
       "source": "the office",
-      "episode": "The Office - 2x11 - Booze Cruise.en",
+      "episode": "The Office - 2x11",
       "line": "I am the captain."
     },
     {
       "source": "the office",
-      "episode": "The Office - 2x11 - Booze Cruise.en",
+      "episode": "The Office - 2x11",
       "line": "I am the Skipper,"
     },
     {
       "source": "the office",
-      "episode": "The Office - 2x11 - Booze Cruise.en",
+      "episode": "The Office - 2x11",
       "line": "I am the Captain of this party."
     },
     {
       "source": "the office",
-      "episode": "The Office - 2x11 - Booze Cruise.en",
+      "episode": "The Office - 2x11",
       "line": "I'm Captain Jack. I'm Captain of the ship."
     },
     {
       "source": "the office",
-      "episode": "The Office - 2x11 - Booze Cruise.en",
+      "episode": "The Office - 2x11",
       "line": "I'm also captain of anyone who sets foot on this ship."
     },
     {
       "source": "the office",
-      "episode": "The Office - 2x11 - Booze Cruise.en",
+      "episode": "The Office - 2x11",
       "line": "I am your captain, Captain Jack."
     },
     {
       "source": "the office",
-      "episode": "The Office - 9x06 - The Boat.HDTV.LOL.en",
+      "episode": "The Office - 9x06",
       "line": "you're the captain."
     },
     {
       "source": "the office",
-      "episode": "The Office - 9x06 - The Boat.HDTV.LOL.en",
+      "episode": "The Office - 9x06",
       "line": "I am the captain."
     },
     {
       "source": "the office",
-      "episode": "The Office - 9x06 - The Boat.HDTV.LOL.en",
+      "episode": "The Office - 9x06",
       "line": "I'm the captain."
     }
   ],
   "Titanic": [
     {
       "source": "the office",
-      "episode": "The Office - 2x11 - Booze Cruise.en",
+      "episode": "The Office - 2x11",
       "line": "I'm king of the world !"
     }
   ],
   "forrest gump": [
     {
       "source": "the office",
-      "episode": "The Office - 2x12 - The Injury.en",
+      "episode": "The Office - 2x12",
       "line": "Forrest Gump, mentally challenged."
     },
     {
       "source": "the office",
-      "episode": "The Office - 4x01 - Fun Run.en",
+      "episode": "The Office - 2x16",
+      "line": "We have Bubba Gump Shrimp, Red Lobster down there."
+    },
+    {
+      "source": "the office",
+      "episode": "The Office - 4x01",
       "line": "I'm like Forrest Gump, except..."
     },
     {
       "source": "the office",
-      "episode": "The Office - 5x15 - Lecture Circuit (Part 2).HDTV.LOL.en",
+      "episode": "The Office - 5x15",
+      "line": "Sales is like a box of chocolates."
+    },
+    {
+      "source": "the office",
+      "episode": "The Office - 5x15",
       "line": "Forrest gump."
     },
     {
       "source": "the office",
-      "episode": "The Office - 6x09 - Murder.HDTV.LOL.en",
+      "episode": "The Office - 6x10",
       "line": "nice accent. You sound like forrest gump."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 6x10 - Shareholders Meeting.720p HDTV.DIMENSION.en",
-      "line": "nice accent. You sound like forrest gump."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 6x10 - Shareholders Meeting.DVDRip.REWARD.en",
-      "line": "Nice accent. You sound like Forrest Gump."
-    }
-  ],
-  "grey's anatomy": [
-    {
-      "source": "the office",
-      "episode": "The Office - 2x19 - Michael's Birthday.en",
-      "line": "No. I was watching \"Grey's Anatomy\", and there was a lifeguard on it."
     }
   ],
   "die hard": [
     {
       "source": "the office",
-      "episode": "The Office - 3x01 - Gay Witch Hunt.en",
+      "episode": "The Office - 3x01",
       "line": "It wasn't just an action move, it was \"Die Hard.\""
     },
     {
       "source": "the office",
-      "episode": "The Office - 3x02 - The Convention.en",
+      "episode": "The Office - 3x02",
       "line": "What can I say? Old habits die hard."
     },
     {
       "source": "the office",
-      "episode": "The Office - 4x04 - Money.en",
+      "episode": "The Office - 4x04",
       "line": "Here's the thing about <i>Die Hard 4</i>."
     },
     {
       "source": "the office",
-      "episode": "The Office - 4x04 - Money.en",
+      "episode": "The Office - 4x04",
       "line": "<i>Die Hard 1</i>, the original,"
     },
     {
       "source": "the office",
-      "episode": "The Office - 4x04 - Money.en",
+      "episode": "The Office - 4x04",
       "line": "But he's an everyday guy. In <i>Die Hard 4</i>,"
     },
     {
       "source": "the office",
-      "episode": "The Office - 4x04 - Money.en",
+      "episode": "The Office - 4x04",
       "line": "It's just sort of lost from <i>Die Hard 1</i>."
     },
     {
       "source": "the office",
-      "episode": "The Office - 9x01 - The New Guys.HDTV.LOL.en",
+      "episode": "The Office - 9x01",
       "line": "Once again, I understand that old habits die hard,"
     }
   ],
-  "frozen": [
+  "the lion king": [
     {
       "source": "the office",
-      "episode": "The Office - 3x04 - Grief Counseling.en",
-      "line": "I want to be frozen."
+      "episode": "The Office - 3x04",
+      "line": "He was almost 70. Circle of life."
     },
     {
       "source": "the office",
-      "episode": "The Office - 3x04 - Grief Counseling.en",
-      "line": "with a frozen sledgehammer."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 3x14 - The Return.en",
-      "line": "Pam, in the frozen food section,"
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 3x21 - Product Recall.en",
-      "line": "No, she's a part-time frozen yogurt chef."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 4x01 - Fun Run.en",
-      "line": "But all my bags of frozen french fries had been clawed to shreds!"
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 6x03 - The Promotion.HDTV.REWARD.en",
-      "line": "Thinking about having my sperm frozen."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 6x04-05 - Niagara.HDTV.FQM.en",
-      "line": "Thinking about having my sperm frozen."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 6x07 - Koi Pond.HDTV.FQM.en",
-      "line": "always used to throw me into the frozen lake."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 6x08 - Double Date.DVDRip.REWARD.en",
-      "line": "the girls volleyball team always used to throw me into the frozen lake."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 7x24 - Dwight K. Schrute  (Acting) Manager.HDTV.lol.en",
-      "line": "You mean the frozen mice for the piranha?"
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 8x15 - Tallahassee.HDTV.LOL.en",
-      "line": "♪ but he got a coupon for some frozen ♪"
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 9x22-23 - A.A.R.M.HDTV.LOL.en",
-      "line": "full of frozen, premium cattle sperm."
+      "episode": "The Office - 3x04",
+      "line": "And, um, my cousin... Mufasa..."
     }
   ],
   "the simpsons": [
     {
       "source": "the office",
-      "episode": "The Office - 3x06 - Diwali.en",
+      "episode": "The Office - 3x06",
       "line": "Apu, from The Simpsons."
+    },
+    {
+      "source": "the office",
+      "episode": "The Office - 6x24",
+      "line": "King of Prussia? Springfield? Governor's Place?"
+    },
+    {
+      "source": "the office",
+      "episode": "The Office - 7x11",
+      "line": "- [As Homer] D'oh! - [As Marge] Oh, Homey."
     }
   ],
   "The Sixth Sense": [
     {
       "source": "the office",
-      "episode": "The Office - 3x06 - Diwali.en",
+      "episode": "The Office - 3x06",
       "line": "I see dead people."
-    }
-  ],
-  "suits": [
-    {
-      "source": "the office",
-      "episode": "The Office - 3x15 - Ben Franklin.en",
-      "line": "To get your suits to the dry cleaners,"
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 3x23 - Beach Games.en",
-      "line": "Okay, everybody have their towels and swim suits?"
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 3x24 - The Job.en",
-      "line": "Those little pants suits."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 7x06 - Costume Contest.HDTV.LOL.en",
-      "line": "He thought of that way before the corporate fat suits."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 9x07 - The Whale.HDTV.LOL.en",
-      "line": "It's businesswomen and their-- their power suits"
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 9x10 - Lice.HDTV.2HD.en",
-      "line": "Excellent. You have your own hazmat suits?"
     }
   ],
   "braveheart": [
     {
       "source": "the office",
-      "episode": "The Office - 3x15 - Ben Franklin.en",
+      "episode": "The Office - 3x15",
       "line": "I believe from the movie Braveheart,"
     },
     {
       "source": "the office",
-      "episode": "The Office - 3x20 - Safety Training.en",
+      "episode": "The Office - 3x20",
       "line": "You Braveheart, man."
     },
     {
       "source": "the office",
-      "episode": "The Office - 3x20 - Safety Training.en",
+      "episode": "The Office - 3x20",
       "line": "I Braveheart."
+    }
+  ],
+  "star wars: episode vi - return of the jedi": [
+    {
+      "source": "the office",
+      "episode": "The Office - 3x19",
+      "line": "When Han Solo returns to the Death Star in the Millennium Falcon,"
     }
   ],
   "Survivor": [
     {
       "source": "the office",
-      "episode": "The Office - 3x23 - Beach Games.en",
+      "episode": "The Office - 3x23",
       "line": "Each tribe will have a leader."
     }
   ],
   "Apollo 13": [
     {
       "source": "the office",
-      "episode": "The Office - 3x24 - The Job.en",
+      "episode": "The Office - 3x24",
       "line": "- Houston, we have a problem. - What do you want me to do?"
     }
   ],
   "Dr. No": [
     {
       "source": "the office",
-      "episode": "The Office - 4x09 - Dinner Party.LOL.en",
+      "episode": "The Office - 4x09",
       "line": "I am Bond fire... James Bond fire."
     },
     {
       "source": "the office",
-      "episode": "The Office - 6x24 - The Chump.HDTV.LOL.en",
-      "line": "And you know who does that? James freakin' bond."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 6x25 - Whistleblower.DVDRip.REWARD.en",
+      "episode": "The Office - 6x25",
       "line": "You know who does that? James freaking Bond."
     }
   ],
   "the terminator": [
     {
       "source": "the office",
-      "episode": "The Office - 4x09 - Dinner Party.LOL.en",
+      "episode": "The Office - 4x09",
       "line": "- He is the terminator. - Those aren't helpful."
+    }
+  ],
+  "breaking bad": [
+    {
+      "source": "the office",
+      "episode": "The Office - 5x02",
+      "line": "Say my name is lauren,and here I am shopping in a supermarket,"
     }
   ],
   "Scarface": [
     {
       "source": "the office",
-      "episode": "The Office - 5x03 - Baby Shower.HDTV.LOL.en",
+      "episode": "The Office - 5x03",
       "line": "Say hello!"
     },
     {
       "source": "the office",
-      "episode": "The Office - 8x09 - Mrs. California.480p HDTV.DIMENSION.en",
-      "line": "- Hello? - Say \"hello, grandma.\""
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 8x09 - Mrs. California.HDTV.LOL.en",
+      "episode": "The Office - 8x09",
       "line": "- Hello? - Say \"hello, grandma.\""
     }
   ],
   "schindler's list": [
     {
       "source": "the office",
-      "episode": "The Office - 5x06 - Customer Survey.HDTV.LOL.en",
+      "episode": "The Office - 5x06",
       "line": "<i>Schindler's list parody.</i>"
     }
   ],
   "Jerry Maguire": [
     {
       "source": "the office",
-      "episode": "The Office - 5x08 - Frame Toby.en",
+      "episode": "The Office - 5x08",
       "line": "Give me the money"
     }
   ],
   "Taxi Driver": [
     {
       "source": "the office",
-      "episode": "The Office - 5x13 - Stress Relief.HDTV.2HD.en",
+      "episode": "The Office - 5x13",
       "line": "- You talking to me? - Yeah."
     }
   ],
   "The Godfather Part II": [
     {
       "source": "the office",
-      "episode": "The Office - 5x20 - Dream Team.en",
+      "episode": "The Office - 5x20",
       "line": "Keep your friends close."
     }
   ],
   "Columbo": [
     {
       "source": "the office",
-      "episode": "The Office - 5x22 - Heavy Competition.HDTV.LOL.en",
+      "episode": "The Office - 5x22",
       "line": "Oh,one more thing."
     }
   ],
   "back to the future": [
     {
       "source": "the office",
-      "episode": "The Office - 5x26 - Company Picnic.HDTV.en",
+      "episode": "The Office - 5x26",
       "line": "- We couldo back to the future. - Oh!"
     }
   ],
   "toy story": [
     {
       "source": "the office",
-      "episode": "The Office - 6x03 - The Promotion.HDTV.REWARD.en",
-      "line": "<i>Toy Story, Finding Nemo, Up.</i>"
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 6x04-05 - Niagara.HDTV.FQM.en",
-      "line": "Toy story,finding nemo,up,i balled the entire time."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 6x07 - Koi Pond.HDTV.FQM.en",
-      "line": "Toy story."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 6x08 - Double Date.DVDRip.REWARD.en",
+      "episode": "The Office - 6x08",
       "line": "<i>Toy Story. Don't you mean Koi Story?</i>"
     },
     {
       "source": "the office",
-      "episode": "The Office - 7x11-12 - Classy Christmas (Part 1).HDTV.LOL.en",
+      "episode": "The Office - 7x11",
       "line": "<i>You know who my favorite character in toy story is?</i>"
     },
     {
       "source": "the office",
-      "episode": "The Office - 7x11-12 - Classy Christmas (Part 1).HDTV.LOL.en",
+      "episode": "The Office - 7x11",
       "line": "<i>Aj said he hadn't seen any of the toy story movies.</i>"
     },
     {
       "source": "the office",
-      "episode": "The Office - 7x11-12 - Classy Christmas (Part 1).HDTV.LOL.en",
+      "episode": "The Office - 7x11",
       "line": "<i>Now he's the biggest toy story fanatic ever.</i>"
     },
     {
       "source": "the office",
-      "episode": "The Office - 7x11-12 - Classy Christmas (Part 1).HDTV.LOL.en",
+      "episode": "The Office - 7x11",
       "line": "<i>Toy story is all about toys that come to life</i>"
     },
     {
       "source": "the office",
-      "episode": "The Office - 9x18 - Promos.HDTV.LOL.en",
+      "episode": "The Office - 9x18",
       "line": "- Like in <i>Toy Story.\"</i> <i>- Wow.</i>"
     }
   ],
-  "finding nemo": [
+  "the lord of the rings: the two towers": [
     {
       "source": "the office",
-      "episode": "The Office - 6x03 - The Promotion.HDTV.REWARD.en",
-      "line": "<i>Toy Story, Finding Nemo, Up.</i>"
+      "episode": "The Office - 6x16",
+      "line": "Well, I think he can be corrupted. Like Gollum."
     },
     {
       "source": "the office",
-      "episode": "The Office - 6x04-05 - Niagara.HDTV.FQM.en",
-      "line": "Toy story,finding nemo,up,i balled the entire time."
-    }
-  ],
-  "The Dark Knight": [
-    {
-      "source": "the office",
-      "episode": "The Office - 6x11 - Scott's Tots.HDTV.LOL.en",
-      "line": "Is it serious?"
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 6x12 - Secret Santa.DVDRip.REWARD.en",
-      "line": "Is it serious?"
-    }
-  ],
-  "Full House": [
-    {
-      "source": "the office",
-      "episode": "The Office - 6x16-17 - The Delivery.HDTV.LOL.en",
-      "line": "You got it!"
-    }
-  ],
-  "casablanca": [
-    {
-      "source": "the office",
-      "episode": "The Office - 6x19 - New Leads.HDTV.Lol.en",
-      "line": "That he thinks was in casablanca."
+      "episode": "The Office - 6x16",
+      "line": "Smeagol was corrupted and became Gollum."
     }
   ],
   "When Harry Met Sally...": [
     {
       "source": "the office",
-      "episode": "The Office - 6x21 - Secretary's Day.HDTV.2HD.en",
-      "line": "I'll have what she's having."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 6x22 - Body Language.DVDRip.REWARD.en",
+      "episode": "The Office - 6x22",
       "line": "I'll have what she's having."
     }
   ],
   "dexter": [
     {
       "source": "the office",
-      "episode": "The Office - 6x22 - Body Language.HDTV.2HD.en",
-      "line": "The manager of sid & dexter's."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 6x23 - The Cover-Up.DVDRip.REWARD.en",
+      "episode": "The Office - 6x23",
       "line": "Her name is Donna. Manager of a Sid and Dexter's."
     }
   ],
   "ghostbusters": [
     {
       "source": "the office",
-      "episode": "The Office - 7x01 - Nepotism.HDTV.LOL.en",
+      "episode": "The Office - 7x01",
       "line": "<i>Haven't you seen ghostbusters, Pam?</i>"
     }
   ],
   "sherlock": [
     {
       "source": "the office",
-      "episode": "The Office - 7x05 - The Sting.HDTV.LOL.en",
+      "episode": "The Office - 7x05",
       "line": "- Not to go all Sherlock Holmes on you,"
     },
     {
       "source": "the office",
-      "episode": "The Office - 8x17 - Test The Store.HDTV.2HD.en",
+      "episode": "The Office - 8x17",
       "line": "Yeah, no [Bleep], Sherlock! Can somebody please tell me"
     }
   ],
   "A Few Good Men": [
     {
       "source": "the office",
-      "episode": "The Office - 7x06 - Costume Contest.HDTV.LOL.en",
+      "episode": "The Office - 7x06",
       "line": "Ooh. You can't handle the truth."
-    }
-  ],
-  "The Godfather": [
-    {
-      "source": "the office",
-      "episode": "The Office - 7x07 - Christening.HDTV.LOL.en",
-      "line": "I got an offer that you can't refuse."
-    }
-  ],
-  "the godfather": [
-    {
-      "source": "the office",
-      "episode": "The Office - 7x07 - Christening.HDTV.LOL.en",
-      "line": "But I'm the godfather."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 7x07 - Christening.HDTV.LOL.en",
-      "line": "Because you are not the godfather."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 7x07 - Christening.HDTV.LOL.en",
-      "line": "I'm not the godfather."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 7x07 - Christening.HDTV.LOL.en",
-      "line": "So who is the godfather?"
     }
   ],
   "E.T. the Extra-Terrestrial": [
     {
       "source": "the office",
-      "episode": "The Office - 7x13 - Ultimatum.HDTV.lol.en",
+      "episode": "The Office - 7x13",
       "line": "E.T. Phone Holly."
     }
   ],
   "Family Matters": [
     {
       "source": "the office",
-      "episode": "The Office - 7x18 - Todd Packer.HDTV.en",
+      "episode": "The Office - 7x18",
       "line": "You did that?"
     },
     {
       "source": "the office",
-      "episode": "The Office - 7x19 - Garage Sale.HDTV.lol.en",
+      "episode": "The Office - 7x19",
       "line": "I did?"
+    }
+  ],
+  "star wars": [
+    {
+      "source": "the office",
+      "episode": "The Office - 7x21",
+      "line": "Always the Padawan, never the Jedi."
+    },
+    {
+      "source": "the office",
+      "episode": "The Office - 9x18",
+      "line": "\"Gotta go. Darth Vader's launching a huge attack.\""
+    },
+    {
+      "source": "the office",
+      "episode": "The Office - 9x18",
+      "line": "to Darth Vader."
+    }
+  ],
+  "prison break": [
+    {
+      "source": "the office",
+      "episode": "The Office - 8x02",
+      "line": "T-bag-bone."
     }
   ],
   "Game of Thrones": [
     {
       "source": "the office",
-      "episode": "The Office - 8x04 - Garden Party.en",
+      "episode": "The Office - 8x04",
       "line": "It's getting chilly."
     },
     {
       "source": "the office",
-      "episode": "The Office - 8x14 - Special Project.HDTV.2HD.en",
+      "episode": "The Office - 8x14",
       "line": "It has been a long, lonely winter."
     },
     {
       "source": "the office",
-      "episode": "The Office - 9x24-25 - Finale  Part 1.HDTV.LOL.en",
+      "episode": "The Office - 9x24",
       "line": "For lo, the winter is passed."
+    }
+  ],
+  "citizen kane": [
+    {
+      "source": "the office",
+      "episode": "The Office - 8x04",
+      "line": "Guess we found Andy's rosebud."
+    },
+    {
+      "source": "the office",
+      "episode": "The Office - 8x04",
+      "line": "Rosebud?"
+    },
+    {
+      "source": "the office",
+      "episode": "The Office - 8x04",
+      "line": "Rosebud didn't explain why he was how he was."
     }
   ],
   "Citizen Kane": [
     {
       "source": "the office",
-      "episode": "The Office - 8x04 - Garden Party.en",
+      "episode": "The Office - 8x04",
       "line": "Rosebud?"
     }
   ],
   "south park": [
     {
       "source": "the office",
-      "episode": "The Office - 8x05 - Spooked.HDTV.DIMENSION.en",
+      "episode": "The Office - 8x05",
       "line": "♪ from South park! It's genius!"
+    }
+  ],
+  "the notebook": [
+    {
+      "source": "the office",
+      "episode": "The Office - 8x11",
+      "line": "Love letters, yes!"
     }
   ],
   "Toy Story": [
     {
       "source": "the office",
-      "episode": "The Office - 8x11 - Trivia.HDTV.en",
-      "line": "Infinity!"
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 8x11 - Trivia.HDTV.LOL.en",
+      "episode": "The Office - 8x11",
       "line": "Infinity!"
     }
   ],
   "Seinfeld": [
     {
       "source": "the office",
-      "episode": "The Office - 8x24 - Free Family Portrait Studio.720p HDTV.DIMENSION.en",
+      "episode": "The Office - 8x24",
       "line": "Well, I don't want any soup."
-    },
-    {
-      "source": "the office",
-      "episode": "The Office - 8x24 - Free Family Portrait Studio.HDTV.en",
-      "line": "- Well, I don't want any soup."
     }
   ],
   "There Will Be Blood": [
     {
       "source": "the office",
-      "episode": "The Office - 9x12 - Customer Loyalty.HDTV.LOL.en",
+      "episode": "The Office - 9x12",
       "line": "And your milkshake."
     },
     {
       "source": "the office",
-      "episode": "The Office - 9x12 - Customer Loyalty.HDTV.LOL.en",
+      "episode": "The Office - 9x12",
       "line": "You're drinking a milkshake?"
     },
     {
       "source": "the office",
-      "episode": "The Office - 9x12 - Customer Loyalty.HDTV.LOL.en",
+      "episode": "The Office - 9x12",
       "line": "You just threw a milkshake"
     }
   ],
   "Scooby-Doo": [
     {
       "source": "the office",
-      "episode": "The Office - 9x17 - The Farm.HDTV.LOL.en",
+      "episode": "The Office - 9x17",
       "line": "- Ziek's here. - Ziek!"
     }
   ]

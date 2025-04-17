@@ -11,9 +11,16 @@ const Home = () => {
       .then((res) => res.json())
       .then((data) => {
         console.log("Shows fetched from backend:", data);
-        setShows(data);
-        setLoading(false); // Data has been fetched, set loading to false
-      })
+      
+        // Normalize and de-duplicate
+        const normalized = data.map((s: string) => s.trim());
+        const filtered = normalized.filter((show: string) => show.toLowerCase() !== "friends");
+      
+        const reordered = ["Friends", ...filtered];
+      
+        setShows(reordered);
+        setLoading(false);
+      })      
       .catch((err) => {
         console.error("Failed to fetch shows:", err);
         setLoading(false); // Handle error and stop loading
@@ -23,7 +30,7 @@ const Home = () => {
   return (
     <div className="relative min-h-screen bg-[#121212] text-white overflow-hidden">
       <div className="relative z-10 p-6 sm:p-8">
-        <h3 className="animate-tubeFlicker font-retro text-4xl md:text-5xl font-semibold text-[#BBBBBB] tracking-widest text-center mb-6">
+        <h3 className="animate-tubeFlicker text-4xl md:text-5xl font-retro font-semibold text-[#BBBBBB] tracking-widest text-center mb-6">
           TV Reference Explorer
         </h3>
 
@@ -41,19 +48,19 @@ const Home = () => {
           </span>
         </blockquote>
 
-        {/* New: What is this */}
         {/* 👇 Updated "What is this" section */}
-<div className="text-center text-[#aaa] mb-8 max-w-3xl mx-auto">
-  <h4 className="text-lg font-semibold text-[#BBBBBB] mb-2">What is this?</h4>
-  <p className="text-sm">
-    Ever watched a show and thought, “Hey, that line sounds familiar”? TV Reference Explorer helps you find out where it came from.
-    It scans shows like <em>Friends</em>, <em>The Office</em>, and more to spot when they mention or quote other shows or movies — like a pop culture detective. 
-  </p>
-  <p className="text-sm mt-2">
-    Click on a show below to explore who it references, and where it might’ve been referenced too. It's fun, a little nerdy, and still a work in progress — so expect a few surprises!
-  </p>
-</div>
-
+        <div className="text-center text-[#aaa] mb-8 max-w-3xl mx-auto">
+          <h4 className="text-lg font-semibold text-[#BBBBBB] mb-2">What is this?</h4>
+          <p className="text-sm">
+            Ever watched a show and thought, “Hey, that line sounds familiar”? TV Reference Explorer helps you find out where it came from.
+            It scans shows like <em>Friends</em>, <em>The Office</em>, and more to spot when they mention or quote other shows or movies — like a pop culture detective. 
+          </p>
+          <p className="text-sm mt-2">
+            Click on a show below to explore who it references, and where it might’ve been referenced too. It's fun, a little nerdy, and still a work in progress — so expect a few surprises!
+          </p>
+        </div>
+        <div className="border-t-2 border-grey w-1/3 mx-auto my-6" />            
+       
 
         {/* ✅ Compact Grid */}
         <div className="text-center text-white mb-6">
@@ -69,6 +76,7 @@ const Home = () => {
             </div>
           )}
         </div>
+
 
         {/* 🔜 More coming */}
         <p className="text-center font-semibold text-sm text-[#777] mt-6 italic">

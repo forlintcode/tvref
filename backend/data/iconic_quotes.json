@@ -354,12 +354,6 @@
         "end_year": 2013
     },
     {
-        "quote": "How you doin'?",
-        "show": "Friends",
-        "start_year": 1994,
-        "end_year": 2004
-    },
-    {
         "quote": "We were on a break!",
         "show": "Friends",
         "start_year": 1994,
@@ -408,12 +402,6 @@
         "end_year": 1995
     },
     {
-        "quote": "I want to believe.",
-        "show": "The X-Files",
-        "start_year": 1993,
-        "end_year": 2018
-    },
-    {
         "quote": "Cowabunga!",
         "show": "Teenage Mutant Ninja Turtles",
         "start_year": 1987,
@@ -433,12 +421,6 @@
     },
     {
         "quote": "Eat my shorts!",
-        "show": "The Simpsons",
-        "start_year": 1989,
-        "end_year": 2025
-    },
-    {
-        "quote": "Excellent...",
         "show": "The Simpsons",
         "start_year": 1989,
         "end_year": 2025
@@ -556,12 +538,6 @@
         "show": "Who Wants to Be a Millionaire?",
         "start_year": 1999,
         "end_year": 2020
-    },
-    {
-        "quote": "Come on down!",
-        "show": "The Price Is Right",
-        "start_year": 1972,
-        "end_year": 2025
     },
     {
         "quote": "I'm the captain now.",

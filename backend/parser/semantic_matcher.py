@@ -17,10 +17,19 @@ with open(data_path, "r", encoding="utf-8") as f:
 print(f"✅ Loaded {len(quotes_data)} iconic quotes.")
 
 # Precompute embeddings
-quotes = [entry["quote"] for entry in quotes_data]
+quotes = [entry["quote"] for entry in quotes_data if "quote" in entry and entry["quote"].strip()]
+
+if not quotes:
+    raise ValueError("🚨 No quotes found in iconic_quotes.json! Check for empty or malformed entries.")
 quote_embeddings = model.encode(quotes, convert_to_tensor=True)
 def find_semantic_matches(text, top_k=3, threshold=0.7, exclude_show=None, source_end_year=None):
     """Find the top-k most similar quotes in the dataset, ensuring they started before the given end year."""
+    if not text.strip():
+        print("⚠️ Skipping empty or whitespace-only subtitle line.")
+        return []
+    input_embedding = model.encode(text, convert_to_tensor=True)
+    ...
+
     input_embedding = model.encode(text, convert_to_tensor=True)
     scores = util.cos_sim(input_embedding, quote_embeddings)[0]
 

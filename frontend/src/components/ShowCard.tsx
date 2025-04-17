@@ -6,13 +6,15 @@ function ShowCard({ name }: { name: string }) {
   return (
     <div
       onClick={() => navigate(`/graph/${name}`)}
-      className="bg-[#1f1f1f] border-2 border-[#333] rounded-xl p-3 
-                 flex items-center justify-center h-28 w-36 cursor-pointer 
-                 shadow-md transition-all duration-300 ease-in-out transform hover:scale-105 
-                 hover:border-cyan-500 hover:bg-[#2a2a2a]"
+      className="bg-gradient-to-br from-[#2b2b2b]/60 to-[#1a1a1a]/60 
+                 border border-white/14 backdrop-blur-md 
+                 rounded-2xl p-3 flex items-center justify-center 
+                 h-28 w-36 cursor-pointer shadow-sm 
+                 transition-all duration-300 ease-in-out transform 
+                 hover:scale-105 hover:border-cyan-500"
     >
-      <h2 className="text-base font-semibold text-[#ddd] text-center capitalize tracking-wide 
-                    transition-all duration-300 ease-in-out transform hover:text-cyan-400 break-words">
+      <h2 className="text-sm font-semibold text-[#e5e5e5] text-center capitalize tracking-wide 
+                    transition-colors duration-300 ease-in-out hover:text-cyan-400 break-words">
         {name}
       </h2>
     </div>
