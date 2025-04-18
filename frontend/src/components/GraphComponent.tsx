@@ -57,7 +57,7 @@ const getGradientColor = (startColor: string, endColor: string, percent: number)
   return rgbToHex(resultRGB);
 };
 
-const IGNORE_NODES = ["the boys"]; // Add lowercased node IDs to ignore
+const IGNORE_NODES = ["the boys","stranger things"]; // Add lowercased node IDs to ignore
 
 const GraphComponent: React.FC<Props> = ({ data, showName }) => {
   const fgRef = useRef<any>();
