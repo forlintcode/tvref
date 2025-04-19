@@ -86,7 +86,14 @@ const Home = () => {
     rel="noopener noreferrer"
     className="text-[#aaa] hover:text-white transition block"
   >
-            🕰️ <span className="italic">Samay</span> – A website that helps you maximize your vacation time with smart leave planning.
+      <a
+    href="https://samay.onrender.com"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-blue-400 hover:underline transition"
+  >
+    <span className="italic">Samay</span> – A website that helps you maximize your vacation time with smart leave planning.
+  </a>
   </a>
 </div>
 
