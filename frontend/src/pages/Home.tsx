@@ -76,36 +76,50 @@ const Home = () => {
         </p>
 
         <div className="mt-8 text-center text-[#888] text-sm">
-          <p className="mb-2 italic">
-            Made with obsessive love for shows and an unhealthy amount of quoting them 🎬💭
-          </p>
-          <div className="flex justify-center gap-4 text-[#aaa]">
-            <a
-              href="https://github.com/kvshravan"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-white transition"
-            >
-              GitHub
-            </a>
-            <a
-              href="https://in.linkedin.com/in/kandadishravan"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-white transition"
-            >
-              LinkedIn
-            </a>
-            <a
-              href="https://x.com/shravuuuuuuu"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-white transition"
-            >
-              Twitter
-            </a>
-          </div>
-        </div>
+        <div className="mb-4">
+  <h5 className="font-semibold text-[#BBBBBB] mb-1">
+    When I’m not obsessing over TV references, I’m building other weirdly useful websites like...
+  </h5>
+  <a
+    href="https://samay.onrender.com"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-[#aaa] hover:text-white transition block"
+  >
+            🕰️ <span className="italic">Samay</span> – A website that helps you maximize your vacation time with smart leave planning.
+  </a>
+</div>
+
+
+  {/* Social Links */}
+  <div className="flex justify-center gap-4 text-[#aaa]">
+    <a
+      href="https://github.com/kvshravan"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="hover:text-white transition"
+    >
+      GitHub
+    </a>
+    <a
+      href="https://in.linkedin.com/in/kandadishravan"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="hover:text-white transition"
+    >
+      LinkedIn
+    </a>
+    <a
+      href="https://x.com/shravuuuuuuu"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="hover:text-white transition"
+    >
+      Twitter
+    </a>
+  </div>
+</div>
+
       </div>
     </div>
   );

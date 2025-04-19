@@ -15,7 +15,7 @@ function GraphView() {
 
   // Reset scroll position when the component is mounted
   useEffect(() => {
-    window.scrollTo(0, 0);  // This will scroll to the top of the page when the component loads
+    window.scrollTo(0, 0);
   }, []);
 
   useEffect(() => {
@@ -36,6 +36,22 @@ function GraphView() {
       fetchGraph();
     }
   }, [showName]);
+
+  useEffect(() => {
+    if (graph) {
+      // Optional delay before showing the info modal
+      const timer = setTimeout(() => {
+        const seenInfo = localStorage.getItem('hasSeenInfo');
+        if (!seenInfo) {
+          setIsModalOpen(true);
+          fetchTvShowReferences();
+          localStorage.setItem('hasSeenInfo', 'true');
+        }
+      }, 2000); // Adjust delay (in ms) as needed
+
+      return () => clearTimeout(timer);
+    }
+  }, [graph]);
 
   const handleNodeClick = async (nodeId: string) => {
     try {
@@ -69,12 +85,10 @@ function GraphView() {
           ← Home
         </button>
 
-        {/* Adjusted font size for responsive design */}
         <h1 className="text-xl sm:text-2xl md:text-3xl font-bold text-white">
           📺 {showName}
         </h1>
 
-        {/* Info Button */}
         <button
           onClick={() => {
             setIsModalOpen(true);
@@ -118,23 +132,23 @@ function GraphView() {
       {isModalOpen && (
         <div className="fixed inset-0 bg-black bg-opacity-70 flex justify-center items-center z-50">
           <div className="bg-[#222] p-6 rounded-lg w-[90%] sm:w-[400px]">
-            <h2 className="text-xl text-cyan-400 font-bold">Node Color Legend</h2>
-            <ul className="mt-4 text-gray-400 text-sm space-y-2">
-              <li>🔆 Brighter nodes have <span className="text-cyan-200">higher reference counts</span>.</li>
-              <li>🎯 Source nodes are highlighted with <span className="text-yellow-400">yellow</span>.</li>
-              <li>
-                &#x1F448; Clicking on a node will expand and show the references.
-              </li>
-            </ul>
+          <h2 className="text-xl text-cyan-400 font-bold">How This Works</h2>
+<ul className="mt-4 text-gray-300 text-sm space-y-3">
+  <li>✨ <span className="text-cyan-300 font-semibold">Brighter circles</span> = more mentions.</li>
+  <li>🎯 <span className="text-yellow-300 font-semibold">Yellow</span> = the main show you're exploring.</li>
+  <li>🖱️ Click any circle to see the references made to that specific show.</li>
+  <li>📺 Use this to discover fun TV references across shows!</li>
+</ul>
 
-            <div className="mt-4 flex justify-end">
-              <button
-                onClick={() => setIsModalOpen(false)}
-                className="text-cyan-400 hover:text-cyan-300 font-semibold"
-              >
-                Close
-              </button>
-            </div>
+<div className="mt-6 flex justify-end">
+  <button
+    onClick={() => setIsModalOpen(false)}
+    className="text-cyan-400 hover:text-cyan-300 font-semibold"
+  >
+    Close
+  </button>
+</div>
+
           </div>
         </div>
       )}
